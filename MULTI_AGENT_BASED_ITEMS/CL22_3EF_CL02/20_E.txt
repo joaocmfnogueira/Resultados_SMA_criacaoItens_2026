@@ -1,0 +1,24 @@
+Questão 20
+Origem: 04_saida.json
+Competência Avaliada: Reconhecer, em textos de nível 1, relações lógico-discursivas de causalidade marcadas por conjunções mais usuais.
+Comando: Leia o texto.
+Texto de Suporte:
+Amiga Ana,
+
+Fiquei muito feliz porque você veio ao meu aniversário. Eu estava com saudade, pois fazia muito tempo que não nos víamos. A festa foi divertida porque todos os meus amigos estavam lá. Ganhei muitos presentes, já que convidei bastante gente. Espero que tenha gostado do bolo, pois escolhi o seu sabor preferido. Da próxima vez, quero brincar mais com você, porque adoro sua companhia.
+
+Um abraço,
+
+Roberta
+Pergunta:
+Segundo o texto, foi divertido o aniversário de Roberta porque:
+Opções:
+-> a) Todos os amigos estavam presentes.
+   b) Ela ganhou muitos presentes bonitos.
+   c) Ana levou um bolo gostoso.
+   d) Ela sentia saudade de Ana.
+Justificativas:
+a) GABARITO. O estudante que marcou essa alternativa reconheceu corretamente a relação de causa e consequência marcada pela conjunção 'porque'. No texto, Roberta afirma que 'A festa foi divertida porque todos os meus amigos estavam lá', estabelecendo uma relação direta e explícita entre a presença dos amigos e a diversão na festa.
+b) INCORRETA. O estudante que marcou essa alternativa associou diversão ao fato de Roberta ter ganhado muitos presentes bonitos, mobilizando uma informação verdadeira do texto, mas que não responde à relação causal solicitada no comando. O fato de ganhar presentes está relacionado ao convite de muita gente ('Ganhei muitos presentes, já que convidei bastante gente'), não à diversão.
+c) INCORRETA. O estudante pode ter relacionado diversão ao bolo, confundindo a informação textual. No texto, não é dito que Ana levou o bolo, apenas que Roberta escolheu o sabor preferido da amiga. A opção traz um dado não presente no texto e não estabelece relação causal com a diversão da festa.
+d) INCORRETA. O estudante selecionou informação verdadeira ('estava com saudade de Ana'), mas essa ideia explica o sentimento de saudade, não a diversão. A relação causal da diversão está vinculada explicitamente à presença de todos os amigos, não ao fato de Roberta sentir saudade.

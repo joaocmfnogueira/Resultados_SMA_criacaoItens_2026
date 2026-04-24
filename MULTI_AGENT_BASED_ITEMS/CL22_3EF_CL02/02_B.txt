@@ -1,0 +1,24 @@
+Questão 2
+Origem: 01_saida.json
+Competência Avaliada: Reconhecer, em textos de nível 1, relações lógico-discursivas de causalidade marcadas por conjunções mais usuais.
+Comando: Leia o texto.
+Texto de Suporte:
+Carol,
+
+Estou escrevendo para contar o que quero ser quando crescer. Decidi ser veterinária porque amo cuidar dos animais. Sempre que vejo um cachorro ou um gato na rua, fico preocupada se estão bem. Já que gosto muito de ajudar, acho que essa profissão combina comigo. Também penso em estudar bastante, pois sei que preciso de muito conhecimento para cuidar dos bichinhos. Meu pai disse que vai me apoiar, por isso estou muito animada!
+Escreva contando o que você quer ser também.
+
+Com carinho,
+Luiza.
+Pergunta:
+De acordo com o texto, por que Luiza decidiu ser veterinária?
+Opções:
+-> a) Porque ama cuidar dos animais.
+   b) Porque vai estudar bastante.
+   c) Porque vai receber apoio do pai.
+   d) Porque quer saber o que Carol deseja ser.
+Justificativas:
+a) GABARITO: Os estudantes que escolheram esta alternativa identificaram corretamente a relação de causalidade solicitada no comando. No texto, Luiza afirma explicitamente: "Decidi ser veterinária porque amo cuidar dos animais." A conjunção "porque" indica a causa da decisão de Luiza em querer ser veterinária, mostrando que foi motivada pelo amor em cuidar dos animais.
+b) INCORRETA: Quem marcou essa opção focou em outro trecho do texto, em que Luiza menciona a necessidade de estudar bastante para exercer a profissão. Contudo, estudar não foi apontado como motivo de querer ser veterinária, mas sim como algo que ela pretende fazer após a escolha da profissão.
+c) INCORRETA: Essa alternativa se baseia no trecho em que Luiza menciona que receberá apoio do pai. Entretanto, esse apoio é apresentado como consequência após a decisão e não como causa de sua escolha pela profissão de veterinária.
+d) INCORRETA: Esta alternativa confunde o propósito do fechamento da carta, no qual Luiza convida Carol para contar sobre o que quer ser. Isso não tem relação causal com a decisão de Luiza sobre sua futura profissão, apenas sugere um diálogo entre amigas.

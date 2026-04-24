@@ -1,0 +1,23 @@
+Questão 33
+Origem: 07_saida.json
+Competência Avaliada: Reconhecer, em textos de nível 1, relações lógico-discursivas de causalidade marcadas por conjunções mais usuais.
+Comando: Leia o texto.
+Texto de Suporte:
+Oi Henrique,
+
+Estou muito feliz porque comecei as aulas de natação esta semana. Minha mãe me matriculou pois o médico recomendou que eu praticasse um esporte. No começo eu estava com medo, já que nunca tinha entrado em uma piscina tão grande. O professor é muito legal e ajuda todos os alunos. Agora já estou animado para ir às aulas, por isso acordo cedo todos os dias. Espero que um dia você possa nadar comigo!
+
+Um abraço,
+Joana.
+Pergunta:
+De acordo com o texto, Joana está animada para ir às aulas de natação porque:
+Opções:
+   a) Porque acha o professor muito legal e recebe ajuda dele.
+   b) Porque nunca tinha entrado em uma piscina tão grande.
+   c) Porque passou a acordar cedo todos os dias para treinar.
+-> d) Porque começou as aulas de natação e está gostando.
+Justificativas:
+a) INCORRETA. Embora Joana considere o professor muito legal e receba ajuda dele, essa não é apresentada como a causa direta de sua animação, mas sim um elemento do contexto.
+b) INCORRETA. O fato de nunca ter entrado em uma piscina tão grande explica o medo inicial de Joana, e não o motivo de sua animação atual para as aulas.
+c) INCORRETA. Acordar cedo todos os dias é consequência de sua animação, não a causa; a alternativa inverte a relação de causa e efeito.
+d) CORRETA. O texto deixa claro que Joana começou as aulas de natação e está gostando delas; essa satisfação é a razão de sua animação para ir às aulas.

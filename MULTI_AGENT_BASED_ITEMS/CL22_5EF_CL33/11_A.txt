@@ -1,0 +1,26 @@
+Questão 11
+Origem: 03_saida.json
+Competência Avaliada: Reconhecer, relações lógico-discursivas de condição, marcadas por conjunções mais usuais em notícias.
+Comando: Leia o texto.
+Texto de Suporte:
+Neto do Pelé fica famoso com golaço que caiu na internet
+
+Octávio brinca com a bola desde que era bebê. Aos três anos, começou a jogar futebol na escolinha do Santos. Agora, com 13, arrebenta no time sub-13 do Paraná Clube. Parece a história de um craque? Pois é: o golaço que Octávio marcou em um jogo foi parar no YouTube (assista aqui) e fez o menino ficar famoso.
+
+No caso de Octávio, o futebol é questão de família. O garoto é neto do Pelé, "o melhor dos melhores jogadores do mundo", diz ele. Mas, há até pouco tempo, o menino só conhecia o avô por vídeo. Apenas em 2009 os dois craques se encontraram pela primeira vez: "Foi magnífico", conta o menino.
+
+Para ser um jogador tão bom quanto o avô, Octávio treina três vezes por semana. E até nas horas livres joga futebol com os amigos no campinho ou na escola.
+
+Ele ainda acha tempo para estudar e fazer as lições. "Meu pai fala que primeiro vem a escola, depois o futebol", conta. Dar entrevista também entrou no dia a dia do menino, que nem esperava ficar famoso. Os comentários sobre o vídeo chegaram até a escola de Octávio. "Meus amigos disseram que, na hora em que eu fiz o gol, 'baixou' o Pelé em mim", diz orgulhoso.
+Pergunta:
+Em qual dos trechos abaixo se percebe uma relação de condição?
+Opções:
+   a) **Para** se igualar ao talento do avô, Octávio treina três vezes por semana.
+   b) **Mas**, até pouco tempo, ele conhecia o avô apenas por vídeo.
+   c) **Quando** conversa com o filho, o pai de Octávio afirma que primeiro vem a escola e depois o futebol.
+-> d) **Se** o "Pelé" baixar nele, Octávio marcará gols incríveis.
+Justificativas:
+a) INCORRETA. O conectivo em destaque (**para**) introduz uma finalidade — a razão pela qual o garoto treina — e não estabelece condição.
+b) INCORRETA. O conectivo **mas** assinala oposição/contraste entre as ideias, sem condicionar a ocorrência de nenhuma delas.
+c) INCORRETA. O conectivo **quando** situa as ações no tempo, marcando relação temporal, e não condicional.
+d) CORRETA. O conectivo **se** introduz uma hipótese cuja realização é condição para o resultado expresso na oração principal: somente caso o "Pelé" "baixe" nele é que Octávio fará gols incríveis.

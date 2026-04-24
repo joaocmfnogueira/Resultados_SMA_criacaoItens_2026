@@ -1,0 +1,36 @@
+Questão 1
+Origem: 01_saida.json
+Competência Avaliada: Reconhecer, relações lógico-discursivas de condição, marcadas por conjunções mais usuais em notícias.
+Comando: Leia o texto.
+Texto de Suporte:
+Supertelescópio revela um mapa do universo em alta definição
+
+Em apenas 10 horas de testes, o telescópio do Observatório Vera C. Rubin, que fica nos Andes chilenos, conseguiu algo impressionante: começou a montar um mapa do universo em altíssima definição, usando a maior câmera digital do mundo. Durante esse tempo, ele registrou milhões de astros nunca vistos, como 2.104 asteroides, além de estrelas e galáxias escondidas dentro da Via Láctea.
+
+Cientistas acreditam que o observatório Rubin encontre milhões de novos asteroides, incluindo milhares próximos à Terra, ajudando a monitorar possíveis riscos futuros.
+
+A descoberta aconteceu com a ajuda da ferramenta que se chama Skyviewer, que permite enxergar nebulosas coloridas e até galáxias, em lugares no universo que pareciam não ter nada…
+
+Uma nebulosa colorida é uma nuvem gigante de poeira e gás no espaço que brilha com cores incríveis. Ela aparece assim porque a luz das estrelas ilumina seus ingredientes cósmicos como se fosse uma pintura viva no céu.
+
+Um telescópio que fotografa, analisa e alerta o mundo
+
+O telescópio Rubin usa a maior câmera do mundo que, primeiro, tira fotos do céu a cada 30 segundos. Depois disso, forma-se um mapa gigante mostrando uma área com todas as fotos captadas do espaço. Ao mesmo tempo, um sistema automático analisa tudo em tempo real.
+
+Se algo diferente aparece no céu, o telescópio manda avisos para outros cientistas ao redor do mundo em poucos minutos.
+
+Além disso, o observatório Rubin incentiva os estudantes do ensino médio e universitários neste ramo da ciências. Em entrevista para a imprensa, Clare Higgs, astrônoma da equipe de divulgação do observatório, contou que a ferramenta Skyviewer permite ao astrônomo amador explorar imagens  do espaço.
+
+https://jornaldacrianca.com.br/supertelescopio-revela-um-mapa-do-universo-em-alta-definicao/ <Acessado em 16/10/2025>
+Pergunta:
+Qual trecho do texto indica uma ideia de condição?
+Opções:
+-> a) **Se** algo diferente aparece no céu, o telescópio manda avisos para outros cientistas ao redor do mundo em poucos minutos.
+   b) **Ao mesmo tempo**, um sistema automático analisa tudo em tempo real.
+   c) **Porque** a luz das estrelas ilumina seus ingredientes cósmicos, a nebulosa brilha com cores incríveis.
+   d) **Depois disso**, forma-se um mapa gigante mostrando uma área com todas as fotos captadas do espaço.
+Justificativas:
+a) GABARITO. O trecho inicia-se com a conjunção 'se', que introduz a condição para que a ação subsequente ocorra: somente caso algo diferente apareça no céu é que o telescópio enviará avisos. O estudante que marcou essa alternativa reconheceu a relação lógico-discursiva de condição solicitada no comando.
+b) INCORRETA. A expressão '**Ao mesmo tempo**' estabelece simultaneidade (tempo) entre ações, não condição. Dessa forma, não atende ao que a questão solicitou.
+c) INCORRETA. A conjunção '**Porque**' introduz uma relação de causa/explicação, indicando o motivo de a nebulosa brilhar com cores incríveis, e não uma condição.
+d) INCORRETA. A locução '**Depois disso**' expressa sequência temporal, marcando posterioridade entre eventos, sem apresentar ideia de condição.

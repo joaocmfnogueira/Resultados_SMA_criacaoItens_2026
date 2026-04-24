@@ -1,0 +1,28 @@
+Questão 19
+Origem: 04_saida.json
+Competência Avaliada: Reconhecer, relações lógico-discursivas de condição, marcadas por conjunções mais usuais em notícias.
+Comando: Leia o texto.
+Texto de Suporte:
+Aos 11 anos, garota se torna a mais nova a disputar o US Open de golfe
+
+A americana Lucy Li tem apenas 11 anos, mas já conseguiu um feito de gente grande: ela venceu um torneio classificatório na última segunda-feira (19) e será a competidora mais nova da história a disputar o US Women's Open, um dos principais campeonatos de golfe do mundo. Se uma jogadora vencer o torneio classificatório, ela poderá disputar o US Women's Open.
+
+A garota terminou o torneio em primeiro lugar, com sete tacadas a menos que a segunda colocada. No golfe, o objetivo é fazer com que a bola seja colocada nos 18 buracos do campo com o menor número possível de tacadas.
+
+Lucy bateu a marca da também americana Lexi Thompson, até então a mais nova a participar do US Open. Em 2007, quando tinha 12 anos, Lexi também se classificou para o campeonato.
+
+O US Open de golfe começará no dia 19 de junho em Pinehurst, na Carolina do Norte, e reunirá as principais jogadoras do esporte.
+
+https://www1.folha.uol.com.br/folhinha/2014/05/1457203-aos-11-anos-garota-se-torna-a-mais-nova-a-disputar-o-us-open-de-golfe.shtml <Acessado em 17/10/2025>
+Pergunta:
+Qual trecho do texto expressa uma ideia de condição?
+Opções:
+   a) Em 2007, quando tinha 12 anos, Lexi também se classificou para o campeonato.
+   b) Lucy Li tem apenas 11 anos, mas já conseguiu um feito de gente grande.
+   c) A garota terminou o torneio em primeiro lugar, com sete tacadas a menos que a segunda colocada.
+-> d) Se uma jogadora vencer o torneio classificatório, ela poderá disputar o US Women's Open.
+Justificativas:
+a) INCORRETA. O conector "quando" estabelece uma relação de tempo (temporal), não de condição.
+b) INCORRETA. A conjunção "mas" introduz oposição/adversidade, não condição.
+c) INCORRETA. A forma "com ... a menos que" constrói uma comparação, indicando diferença quantitativa, não condição.
+d) CORRETA. A conjunção "se" apresenta uma hipótese da qual depende o fato posterior, configurando relação lógico-discursiva de condição.

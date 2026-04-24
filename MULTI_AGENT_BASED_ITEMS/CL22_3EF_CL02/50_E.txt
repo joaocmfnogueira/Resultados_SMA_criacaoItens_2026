@@ -1,0 +1,23 @@
+Questão 50
+Origem: 10_saida.json
+Competência Avaliada: Reconhecer, em textos de nível 1, relações lógico-discursivas de causalidade marcadas por conjunções mais usuais.
+Comando: Leia o texto.
+Texto de Suporte:
+Pai e mãe,
+
+Escrevo para contar como foi divertido o passeio ao parque com minha turma. Todos estavam animados porque era a primeira vez que visitávamos o parque juntos. Levamos sanduíches e suco, pois sabíamos que iríamos passar a manhã inteira lá. Brincamos de correr, jogar bola e andamos de bicicleta. Os professores pediram para levarmos boné e protetor solar, já que o dia estava muito ensolarado. Por isso, ninguém se queimou e todos aproveitaram bastante. Quando voltamos para a escola, estávamos cansados, mas muito felizes.
+
+Um abraço,
+Afonso.
+Pergunta:
+De acordo com o texto, por que o grupo se manteve protegido do sol?
+Opções:
+   a) todos brincaram de correr, jogar bola e andar de bicicleta.
+-> b) os professores pediram para levar boné e protetor solar.
+   c) todos estavam animados por ser a primeira visita ao parque.
+   d) Afonso levou sanduíches e suco para o piquenique.
+Justificativas:
+a) INCORRETA. Os estudantes que escolherem essa opção estarão levando em consideração atividades realizadas durante o passeio, mas essa não é a causa de o grupo ter se mantido protegido do sol. Brincar de correr, jogar bola e andar de bicicleta não impede queimaduras solares, diferente do uso do boné e protetor.
+b) GABARITO. Esta alternativa está correta, pois retoma de forma parafraseada a relação de causalidade explícita no texto: os professores pediram que levassem boné e protetor solar já que o dia estava ensolarado – e, por isso, o grupo permaneceu protegido do sol. O estudante que seleciona essa opção demonstra compreensão do efeito do uso desses itens de proteção.
+c) INCORRETA. Apesar de mencionar que todos estavam animados por ser a primeira visita ao parque, esta alternativa não representa a causa de o grupo ter se mantido protegido do sol. O texto apresenta a causa como um ato de prevenção, não o estado emocional do grupo.
+d) INCORRETA. A alternativa menciona uma ação citada no texto, o fato de Afonso levar sanduíches e suco, mas isso não está relacionado à proteção contra o sol, não atendendo à relação causal pedida no comando.

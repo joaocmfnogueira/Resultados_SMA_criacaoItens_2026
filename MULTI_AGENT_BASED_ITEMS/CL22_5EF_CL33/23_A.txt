@@ -1,0 +1,27 @@
+Questão 23
+Origem: 05_saida.json
+Competência Avaliada: Reconhecer, relações lógico-discursivas de condição, marcadas por conjunções mais usuais em notícias.
+Comando: Leia o texto.
+Texto de Suporte:
+Piquenique ao ar livre convida crianças a brincarem com água em São Paulo
+
+Roteiro da Semana
+No próximo sábado (14), crianças poderão levar suas roupas de banho e protetor solar para a praça Adolpho Bloch, em São Paulo, e participar de um piquenique diferente.
+
+O evento, realizado pela Casa do Brincar, convida o público a se divertir em brincadeiras com água ao ar livre.
+
+A recomendação é que todos levem algo para comer, beber, além de toalha. Quem quiser também pode levar uma garrafinha para ajudar nas brincadeiras.
+
+A programação é gratuita e não é necessário fazer inscrição. Caso chova, a data será remarcada.
+Pergunta:
+Qual trecho do texto indica uma ideia de condição?
+Opções:
+   a) Durante o evento, crianças poderão levar roupas de banho e protetor solar.
+   b) Além disso, a recomendação é levar algo para comer e beber, além de toalha.
+   c) Por ser gratuita, a programação dispensa inscrição.
+-> d) Em caso de chuva, a data será remarcada.
+Justificativas:
+a) INCORRETA. O trecho apresenta uma informação sobre o que se pode levar, estabelecendo relação de adição, não de condição.
+b) INCORRETA. A expressão "Além disso" introduz um acréscimo, configurando também relação de adição, sem dependência condicional.
+c) INCORRETA. O segmento explica o motivo pelo qual a inscrição não é necessária, marcando relação de explicação, não de condição.
+d) CORRETA. A locução "Em caso de" introduz uma condição (a ocorrência de chuva) para que a data seja remarcada, configurando relação lógico-discursiva condicional.

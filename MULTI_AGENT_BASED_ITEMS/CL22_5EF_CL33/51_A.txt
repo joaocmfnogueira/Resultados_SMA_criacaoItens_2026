@@ -1,0 +1,23 @@
+Questão 1
+Origem: 01_saida.json
+Competência Avaliada: Reconhecer, em textos de nível 2, relações lógico-discursivas adição, oposição, condição marcadas por conjunções mais usuais.
+Comando: Leia o texto.
+Texto de Suporte:
+Bichos da Semana
+
+A Guaxinim Pumpkin (Abóbora Em Inglês) Encontrou Um Lar E Bons Amigos Depois De Cair De Uma Árvore Nas Bahamas. Ela Foi Levada Para A Casa De Rosie Kamp, Que Acabou Entregando O Animal À Filha, Laura. Pumpkin Foi Logo Fazendo Amizade Com Os Cachorros Oreo E Toffee E Se Tornou Parte Da Família. Laura Afirma Que Entrou Em Contato Com Os Órgãos Responsáveis Por Animais Selvagens E Que Entenderá Se O Melhor Para Pumpkin For Retornar À Natureza. Enquanto Isso, a amizade entre os animais já conquistou 112 mil fãs nas redes sociais.
+
+Disponível em: http://noticias.uol.com.br/album/2013/02/07/veja-amizades-improvaveis-mas-muito-fofas-entre-animais.htm
+. Acesso em: 4 mar. 2016.
+Pergunta:
+Qual trecho do texto indica uma ideia de condição?
+Opções:
+   a) Pumpkin Foi Logo Fazendo Amizade Com Os Cachorros Oreo E Toffee E Se Tornou Parte Da Família.
+-> b) Laura Afirma Que Entrou Em Contato Com Os Órgãos Responsáveis Por Animais Selvagens E Que Entenderá Se O Melhor Para Pumpkin For Retornar À Natureza.
+   c) Ela Foi Levada Para A Casa De Rosie Kamp, Que Acabou Entregando O Animal À Filha, Laura.
+   d) Enquanto Isso, a amizade entre os animais já conquistou 112 mil fãs nas redes sociais.
+Justificativas:
+a) INCORRETA. O estudante que escolheu esta alternativa reconheceu a presença da conjunção 'e', que indica uma relação de adição, e não de condição. O comando da questão pede especificamente uma relação de condição, que não está presente neste trecho.
+b) CORRETA. O estudante que marcou esta alternativa demonstrou reconhecer corretamente a relação lógico-discursiva de condição, indicada pela conjunção 'se'. O trecho 'Entenderá se o melhor para Pumpkin for retornar à natureza' apresenta a condição necessária para que Laura aceite o retorno do animal à natureza, atendendo ao comando do item.
+c) INCORRETA. O estudante que optou por esta alternativa identificou uma oração com a conjunção 'que', que marca uma oração subordinada explicativa, mas não expressa condição. Assim, não atende ao comando do item.
+d) INCORRETA. O estudante que assinalou esta alternativa escolheu um trecho iniciado por 'enquanto isso', que indica uma relação de tempo ou simultaneidade, e não de condição, como solicitado no comando.

@@ -1,0 +1,23 @@
+Questão 12
+Origem: 03_saida.json
+Competência Avaliada: Reconhecer, em textos de nível 1, relações lógico-discursivas de causalidade marcadas por conjunções mais usuais.
+Comando: Leia o texto.
+Texto de Suporte:
+João,
+
+Estou escrevendo para contar uma novidade. Ontem, fui ao estádio com meu pai e minha irmã. Nós torcemos muito, pois era um jogo importante para o nosso time.Levei uma bandeira nova, porque queria mostrar para todos o quanto gosto do nosso clube. No fim, ganhamos o jogo e comemoramos bastante. Já estou ansioso para ir ao próximo jogo, por isso combinei com meu pai de sempre irmos juntos quando der.
+
+Um grande abraço,
+Pedro.
+Pergunta:
+Segundo o texto, Pedro levou uma bandeira nova porque:
+Opções:
+-> a) queria mostrar para todos o quanto gosta do clube.
+   b) era um jogo muito importante para o time.
+   c) comemorou bastante no fim do jogo.
+   d) combinou com o pai de ir sempre aos jogos.
+Justificativas:
+a) GABARITO - Os estudantes que assinalarem esta alternativa conseguem perceber a causa da ação de Pedro, conforme marcada explicitamente pela conjunção 'porque' no texto: 'Levei uma bandeira nova, porque queria mostrar para todos o quanto gosto do nosso clube.' Assim, reconhecem corretamente a relação de causalidade pedida no comando.
+b) Os estudantes que escolherem esta alternativa compreendem que era um jogo importante, mas não é esta a causa de Pedro levar a bandeira nova. Ainda que o texto traga essa informação, ela serve de explicação para o motivo de todos torcerem muito, e não para a ação de Pedro levar uma bandeira.
+c) Quem assinala esta alternativa identifica uma consequência de o time ter vencido, pois Pedro e os outros comemoraram bastante. Contudo, não há relação causal entre a comemoração e o ato de levar a bandeira nova. O texto não dá suporte para fazer essa relação.
+d) O estudante que optar por esta alternativa mobiliza uma informação do final da carta, sobre Pedro combinar de ir aos próximos jogos. No entanto, isso acontece depois do fato de levar a bandeira nova e não explica o motivo dessa ação, mostrando que ainda não reconheceu o uso da conjunção causal no texto.

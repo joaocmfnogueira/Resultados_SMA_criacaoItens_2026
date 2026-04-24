@@ -1,0 +1,29 @@
+Questão 1
+Competência Avaliada: Reconhecer, em textos de nível 2, relações lógico-discursivas de condição, marcadas por conjunções mais usuais.
+Comando: Leia o texto.
+Texto de Suporte:
+O que significa de fato ter um “bom” sono?
+
+É comum ouvir que os adultos precisam de sete a nove horas de sono por noite. Mas dormir bem é mais do que o número de horas - é também uma questão de qualidade.
+
+Para a maioria das pessoas, uma boa noite dormida significa conseguir pegar no sono logo após ir para a cama (em cerca de 30 minutos), ficar sem acordar por longos períodos e despertar, de manhã, sentindo-se descansado e pronto para o dia.
+
+Você não deve se sentir excessivamente sonolento durante o dia, especialmente se estiver dormindo regularmente pelo menos sete horas de sono reparador por noite (essa é uma regra geral).
+
+Mas, se você perceber que fisicamente cansado, precisando cochilar regularmente e, ainda assim, não se sentindo revigorado, pode valer a pena entrar em contato com seu clínico geral pois há uma série de possíveis motivos para isso.
+
+Disponível em:  https://g1.globo.com/saude/noticia/2024/10/14/uma-noite-de-sono-ininterrupta-e-um-mito-veja-o-que-e-e-como-e-um-bom-sono.ghtml. Acesso em: 29 mai. 2025.
+Pergunta:
+No trecho 'Mas, se você perceber que fisicamente cansado, precisando cochilar regularmente e, ainda assim, não se sentindo revigorado, pode valer a pena entrar em contato com seu clínico geral', a conjunção 'se' estabelece uma relação de condição. Assinale a alternativa que melhor explica essa relação no contexto do texto.
+Opções:
+-> a) A pessoa deve procurar um médico caso perceba que está cansada e não se sente revigorada, mesmo dormindo o suficiente.
+   b) A pessoa só deve dormir sete horas por noite se quiser se sentir descansada.
+   c) Se a pessoa acordar durante a noite, não terá um sono de qualidade.
+   d) Se a pessoa dormir mais de nove horas, não precisará consultar um médico.
+Justificativas:
+a) Correta. A alternativa apresenta a relação de condição expressa no texto: procurar um médico está condicionado à percepção de cansaço e falta de revigoramento, mesmo com sono regular. O 'se' indica que, caso essa condição seja percebida, a ação de procurar o médico é recomendada.
+b) Incorreta. Embora mencione a quantidade de sono, não há no texto a relação de condição entre dormir sete horas e se sentir descansado como obrigação para procurar um médico. O texto fala sobre a qualidade do sono, não apenas a quantidade.
+c) Incorreta. O texto menciona acordar durante a noite como um dos fatores de qualidade do sono, mas não estabelece uma relação de condição direta entre acordar à noite e não ter sono de qualidade, nem relaciona isso à necessidade de procurar um médico.
+d) Incorreta. O texto não afirma que dormir mais de nove horas elimina a necessidade de consultar um médico. A relação de condição apresentada no texto refere-se ao cansaço persistente, não à quantidade de horas dormidas.
+
+--------------------------------------------------------------------------------

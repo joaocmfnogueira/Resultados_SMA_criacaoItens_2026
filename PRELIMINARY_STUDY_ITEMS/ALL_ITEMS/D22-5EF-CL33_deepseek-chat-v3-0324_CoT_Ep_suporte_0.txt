@@ -1,0 +1,19 @@
+Questão 1
+Competência Avaliada: Reconhecer, em textos de nível 2, relações lógico-discursivas de condição marcadas por conjunções mais usuais.
+Comando: Leia o texto.
+Texto de Suporte:
+É comum ouvir que os adultos precisam de sete a nove horas de sono por noite. Mas dormir bem é mais do que o número de horas - é também uma questão de qualidade. Para a maioria das pessoas, uma boa noite dormida significa conseguir pegar no sono logo após ir para a cama (em cerca de 30 minutos), ficar sem acordar por longos períodos e despertar, de manhã, sentindo-se descansado e pronto para o dia. Você não deve se sentir excessivamente sonolento durante o dia, especialmente se estiver dormindo regularmente pelo menos sete horas de sono reparador por noite (essa é uma regra geral). Mas, se você perceber que fisicamente cansado, precisando cochilar regularmente e, ainda assim, não se sentindo revigorado, pode valer a pena entrar em contato com seu clínico geral pois há uma série de possíveis motivos para isso.
+Pergunta:
+Identifique, no texto, a relação de condição em que se destaca a conjunção que estabelece essa relação.
+Opções:
+-> a) Você não deve se sentir excessivamente sonolento durante o dia, especialmente se estiver dormindo regularmente pelo menos sete horas de sono reparador por noite.
+   b) É comum ouvir que os adultos precisam de sete a nove horas de sono por noite.
+   c) Mas dormir bem é mais do que o número de horas - é também uma questão de qualidade.
+   d) Para a maioria das pessoas, uma boa noite dormida significa conseguir pegar no sono logo após ir para a cama.
+Justificativas:
+a) A opção A é a correta porque apresenta a conjunção 'se' introduzindo uma condição para não se sentir sonolento durante o dia, que é dormir pelo menos sete horas de sono reparador.
+b) A opção B está incorreta porque apenas apresenta uma informação geral sobre o hábito de dormir, sem qualquer relação de condição.
+c) A opção C está incorreta porque apresenta uma oposição (indicada por 'mas') e não uma condição.
+d) A opção D está incorreta porque descreve o que significa uma boa noite de sono, mas não apresenta nenhuma relação de condição.
+
+--------------------------------------------------------------------------------

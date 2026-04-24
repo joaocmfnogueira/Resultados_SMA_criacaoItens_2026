@@ -1,0 +1,28 @@
+Questão 15
+Origem: 03_saida.json
+Competência Avaliada: Reconhecer, relações lógico-discursivas de condição, marcadas por conjunções mais usuais em notícias.
+Comando: Leia o texto.
+Texto de Suporte:
+Neto do Pelé fica famoso com golaço que caiu na internet
+
+Octávio brinca com a bola desde que era bebê. Aos três anos, começou a jogar futebol na escolinha do Santos. Agora, com 13, arrebenta no time sub-13 do Paraná Clube. Parece a história de um craque? Pois é: o golaço que Octávio marcou em um jogo foi parar no YouTube (assista aqui) e fez o menino ficar famoso.
+
+No caso de Octávio, o futebol é questão de família. O garoto é neto do Pelé, "o melhor dos melhores jogadores do mundo", diz ele. **Mas**, há até pouco tempo, o menino só conhecia o avô por vídeo. Apenas em 2009 os dois craques se encontraram pela primeira vez: "Foi magnífico", conta o menino.
+
+**Para** ser um jogador tão bom quanto o avô, Octávio treina três vezes por semana. **Se** Octávio quiser ser um jogador tão bom quanto o avô, precisa treinar bastante. **E** até nas horas livres joga futebol com os amigos no campinho ou na escola.
+
+Ele ainda acha tempo para estudar e fazer as lições. "Meu pai fala que primeiro vem a escola, depois o futebol", conta. Dar entrevista também entrou no dia a dia do menino, que nem esperava ficar famoso. Os comentários sobre o vídeo chegaram até a escola de Octávio. "Meus amigos disseram que, na hora em que eu fiz o gol, 'baixou' o Pelé em mim", diz orgulhoso.
+
+https://www1.folha.uol.com.br/folhinha/899228-neto-do-pele-fica-famoso-com-golaco-que-caiu-na-internet.shtml <Acessado em 17/10/2025>
+Pergunta:
+Qual trecho do texto apresenta uma ideia de condição?
+Opções:
+   a) **Para** ser um jogador tão bom quanto o avô, Octávio treina três vezes por semana.
+   b) **Mas**, há até pouco tempo, o menino só conhecia o avô por vídeo.
+   c) **E** até nas horas livres joga futebol com os amigos no campinho ou na escola.
+-> d) **Se** Octávio quiser ser um jogador tão bom quanto o avô, precisa treinar bastante.
+Justificativas:
+a) INCORRETA. A conjunção "para" introduz finalidade (propósito), não condição.
+b) INCORRETA. A conjunção "mas" estabelece oposição entre informações, sem condicionar um fato a outro.
+c) INCORRETA. A conjunção "e" apenas adiciona uma informação, exprimindo ideia de adição, sem valor condicional.
+d) CORRETA. A conjunção "se" é marcador típico de condição, indicando que, caso (se) Octávio queira ser tão bom quanto o avô, precisará treinar bastante.

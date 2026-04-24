@@ -1,0 +1,22 @@
+Questão 5
+Origem: 01_saida.json
+Competência Avaliada: Reconhecer, em textos de nível 2, relações lógico-discursivas de condição, marcadas por conjunções mais usuais.
+Comando: Leia o texto.
+Texto de Suporte:
+Bichos da Semana
+
+A guaxinim Pumpkin (Abóbora, em inglês) encontrou um lar e bons amigos depois de cair de uma árvore nas Bahamas. Ela foi levada para a casa de Rosie Kamp, que acabou entregando o animal à filha, Laura. Pumpkin foi logo fazendo amizade com os cachorros Oreo e Toffee e se tornou parte da família. Laura afirma que entrou em contato com os órgãos responsáveis por animais selvagens e que entenderá se o melhor para Pumpkin for retornar à natureza. Enquanto isso, a amizade entre os animais já conquistou 112 mil fãs nas redes sociais.
+
+Disponível em: http://noticias.uol.com.br/album/2013/02/07/veja-amizades-improvaveis-mas-muito-fofas-entre-animais.htm. Acesso em: 4 mar. 2016.
+Pergunta:
+Qual trecho do texto indica uma ideia de condição?
+Opções:
+   a) Pumpkin fez amizade com os cachorros Oreo e Toffee **e** logo se tornou mais um membro alegre da nova família.
+-> b) Laura aceitará devolver Pumpkin à natureza **se** especialistas confirmarem que essa decisão será realmente a melhor para o animal.
+   c) Ela foi acolhida por Rosie Kamp, **que** depois entregou o pequeno guaxinim aos cuidados da filha, Laura, para recuperação.
+   d) **Enquanto** a recuperação ocorria, a crescente amizade dos três animais conquistava milhares de seguidores nas redes sociais.
+Justificativas:
+a) INCORRETA. A conjunção **e** estabelece adição: primeiro a amizade se formou, depois Pumpkin passou a integrar a família. Não há relação de dependência condicional entre os fatos.
+b) GABARITO. A conjunção **se** introduz a condição necessária para que Laura aceite a devolução de Pumpkin: a confirmação dos especialistas. Cumpre exatamente o pedido do comando.
+c) INCORRETA. O pronome relativo **que** apenas introduz uma oração explicativa acerca de Rosie Kamp; ele conecta informações, mas não expressa condição.
+d) INCORRETA. O conector **Enquanto** marca simultaneidade temporal entre a recuperação e o ganho de seguidores, apresentando relação de tempo, não de condição.

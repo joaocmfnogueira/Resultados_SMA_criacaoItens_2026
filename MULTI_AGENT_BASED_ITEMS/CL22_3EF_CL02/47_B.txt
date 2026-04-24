@@ -1,0 +1,23 @@
+Questão 47
+Origem: 10_saida.json
+Competência Avaliada: Reconhecer, em textos de nível 1, relações lógico-discursivas de causalidade marcadas por conjunções mais usuais.
+Comando: Leia o texto.
+Texto de Suporte:
+Pai e mãe,
+
+Escrevo para contar como foi divertido o passeio ao parque com minha turma. Todos estavam animados porque era a primeira vez que visitávamos o parque juntos. Levamos sanduíches e suco, pois sabíamos que iríamos passar a manhã inteira lá. Brincamos de correr, jogar bola e andamos de bicicleta. Os professores pediram para levarmos boné e protetor solar, já que o dia estava muito ensolarado. Por isso, ninguém se queimou e todos aproveitaram bastante. Quando voltamos para a escola, estávamos cansados, mas muito felizes.
+
+Um abraço,
+Afonso.
+Pergunta:
+Por que todos evitaram queimaduras no passeio?
+Opções:
+-> a) Todos evitaram queimaduras porque levaram boné e protetor solar.
+   b) Todos evitaram queimaduras porque estavam animados com o passeio.
+   c) Todos evitaram queimaduras porque brincaram muito.
+   d) Todos evitaram queimaduras porque ficaram cansados depois das brincadeiras.
+Justificativas:
+a) GABARITO. Quem marca esta alternativa reconhece corretamente a relação de causa e consequência apresentada na carta. O texto diz que os professores pediram o boné e o protetor solar e, por isso, ninguém se queimou. A opção reproduz essa causa com o marcador "porque".
+b) INCORRETA. A animação está presente na narrativa, mas não aparece como motivo para não se queimar. O estudante que escolhe essa alternativa confunde informações do texto.
+c) INCORRETA. O fato de brincarem muito faz parte do passeio, mas não impede queimaduras solares. Selecionar essa resposta indica dificuldade em identificar a relação causal solicitada.
+d) INCORRETA. O cansaço é mencionado como consequência das atividades, não como causa de evitar queimaduras. Quem opta por essa alternativa não percebe a relação de causa e efeito pedida na questão.

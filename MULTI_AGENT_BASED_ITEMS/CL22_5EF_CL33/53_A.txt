@@ -1,0 +1,22 @@
+Questão 3
+Origem: 01_saida.json
+Competência Avaliada: Reconhecer, em textos de nível 2, relações lógico-discursivas adição, oposição, condição marcadas por conjunções mais usuais.
+Comando: Leia o texto.
+Texto de Suporte:
+Bichos da Semana
+
+A guaxinim Pumpkin (Abóbora, em inglês) encontrou um lar e bons amigos depois de cair de uma árvore nas Bahamas. Ela foi levada para a casa de Rosie Kamp, que acabou entregando o animal à filha, Laura. Pumpkin foi logo fazendo amizade com os cachorros Oreo e Toffee e se tornou parte da família. Laura afirma que entrou em contato com os órgãos responsáveis por animais selvagens e que entenderá se o melhor para Pumpkin for retornar à natureza. Enquanto isso, a amizade entre os animais já conquistou 112 mil fãs nas redes sociais.
+
+Disponível em: http://noticias.uol.com.br/album/2013/02/07/veja-amizades-improvaveis-mas-muito-fofas-entre-animais.htm. Acesso em: 4 mar. 2016. Fragmento.
+Pergunta:
+Qual trecho do texto indica uma ideia de condição?
+Opções:
+   a) A guaxinim Pumpkin fez amizade com os cachorros Oreo **e** Toffee **e** logo virou parte da família.
+-> b) A jovem Laura afirmou que aceitará a decisão **se** o melhor para Pumpkin for voltar à natureza.
+   c) A anfitriã Rosie Kamp acolheu a guaxinim, **mas** mais tarde entregou amorosamente o animal à filha Laura.
+   d) A amizade entre os três animais cresceu, **enquanto** isso atraía milhares de fãs nas redes sociais on-line.
+Justificativas:
+a) INCORRETA – O conector destacado (**e**) estabelece relação de adição, somando as ações de fazer amizade e de virar parte da família. Não expressa condição.
+b) CORRETA – A conjunção destacada (**se**) introduz uma hipótese: Pumpkin pode voltar à natureza. A aceitação de Laura depende dessa hipótese, configurando relação condicional.
+c) INCORRETA – A conjunção destacada (**mas**) cria oposição entre acolher e entregar o animal, marcando contraste, não condição.
+d) INCORRETA – O conector destacado (**enquanto**) indica simultaneidade temporal: as duas ações ocorrem ao mesmo tempo; não há relação de condição.

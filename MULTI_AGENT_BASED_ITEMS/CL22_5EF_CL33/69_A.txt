@@ -1,0 +1,26 @@
+Questão 19
+Origem: 03_saida.json
+Competência Avaliada: Reconhecer, em textos de nível 2, relações lógico-discursivas de condição, marcadas por conjunções mais usuais.
+Comando: Leia o texto.
+Texto de Suporte:
+FILHOTE DE ARARA-AZUL-DE-LEAR NASCE NO ZOOLÓGICO DE SP
+Instituição é a primeira no continente a conseguir sucesso na reprodução da espécie, que está ameaçada de extinção
+
+Um filhote de Arara-azul-de-Lear nasceu neste sábado, 16, no Zoológico de São Paulo. Logo após o nascimento, a informação foi divulgada pela própria instituição, que celebrou o nascimento de mais um da espécie, que está ameaçada de extinção.
+A ave é nativa do nordeste da Bahia e tem, como o nome sugere, uma coloração com tons de azul. Provavelmente devido a sua beleza, a espécie foi muito capturada no passado para criação doméstica. De acordo com o zoológico, a instituição é a primeira no continente americano a conseguir sucesso na reprodução.
+“Nós amamos essa notícia, e ficamos ainda mais felizes que tenha acontecido em um dia tão importante como o nosso aniversário de 66 anos”, comemorou o Zoo em nota.
+Se continuar sem cuidados específicos de proteção, a ave pode desaparecer. Pensando nisso, a espécie também está inserida em um Programa de Conservação interno com intuito de reintroduzir o animal ao seu habitat natural.
+
+https://www.terra.com.br/planeta/noticias/filhote-de-arara-azul-de-lear-nasce-no-zoologico-de-sp,a4c29156ae39d59e7eb81dc62e6fe198o4v5xgug.html?utm_source=clipboard
+Pergunta:
+Qual trecho do texto indica uma ideia de condição?
+Opções:
+-> a) Segundo especialistas do zoológico e de instituições parceiras, se continuar sem cuidados específicos de proteção, a ave pode desaparecer de vez.
+   b) Logo após o nascimento, a informação foi divulgada pela própria instituição, **que** celebrou oficialmente o nascimento de mais um indivíduo da espécie.
+   c) A ave é nativa do nordeste da Bahia, **e** tem, como o nome sugere, uma coloração com tons de azul.
+   d) Nós amamos essa notícia, **e** ficamos ainda mais felizes que ela tenha ocorrido justamente no dia do aniversário de 66 anos do Zoo.
+Justificativas:
+a) GABARITO – O período apresenta a conjunção "se", que introduz a condição para que a ave desapareça (permanecer sem cuidados de proteção). Assim, estabelece clara relação condicional, atendendo ao que o comando pede.
+b) INCORRETA – A conjunção destacada (**que**) exerce valor explicativo, acrescentando uma informação sobre a ação de celebrar, sem expressar qualquer hipótese ou condição.
+c) INCORRETA – A conjunção destacada (**e**) simplesmente adiciona a informação sobre a coloração ao fato de a ave ser nativa do nordeste da Bahia. A relação é de adição, não de condição.
+d) INCORRETA – A conjunção destacada (**e**) une duas orações que expressam sentimentos semelhantes (amar a notícia e ficar ainda mais felizes), configurando relação de adição, e não de condição.

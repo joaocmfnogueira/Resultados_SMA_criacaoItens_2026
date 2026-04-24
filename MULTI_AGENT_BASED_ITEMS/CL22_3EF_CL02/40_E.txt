@@ -1,0 +1,23 @@
+Questão 40
+Origem: 08_saida.json
+Competência Avaliada: Reconhecer, em textos de nível 1, relações lógico-discursivas de causalidade marcadas por conjunções mais usuais.
+Comando: Leia o texto.
+Texto de Suporte:
+Querida Lara,
+
+Estou te escrevendo porque ontem ouvi uma música nova no rádio e lembrei de você. Sempre gostei de ouvir canções animadas, pois elas me deixam feliz e cheia de energia. Minha mãe fala que música é importante para relaxar, já que às vezes fico ansiosa antes das provas. Por isso, escutar músicas calmas à noite me ajuda a dormir melhor. Espero que você também tenha músicas favoritas e que elas tragam alegria para o seu dia.
+
+Com carinho,
+Ana.
+Pergunta:
+De acordo com o texto, Ana gosta de ouvir canções animadas, pois:
+Opções:
+-> a) Ela fica feliz e cheia de energia porque ouve essas canções.
+   b) Ela relaxa porque sua mãe diz que isso é importante.
+   c) Ela dorme melhor porque escuta músicas calmas à noite.
+   d) Ela lembra de Lara porque ouve uma música nova.
+Justificativas:
+a) GABARITO — O estudante que escolhe esta opção reconhece corretamente a relação causal expressa no texto. Ana afirma que gosta de canções animadas, pois fica feliz e cheia de energia quando as ouve. A alternativa mantém o paralelismo sintático das demais, iniciando com “Ela” e usando a conjunção causal “porque”.
+b) ERRADA — Esta opção apresenta uma causa ligada ao conselho da mãe sobre relaxar, não ao motivo de Ana apreciar canções animadas. O aluno que marca esta alternativa confunde as informações do texto.
+c) ERRADA — A alternativa menciona que ouvir músicas calmas à noite a ajuda a dormir melhor, informação verdadeira, mas que não explica o gosto de Ana por canções animadas.
+d) ERRADA — A lembrança de Lara surge do fato de Ana ter escutado uma música nova, mas isso não é apresentado como razão para ela gostar de canções animadas.

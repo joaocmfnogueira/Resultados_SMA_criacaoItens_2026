@@ -1,0 +1,23 @@
+Questão 13
+Origem: 03_saida.json
+Competência Avaliada: Reconhecer, em textos de nível 1, relações lógico-discursivas de causalidade marcadas por conjunções mais usuais.
+Comando: Leia o texto.
+Texto de Suporte:
+João,
+
+Estou escrevendo para contar uma novidade. Ontem, fui ao estádio com meu pai e minha irmã. Nós torcemos muito, pois era um jogo importante para o nosso time.Levei uma bandeira nova, porque queria mostrar para todos o quanto gosto do nosso clube. No fim, ganhamos o jogo e comemoramos bastante. Já estou ansioso para ir ao próximo jogo, por isso combinei com meu pai de sempre irmos juntos quando der.
+
+Um grande abraço,
+Pedro.
+Pergunta:
+Por que Pedro levou uma bandeira nova ao estádio?
+Opções:
+-> a) Porque queria mostrar para todos o quanto gosta do clube.
+   b) Porque torceu muito junto com sua família.
+   c) Porque foi um jogo muito importante para o time.
+   d) Porque ficou ansioso para ir ao próximo jogo.
+Justificativas:
+a) GABARITO – Os estudantes que assinalarem esta alternativa reconheceram corretamente a relação de causalidade expressa no texto pelo uso da conjunção 'porque'. A frase no texto ('Levei uma bandeira nova, porque queria mostrar para todos o quanto gosto do nosso clube') explicitamente diz que o motivo de levar a bandeira era mostrar para todos o quanto gosta do clube, exatamente como pede o comando.
+b) INCORRETA – Quem escolher esta alternativa pode ter percebido que Pedro esteve com sua família torcendo no estádio, mas no texto essa ação de torcer não é apresentada como causa do fato de ele levar a bandeira nova. Portanto, essa opção apresenta uma informação factual do texto, mas que não estabelece relação de causa e consequência.
+c) INCORRETA – Este distrator apresenta uma motivação real para outra ação (torcer muito), mas no texto, o fato do jogo ser importante não é apresentado como motivo para Pedro levar a bandeira nova. Logo, não responde adequadamente à causalidade perguntada pelo comando.
+d) INCORRETA – Quem assinalar esta alternativa pode estar confundindo o desejo de Pedro de voltar ao estádio no futuro com a causa de levar a bandeira no dia descrito. No texto, a ansiedade para ir ao próximo jogo aparece depois, como consequência do acontecimento, e não como motivo da ação questionada.

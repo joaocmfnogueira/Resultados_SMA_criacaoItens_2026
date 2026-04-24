@@ -1,0 +1,21 @@
+Questão 16
+Origem: 03_saida.json
+Competência Avaliada: Reconhecer, em textos de nível 2, relações lógico-discursivas de condição, marcadas por conjunções mais usuais.
+Comando: Leia o texto.
+Texto de Suporte:
+FILHOTE DE ARARA-AZUL-DE-LEAR NASCE NO ZOOLÓGICO DE SP
+Instituição é a primeira no continente a conseguir sucesso na reprodução da espécie, que está ameaçada de extinção.
+
+Um filhote de Arara-azul-de-Lear nasceu neste sábado, 16, no Zoológico de São Paulo. Logo após o nascimento, a informação foi divulgada pela própria instituição, que celebrou o nascimento de mais um da espécie, que está ameaçada de extinção. A ave é nativa do nordeste da Bahia e tem, como o nome sugere, uma coloração com tons de azul. Provavelmente devido a sua beleza, a espécie foi muito capturada no passado para criação doméstica. De acordo com o zoológico, a instituição é a primeira no continente americano a conseguir sucesso na reprodução. “Nós amamos essa notícia, e ficamos ainda mais felizes que tenha acontecido em um dia tão importante como o nosso aniversário de 66 anos”, comemorou o Zoo em nota. Se continuar sem cuidados específicos de proteção, a ave pode desaparecer. Pensando nisso, a espécie também está inserida em um Programa de Conservação interno com intuito de reintroduzir o animal ao seu habitat natural.
+Pergunta:
+Qual trecho do texto indica uma ideia de condição?
+Opções:
+   a) Logo após o nascimento, a informação foi divulgada pela instituição, **que** celebrou o feito.
+   b) A ave é nativa do nordeste da Bahia **e** tem coloração azul.
+-> c) **Se** continuar sem cuidados específicos de proteção, a ave pode desaparecer.
+   d) Provavelmente, **devido a** sua beleza, a espécie foi muito capturada.
+Justificativas:
+a) INCORRETA – O conector destacado é "que", que introduz uma oração explicativa, trazendo uma relação de explicação/aposto. Não há hipótese ou condição envolvida, portanto o trecho não satisfaz ao pedido do comando.
+b) INCORRETA – A conjunção "e" estabelece relação de adição entre duas características da ave (origem e cor). Conectivos aditivos não exprimem condição, logo o estudante que marcou esta alternativa não atendeu à solicitação.
+c) CORRETA – A conjunção "se" introduz a oração condicional que determina a possibilidade de desaparecimento da ave. A ação subsequente (pode desaparecer) está subordinada à condição expressa (continuar sem cuidados), cumprindo exatamente o que o comando exige.
+d) INCORRETA – A locução "devido a" introduz causa, aproximando-se semanticamente de "porque". A relação estabelecida, portanto, é causal, não condicional; por isso, a alternativa não responde adequadamente ao item.

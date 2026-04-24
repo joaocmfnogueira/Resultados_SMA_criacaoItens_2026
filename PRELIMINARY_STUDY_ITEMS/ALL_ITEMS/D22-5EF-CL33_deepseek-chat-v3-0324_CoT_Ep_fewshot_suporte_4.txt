@@ -1,0 +1,25 @@
+Questão 1
+Competência Avaliada: Reconhecer, em textos de nível 2, relações lógico-discursivas de condição marcadas por conjunções mais usuais.
+Comando: Leia o texto com atenção.
+Texto de Suporte:
+A importância da atividade física para crianças
+
+Se as crianças praticarem exercícios físicos regularmente, terão melhor desenvolvimento motor e cognitivo. Os especialistas recomendam pelo menos 60 minutos de atividade moderada a vigorosa por dia.
+
+Quando os pais incentivam a prática esportiva desde cedo, os filhos criam hábitos saudáveis. Por exemplo, se a criança participar de brincadeiras ao ar livre, desenvolverá melhor coordenação motora.
+
+Caso a escola ofereça aulas de educação física de qualidade, os alunos terão mais oportunidades de se exercitar. Mesmo que chova, é importante encontrar alternativas para manter as crianças ativas em ambientes internos.
+Pergunta:
+Qual trecho do texto apresenta uma relação de condição clara?
+Opções:
+   a) "Os especialistas recomendam pelo menos 60 minutos de atividade moderada a vigorosa por dia."
+-> b) "Se as crianças praticarem exercícios físicos regularmente, terão melhor desenvolvimento motor e cognitivo."
+   c) "Quando os pais incentivam a prática esportiva desde cedo, os filhos criam hábitos saudáveis."
+   d) "Mesmo que chova, é importante encontrar alternativas para manter as crianças ativas em ambientes internos."
+Justificativas:
+a) INCORRETA. Esta alternativa apresenta apenas uma recomendação geral, sem estabelecer uma relação condicional entre ações e consequências.
+b) CORRETA. Esta alternativa mostra claramente uma relação condicional com 'Se' indicando a condição ('praticarem exercícios') e a consequência ('terão melhor desenvolvimento').
+c) INCORRETA. Embora use 'Quando', que pode sugerir tempo, não estabelece uma relação condicional propriamente dita, mas sim uma relação temporal.
+d) INCORRETA. A expressão 'Mesmo que' indica uma relação de concessão, mostrando uma ação apesar de uma circunstância, não uma condição.
+
+--------------------------------------------------------------------------------

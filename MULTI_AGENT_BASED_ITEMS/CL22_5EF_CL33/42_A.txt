@@ -1,0 +1,40 @@
+Questão 42
+Origem: 09_saida.json
+Competência Avaliada: Reconhecer, relações lógico-discursivas de condição, marcadas por conjunções mais usuais em notícias.
+Comando: Leia o texto.
+Texto de Suporte:
+Holanda inaugura primeiro zoológico de micróbios do mundo
+
+O primeiro "zoo interativo de micróbios" do mundo abriu as portas em Amsterdã nesta terça-feira (30), lançando nova luz sobre as minúsculas criaturas que compõem dois terços de toda matéria viva e são vitais para o futuro do nosso planeta.
+
+Orçado em 10 milhões de euros (US$ 13 milhões), o Museu Micropia fica perto do zoológico real Artis, em Amsterdã, cujo diretor teve, há 12 anos, a ideia de expor um arranjo de micróbios vivos em um "microzoo".
+
+"Tradicionalmente, os zoológicos tendiam a mostrar apenas uma pequena parte da natureza, especificamente os animais maiores", declarou Haig Balian à agência de notícias AFP.
+
+"Hoje, nós queremos exibir a micronatureza", disse Balian, que acredita que a importância dos micróbios nos nossos dias atuais tem sido subestimada desde que o cientista holandês Antonie van Leeuwenhoek viu as criaturas microscópicas no século 17.
+
+Frequentemente, os micróbios são associados a doenças, provocadas por vírus, bactérias, fungos e algas, mas eles também são essenciais para nossa sobrevivência e desempenharão um papel cada vez mais importante no futuro da humanidade e do planeta.
+
+"Os micróbios estão em toda parte. Portanto, precisamos de microbiologistas que sejam capazes de trabalhar em qualquer setor: nos hospitais, na produção de alimentos, nas indústrias petrolífera e farmacêutica, por exemplo", afirmou.
+
+Eles já são usados na produção de biocombustíveis, no desenvolvimento de novos tipos de antibióticos e no melhoramento da produtividade agrícola.
+
+Experiências têm demonstrado seu potencial futuro em campos diversos, da geração de energia ao reforço de fundações de prédios, passando pela cura do câncer.
+
+"Se deixarmos a ciência da microbiologia no escuro, relegada a alguns poucos especialistas, o interesse por ela nunca vai se desenvolver", alegou Balian.
+
+"Queremos mostrar aos visitantes como tudo na natureza está interconectado e como os micróbios, fundamentalmente, são parte dessa conexão", acrescentou.
+
+Cada humano adulto carrega no corpo cerca de 1,5 kg de micróbios, e nós morreríamos sem eles.
+Pergunta:
+Qual trecho do texto indica uma ideia de condição?
+Opções:
+-> a) Se deixarmos a ciência da microbiologia no escuro, o interesse por ela nunca vai se desenvolver.
+   b) Frequentemente, os micróbios são associados a doenças causadas por vírus, bactérias, fungos e algas, mas eles também são essenciais para nossa sobrevivência.
+   c) Os micróbios estão em toda parte, portanto precisamos de microbiologistas capazes de atuar em qualquer setor.
+   d) Eles já são usados na produção de biocombustíveis, no desenvolvimento de novos antibióticos e no aumento da produtividade agrícola.
+Justificativas:
+a) GABARITO. O estudante que escolher esta alternativa reconheceu corretamente a relação lógico-discursiva de condição, marcada pela conjunção "Se". O trecho apresenta uma situação cujo desfecho (o interesse não se desenvolver) está condicionado ao fato de a microbiologia permanecer "no escuro".
+b) INCORRETA. O conector "mas" estabelece uma relação de oposição ou contraste, e não de condição. O aluno que selecionar essa opção confundiu o valor semântico do conectivo.
+c) INCORRETA. A palavra "portanto" introduz uma ideia de consequência. A relação expressa é de resultado lógico, não de condição.
+d) INCORRETA. O trecho enumera aplicações dos micróbios, introduzindo ideia de adição. Não há dependência condicional entre as orações apresentadas.

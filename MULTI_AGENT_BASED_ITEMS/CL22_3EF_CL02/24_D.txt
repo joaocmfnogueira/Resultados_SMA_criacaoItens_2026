@@ -1,0 +1,24 @@
+Questão 24
+Origem: 05_saida.json
+Competência Avaliada: Reconhecer, em textos de nível 1, relações lógico-discursivas de causalidade marcadas por conjunções mais usuais.
+Comando: Leia o texto.
+Texto de Suporte:
+Querida vovó,
+
+Recebi o bolo que a senhora mandou e fiquei muito feliz, porque eu estava com muita saudade do seu sabor. Comi um pedaço assim que cheguei da escola, pois estava com fome e o cheiro era delicioso. Minha mãe também gostou muito e disse que estava muito fofinho, já que a senhora sempre capricha nas receitas. Por isso, vou pedir para a senhora ensinar para mim quando vier nos visitar. Espero que esteja tudo bem com a senhora aí. Mando um beijo grande e um abraço apertado.
+
+Com carinho,
+
+Mayra.
+Pergunta:
+Segundo o texto, Mayra ficou muito feliz porque:
+Opções:
+-> a) Ela estava com muita saudade do sabor do bolo da vovó.
+   b) Ela ouviu a mãe dizer que o bolo estava fofinho.
+   c) Ela comeu o bolo quando chegou da escola.
+   d) Ela vai pedir à vovó para ensinar a receita quando vier visitar.
+Justificativas:
+a) GABARITO. Os estudantes que assinalarem esta alternativa identificarão corretamente a relação de causalidade expressa no texto pelo uso da conjunção 'porque'. O enunciado diz: 'fiquei muito feliz, porque eu estava com muita saudade do seu sabor', ou seja, é o motivo explícito da felicidade de Mayra.
+b) INCORRETA. Ela apenas ouviu a mãe dizer que o bolo estava fofinho, mas essa informação não é apresentada como causa da felicidade de Mayra.
+c) INCORRETA. O texto afirma que Mayra comeu o bolo assim que chegou da escola, mas essa ação não é apontada como motivo de sua felicidade.
+d) INCORRETA. O desejo de aprender a receita é consequência da apreciação do bolo, não a causa da felicidade mencionada.

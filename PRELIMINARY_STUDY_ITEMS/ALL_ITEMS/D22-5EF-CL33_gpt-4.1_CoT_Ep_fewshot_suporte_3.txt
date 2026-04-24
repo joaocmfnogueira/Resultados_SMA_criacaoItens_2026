@@ -1,0 +1,29 @@
+Questão 1
+Competência Avaliada: Reconhecer, em textos de nível 2, relações lógico-discursivas de condição marcadas por conjunções mais usuais.
+Comando: Leia o texto.
+Texto de Suporte:
+O que significa de fato ter um “bom” sono?
+
+É comum ouvir que os adultos precisam de sete a nove horas de sono por noite. Mas dormir bem é mais do que o número de horas - é também uma questão de qualidade.
+
+Para a maioria das pessoas, uma boa noite dormida significa conseguir pegar no sono logo após ir para a cama (em cerca de 30 minutos), ficar sem acordar por longos períodos e despertar, de manhã, sentindo-se descansado e pronto para o dia.
+
+Você não deve se sentir excessivamente sonolento durante o dia, especialmente se estiver dormindo regularmente pelo menos sete horas de sono reparador por noite (essa é uma regra geral).
+
+Mas, se você perceber que fisicamente cansado, precisando cochilar regularmente e, ainda assim, não se sentindo revigorado, pode valer a pena entrar em contato com seu clínico geral pois há uma série de possíveis motivos para isso.
+
+Disponível em:  https://g1.globo.com/saude/noticia/2024/10/14/uma-noite-de-sono-ininterrupta-e-um-mito-veja-o-que-e-e-como-e-um-bom-sono.ghtml. Acesso em: 29 mai. 2025.
+Pergunta:
+Assinale a alternativa em que a relação de condição está expressa por uma conjunção mais usual.
+Opções:
+   a) Mas dormir bem é mais do que o número de horas - é também uma questão de qualidade.
+-> b) Você não deve se sentir excessivamente sonolento durante o dia, especialmente se estiver dormindo regularmente pelo menos sete horas de sono reparador por noite (essa é uma regra geral).
+   c) Para a maioria das pessoas, uma boa noite dormida significa conseguir pegar no sono logo após ir para a cama (em cerca de 30 minutos), ficar sem acordar por longos períodos e despertar, de manhã, sentindo-se descansado e pronto para o dia.
+   d) É comum ouvir que os adultos precisam de sete a nove horas de sono por noite.
+Justificativas:
+a) INCORRETA. O estudante que assinalou essa alternativa pode ter se confundido com a ideia de oposição (mas), mas não há relação de condição nem conjunção condicional nesse trecho.
+b) CORRETA. O estudante que assinalou essa alternativa reconheceu corretamente a relação lógico-discursiva de condição, marcada pela conjunção 'se': 'especialmente se estiver dormindo regularmente pelo menos sete horas de sono reparador por noite'. O trecho apresenta uma condição para não se sentir sonolento durante o dia, evidenciando o uso da conjunção condicional mais usual.
+c) INCORRETA. O estudante que assinalou essa alternativa pode ter se confundido com a explicação de características de uma boa noite de sono, mas não há relação de condição nem conjunção condicional nesse trecho.
+d) INCORRETA. O estudante que assinalou essa alternativa pode ter se guiado pela informação inicial do texto, mas não há relação de condição nem conjunção condicional nesse trecho, apenas uma afirmação sobre a quantidade de sono recomendada.
+
+--------------------------------------------------------------------------------

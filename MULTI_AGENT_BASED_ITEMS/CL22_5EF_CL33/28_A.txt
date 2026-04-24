@@ -1,0 +1,30 @@
+Questão 28
+Origem: 06_saida.json
+Competência Avaliada: Reconhecer, relações lógico-discursivas de condição, marcadas por conjunções mais usuais em notícias.
+Comando: Leia o texto.
+Texto de Suporte:
+Cachorros participam de concurso de fantasias de Carnaval
+
+Um concurso de fantasias onde todos os participantes têm... quatro patas!
+
+Fantasia, originalidade e simpatia serão as categorias analisadas pelo júri. Entre os 30 inscritos, estão raças como husky siberiano, maltês, bernese e fox paulistinha.
+
+Os interessados inscreveram cães de pequeno, médio e grande porte. Os chamados cães de guarda, como pastor alemão e dobermann, por exemplo, não participam do desfile.
+
+Serão escolhidos nove animais, três por categoria, e os prêmios são coleiras e vales de compras e refeição.
+
+A plateia do desfile também poderá ser ocupada por cães de qualquer raça ou porte, desde que estejam de coleiras.
+
+Disponível em https://www1.folha.uol.com.br/folhinha/2014/02/1418950-cachorros-participam-de-concurso-de-fantasias-de-carnaval.shtml Acesso em: 22.10.2025
+Pergunta:
+Qual trecho do texto indica uma ideia de condição?
+Opções:
+   a) Entre os 30 inscritos, estão raças como husky siberiano, maltês, bernese e fox paulistinha.
+   b) Os chamados cães de guarda, como pastor alemão e dobermann, por exemplo, não participam do desfile.
+-> c) A plateia do desfile também poderá ser ocupada por cães de qualquer raça ou porte, desde que estejam de coleiras.
+   d) Serão escolhidos nove animais, três por categoria, e os prêmios são coleiras e vales de compras e refeição.
+Justificativas:
+a) INCORRETA. Os estudantes que assinalaram esta alternativa reconheceram um trecho informativo, mas que não apresenta relação de condição. Não há nenhuma conjunção condicional ou contexto que limite a ação descrita.
+b) INCORRETA. Esta alternativa apresenta um trecho com a conjunção 'como', que aqui tem valor explicativo/exemplificativo, indicando exemplos de cães de guarda, mas não estabelece relação de condição.
+c) CORRETA. Os estudantes que assinalaram esta alternativa reconheceram corretamente a relação lógico-discursiva de condição, marcada pela conjunção 'desde que'. O trecho 'A plateia do desfile também poderá ser ocupada por cães de qualquer raça ou porte, desde que estejam de coleiras.' apresenta uma condição para que os cães possam ocupar a plateia: é necessário que estejam de coleiras.
+d) INCORRETA. Os estudantes que assinalaram esta alternativa podem ter identificado a conjunção 'e', que indica adição, não condição. O trecho apenas informa o número de animais escolhidos e os prêmios, sem apresentar relação condicional.

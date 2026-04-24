@@ -1,0 +1,31 @@
+Questão 1
+Competência Avaliada: Reconhecer, em textos de nível 2, relações lógico-discursivas de condição marcadas por conjunções mais usuais.
+Comando: Leia o texto.
+Texto de Suporte:
+Como melhorar a concentração nos estudos?
+
+Manter o foco durante os estudos pode ser um desafio, especialmente com tantas distrações ao nosso redor. No entanto, existem técnicas eficazes que podem ajudar.
+
+Primeiro, é importante criar um ambiente adequado: silencioso, bem iluminado e organizado. Se você estudar em um local com muito barulho ou desorganizado, sua concentração certamente será afetada.
+
+Segundo, faça pausas regulares. Embora pareça contraditório, descansar por 5 minutos a cada 25 minutos de estudo (técnica Pomodoro) pode aumentar significativamente seu rendimento.
+
+Terceiro, mantenha-se hidratado. Quando o corpo está desidratado, o cérebro tem mais dificuldade para se concentrar. Portanto, se você quiser manter o foco, não se esqueça de beber água regularmente.
+
+Por fim, estabeleça metas claras. Sem objetivos definidos, é fácil perder a motivação. Mas se você souber exatamente o que precisa alcançar em cada sessão de estudos, ficará mais fácil manter a concentração.
+
+Disponível em: https://www.educacao.com/dicas/estudo/concentracao. Acesso em: 15 jun. 2025.
+Pergunta:
+No texto, temos ideia de condição em
+Opções:
+-> a) "Se você estudar em um local com muito barulho ou desorganizado, sua concentração certamente será afetada."
+   b) "Embora pareça contraditório, descansar por 5 minutos a cada 25 minutos de estudo (técnica Pomodoro) pode aumentar significativamente seu rendimento."
+   c) "Primeiro, é importante criar um ambiente adequado: silencioso, bem iluminado e organizado."
+   d) "Por fim, estabeleça metas claras."
+Justificativas:
+a) CORRETA. Os estudantes que assinalaram essa alternativa identificaram corretamente a relação lógico-discursiva de condição marcada pela conjunção 'se', que estabelece uma condição para que a concentração seja afetada.
+b) INCORRETA. Os estudantes que escolheram esta alternativa confundiram a relação de oposição ('embora') com uma relação de condição. O trecho apresenta um contraste, não uma condição.
+c) INCORRETA. Esta alternativa apresenta uma enumeração de características de um ambiente adequado, sem qualquer relação de condição expressa no trecho.
+d) INCORRETA. O trecho selecionado é uma recomendação geral sem estabelecer nenhuma relação de condição. Não há conjunção condicional presente.
+
+--------------------------------------------------------------------------------

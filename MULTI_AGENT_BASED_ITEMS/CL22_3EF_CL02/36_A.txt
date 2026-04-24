@@ -1,0 +1,23 @@
+Questão 36
+Origem: 08_saida.json
+Competência Avaliada: Reconhecer, em textos de nível 1, relações lógico-discursivas de causalidade marcadas por conjunções mais usuais.
+Comando: Leia o texto.
+Texto de Suporte:
+Querida Lara,
+
+Estou te escrevendo porque ontem ouvi uma música nova no rádio e lembrei de você. Sempre gostei de ouvir canções animadas, pois elas me deixam feliz e cheia de energia. Minha mãe fala que música é importante para relaxar, já que às vezes fico ansiosa antes das provas. Por isso, escutar músicas calmas à noite me ajuda a dormir melhor. Espero que você também tenha músicas favoritas e que elas tragam alegria para o seu dia.
+
+Com carinho,
+Ana.
+Pergunta:
+Segundo o texto, Ana gosta de ouvir canções animadas, porque:
+Opções:
+-> a) elas a deixam feliz e cheia de energia.
+   b) ela lembrou da Lara.
+   c) sua mãe disse que música é importante para relaxar.
+   d) ela precisa dormir melhor à noite.
+Justificativas:
+a) GABARITO. O estudante que escolheu esta alternativa identificou corretamente a relação de causalidade: no trecho 'Sempre gostei de ouvir canções animadas, pois elas me deixam feliz e cheia de energia.' A conjunção 'pois' indica a causa do gosto de Ana por esse tipo de música, correspondendo exatamente ao que é solicitado no comando da questão.
+b) INCORRETA. Embora Ana tenha lembrado de Lara ao ouvir uma música, este não é o motivo pelo qual ela gosta de canções animadas. O trecho 'Estou te escrevendo porque ontem ouvi uma música nova no rádio e lembrei de você' apresenta uma ação diferente, relacionada à lembrança da amiga, e não à causa do seu gosto pelas músicas animadas.
+c) INCORRETA. No texto, quem fala sobre a importância da música para relaxar é a mãe de Ana, mas isso se relaciona ao uso de músicas calmas para dormir melhor, não à preferência por canções animadas. Assim, esta alternativa apresenta informação verdadeira do texto, mas que não responde ao comando da questão.
+d) INCORRETA. Escutar músicas calmas à noite ajuda Ana a dormir melhor, mas isso não está associado ao motivo pelo qual ela gosta de canções animadas. O estudante que escolher esta alternativa demonstra dificuldade em identificar a relação de causalidade correta solicitada no item.

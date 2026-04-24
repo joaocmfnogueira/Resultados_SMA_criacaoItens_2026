@@ -1,0 +1,31 @@
+Questão 6
+Origem: 02_saida.json
+Competência Avaliada: Reconhecer, relações lógico-discursivas de condição, marcadas por conjunções mais usuais em notícias.
+Comando: Leia o texto.
+Texto de Suporte:
+Girafa nasce no Zoológico de SP, que aceita sugestões para escolha do nome
+Mel deu à luz a um filhote com mais de dois metros
+
+O Zoológico de São Paulo anunciou, na última quinta-feira (29), que um filhote de girafa macho, com dois metros de altura, nasceu. Ele é filho de Palito e Mel, residentes do zoológico há mais de 17 anos.
+A imagem mostra uma girafa em close, destacando seu rosto e pescoço. A girafa tem um padrão de manchas marrons e brancas em sua pele, com orelhas pequenas e cabelos curtos no topo da cabeça. O fundo é desfocado, sugerindo um ambiente natural ou um zoológico.
+Imagem do novo residente do zoológico, que ainda não tem nome definido - Divulgação/Zoológico de São Paulo
+
+A nova girafa, que ainda não tem um nome, nasceu saudável, após um processo de cerca de 3 horas de trabalho parto. O filhote se une a mais duas girafas que vivem ali, além de seus pais. Mãe e filho já estão na área de visitação.
+
+O zoo paulistano também abriu sugestões para a escolha do nome. Elas podem ser enviadas para as redes sociais da instituição, que mantém o perfil @zoosaopaulo no Instagram.
+
+Caso queira conhecer o novo morador e os outros bichinhos que moram zoológico, o local fica na Miguel Estefno, 4241, Água Funda, ao lado do Jardim Botânico. Aberto todos os dias das 9 até às 17.
+
+https://www1.folha.uol.com.br/folhinha/2025/06/girafa-nasce-no-zoologico-de-sp-que-aceita-sugestoes-para-escolha-do-nome.shtml <Acessado em 17/10/2025>
+Pergunta:
+Qual trecho do texto indica uma ideia de condição?
+Opções:
+   a) O Zoológico de São Paulo anunciou, na última quinta-feira (29), que um filhote de girafa macho, com dois metros de altura, nasceu.
+-> b) Caso queira conhecer o novo morador e os outros bichinhos que moram zoológico, o local fica na Miguel Estefno, 4241, Água Funda, ao lado do Jardim Botânico.
+   c) O filhote se une a mais duas girafas que vivem ali, além de seus pais.
+   d) A nova girafa, que ainda não tem um nome, nasceu saudável, após um processo de cerca de 3 horas de trabalho parto.
+Justificativas:
+a) INCORRETA. Este trecho apresenta uma oração coordenada explicando o anúncio do nascimento da girafa, mas não há relação de condição nem conjunção condicional. A conjunção 'que' introduz uma oração subordinada substantiva, sem sentido condicional.
+b) CORRETA. O trecho apresenta a conjunção condicional 'caso', que é uma das mais usuais para indicar condição. O sentido é condicional: o convite ao leitor para visitar o zoológico só se concretiza 'caso' ele queira, ou seja, depende dessa condição.
+c) INCORRETA. 'Além de seus pais' indica uma relação de adição, e não de condição. Não há conjunção condicional neste trecho.
+d) INCORRETA. O termo 'após' indica uma relação temporal de sucessão entre os fatos e não de condição. Não há conjunção condicional aqui.

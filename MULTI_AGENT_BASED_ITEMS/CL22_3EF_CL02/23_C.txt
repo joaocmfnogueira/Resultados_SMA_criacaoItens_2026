@@ -1,0 +1,24 @@
+Questão 23
+Origem: 05_saida.json
+Competência Avaliada: Reconhecer, em textos de nível 1, relações lógico-discursivas de causalidade marcadas por conjunções mais usuais.
+Comando: Leia o texto.
+Texto de Suporte:
+Querida vovó,
+
+Recebi o bolo que a senhora mandou e fiquei muito feliz, porque eu estava com muita saudade do seu sabor. Comi um pedaço assim que cheguei da escola, pois estava com fome e o cheiro era delicioso. Minha mãe também gostou muito e disse que estava muito fofinho, já que a senhora sempre capricha nas receitas. Por isso, vou pedir para a senhora ensinar para mim quando vier nos visitar. Espero que esteja tudo bem com a senhora aí. Mando um beijo grande e um abraço apertado.
+
+Com carinho,
+
+Mayra.
+Pergunta:
+De acordo com o texto, Mayra ficou muito feliz porque:
+Opções:
+-> a) estava com muita saudade do sabor do bolo da vovó.
+   b) achou que o bolo estava muito fofinho e gostoso.
+   c) comeu um pedaço do bolo assim que chegou da escola.
+   d) esperava que estivesse tudo bem com a vovó.
+Justificativas:
+a) GABARITO. Os estudantes que assinalaram esta alternativa de resposta identificaram corretamente a relação de causalidade expressa pela conjunção 'porque' no texto. Mayra ficou feliz porque estava com muita saudade do sabor do bolo da vovó. A alternativa repete a justificativa apresentada no próprio trecho: 'fiquei muito feliz, porque eu estava com muita saudade do seu sabor'.
+b) INCORRETA. Os estudantes que assinalaram esta alternativa mobilizam uma informação real do texto — o comentário de que o bolo estava muito fofinho —, mas essa razão não está relacionada diretamente à felicidade de Mayra. Demonstra dificuldade em distinguir a causa da felicidade de Mayra de outras informações presentes na carta.
+c) INCORRETA. A informação apresentada na alternativa é verdadeira (Mayra comeu o bolo assim que chegou da escola), mas não é a causa diretamente declarada para a felicidade dela. Essa alternativa traz uma ação da personagem, e não o motivo da felicidade de Mayra explicitado pela conjunção 'porque'.
+d) INCORRETA. A alternativa traz o desejo de Mayra em relação ao bem-estar da vovó. Embora se refira a um trecho da carta, este não indica o motivo da felicidade de Mayra, estando fora da relação de causa solicitada pelo comando.

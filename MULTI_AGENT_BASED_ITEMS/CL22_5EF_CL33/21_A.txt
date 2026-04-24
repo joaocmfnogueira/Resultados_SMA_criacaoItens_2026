@@ -1,0 +1,26 @@
+Questão 21
+Origem: 05_saida.json
+Competência Avaliada: Reconhecer, relações lógico-discursivas de condição, marcadas por conjunções mais usuais em notícias.
+Comando: Leia o texto.
+Texto de Suporte:
+Piquenique ao ar livre convida crianças a brincarem com água em São Paulo
+
+Roteiro da Semana No próximo sábado (14), crianças poderão levar suas roupas de banho e protetor solar para a praça Adolpho Bloch, em São Paulo, e participar de um piquenique diferente.
+
+O evento, realizado pela Casa do Brincar, convida o público a se divertir em brincadeiras com água ao ar livre.
+
+A recomendação é que todos levem algo para comer, beber, além de toalha. Quem quiser também pode levar uma garrafinha para ajudar nas brincadeiras.
+
+A programação é gratuita e não é necessário fazer inscrição. Caso chova, a data será remarcada.
+Pergunta:
+Qual trecho do texto expressa uma ideia de condição?
+Opções:
+   a) No próximo sábado (14), crianças poderão levar suas roupas de banho **e** protetor solar.
+   b) A recomendação é que todos levem algo para comer, beber, **além de** toalha.
+-> c) **Caso** chova, a data será remarcada.
+   d) A programação é gratuita **e** não é necessário fazer inscrição.
+Justificativas:
+a) INCORRETA. O conectivo **e** estabelece apenas relação de adição entre as ações de ‘levar roupas de banho’ e ‘levar protetor solar’; não há dependência condicional entre elas.
+b) INCORRETA. A expressão **além de** tem valor aditivo, acrescentando informação ao que se pede que o público leve, sem introduzir condição para a ação ocorrer.
+c) CORRETA. O conectivo **caso** introduz uma hipótese: somente se chover (condição) a data será remarcada, configurando relação condicional clara entre as orações.
+d) INCORRETA. O conectivo **e** coordena duas informações (‘programação é gratuita’ + ‘não é necessário inscrição’) indicando soma, não condição; uma oração não depende da outra.

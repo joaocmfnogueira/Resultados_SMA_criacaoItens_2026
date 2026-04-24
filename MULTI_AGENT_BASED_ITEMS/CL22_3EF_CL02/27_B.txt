@@ -1,0 +1,23 @@
+Questão 27
+Origem: 06_saida.json
+Competência Avaliada: Reconhecer, em textos de nível 1, relações lógico-discursivas de causalidade marcadas por conjunções mais usuais.
+Comando: Leia o texto.
+Texto de Suporte:
+Professora Ana,
+
+Estou escrevendo para contar que comecei a ler um livro muito interessante sobre animais da floresta. Estou gostando muito da leitura porque as histórias são divertidas e fáceis de entender. Ontem, li sobre uma onça que ajudou um coelho. Fiquei animado para ler mais, pois quero descobrir como termina a aventura deles. Também estou lendo todos os dias já que você pediu para praticarmos a leitura em casa. Minha irmã está lendo comigo, por isso estamos passando mais tempo juntos.
+
+Um abraço,
+Helena.
+Pergunta:
+Helena está lendo todos os dias, já que:
+Opções:
+-> a) a professora pediu para praticar a leitura em casa.
+   b) ela ganhou um livro interessante sobre animais da floresta.
+   c) sua irmã está lendo com ela todos os dias.
+   d) ela quer saber como termina a aventura da onça e do coelho.
+Justificativas:
+a) GABARITO - Os estudantes que assinalaram esta alternativa de resposta identificaram corretamente a relação de causalidade demandada pelo comando do item. O texto afirma que Helena está lendo todos os dias já que (porque) a professora pediu para praticar a leitura em casa. A conjunção 'já que' explicita a causa da ação de Helena.
+b) INCORETO - Quem marcou esta opção pode ter se confundido ao pensar que o fato de ganhar ou ter acesso a um livro interessante motiva Helena a ler todos os dias, mas esta não é a causa explicitada no trecho comandado. O texto diz que ela gosta da leitura porque as histórias são divertidas, mas a causa de ler todos os dias é outra.
+c) INCORRETO - Esta alternativa apresenta uma outra informação correta do texto, mas que se refere à consequência de Helena ler com sua irmã, não a causa de estar lendo todos os dias. Assim, não responde ao comando do item.
+d) INCORRETO - Esta opção também apresenta uma motivação parcial de Helena para continuar lendo, pois ela quer saber como termina a história, mas não é apontada como a causa de ela ler todos os dias, de acordo com a conjunção causal usada ('já que').

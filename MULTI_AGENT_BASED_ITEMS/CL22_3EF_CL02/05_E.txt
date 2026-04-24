@@ -1,0 +1,24 @@
+Questão 5
+Origem: 01_saida.json
+Competência Avaliada: Reconhecer, em textos de nível 1, relações lógico-discursivas de causalidade marcadas por conjunções mais usuais.
+Comando: Leia o texto.
+Texto de Suporte:
+Carol,
+
+Estou escrevendo para contar o que quero ser quando crescer. Decidi ser veterinária porque amo cuidar dos animais. Sempre que vejo um cachorro ou um gato na rua, fico preocupada se estão bem. Já que gosto muito de ajudar, acho que essa profissão combina comigo. Também penso em estudar bastante, pois sei que preciso de muito conhecimento para cuidar dos bichinhos. Meu pai disse que vai me apoiar, por isso estou muito animada!
+Escreva contando o que você quer ser também.
+
+Com carinho,
+Luiza.
+Pergunta:
+Luiza decidiu ser veterinária porque:
+Opções:
+-> a) ama cuidar dos animais.
+   b) gosta muito de ajudar.
+   c) recebe apoio do pai.
+   d) pretende estudar bastante.
+Justificativas:
+a) GABARITO. Os estudantes que assinalaram esta alternativa identificaram corretamente a relação de causalidade solicitada pelo comando do item. No texto, Luiza afirma: "Decidi ser veterinária porque amo cuidar dos animais", explicitando que esse é o motivo de sua escolha. A alternativa reproduz exatamente a causa, conforme pedido.
+b) INCORRETA. Embora Luiza também diga gostar de ajudar, essa informação aparece em outro trecho do texto ("Já que gosto muito de ajudar, acho que essa profissão combina comigo") e serve para reforçar sua identificação com a profissão, mas não é apresentada como causa direta para a decisão de ser veterinária.
+c) INCORRETA. O apoio do pai é mencionado ("Meu pai disse que vai me apoiar, por isso estou muito animada!"), mas o texto apresenta esse apoio como razão para ela estar animada, não como causa da escolha de ser veterinária. Assim, a alternativa "recebe apoio do pai" descreve uma consequência posterior, não a causa solicitada.
+d) INCORRETA. Luiza afirma que pretende estudar bastante porque sabe que precisa de conhecimento, mas esse é um plano futuro decorrente de sua escolha, não o motivo que a levou a decidir ser veterinária.

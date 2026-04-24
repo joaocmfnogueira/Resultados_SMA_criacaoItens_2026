@@ -1,0 +1,24 @@
+Questão 3
+Origem: 01_saida.json
+Competência Avaliada: Reconhecer, em textos de nível 1, relações lógico-discursivas de causalidade marcadas por conjunções mais usuais.
+Comando: Leia o texto.
+Texto de Suporte:
+Carol,
+
+Estou escrevendo para contar o que quero ser quando crescer. Decidi ser veterinária porque amo cuidar dos animais. Sempre que vejo um cachorro ou um gato na rua, fico preocupada se estão bem. Já que gosto muito de ajudar, acho que essa profissão combina comigo. Também penso em estudar bastante, pois sei que preciso de muito conhecimento para cuidar dos bichinhos. Meu pai disse que vai me apoiar, por isso estou muito animada!
+Escreva contando o que você quer ser também.
+
+Com carinho,
+Luiza.
+Pergunta:
+Luiza decidiu ser veterinária porque:
+Opções:
+-> a) ama cuidar dos animais.
+   b) pensa em estudar bastante.
+   c) recebe apoio do pai.
+   d) vê cachorros e gatos na rua.
+Justificativas:
+a) GABARITO. Esta opção apresenta a causa exata da decisão de Luiza, conforme expresso no texto: 'Decidi ser veterinária porque amo cuidar dos animais.' O estudante que marcar essa alternativa reconhece corretamente a relação de causalidade, identificando o motivo da escolha profissional de Luiza baseado na conjunção 'porque'.
+b) INCORRETA. Esta opção apresenta uma ação futura de Luiza ('pensa em estudar bastante') que não é a causa de sua decisão, mas sim uma consequência ou planejamento que ela descreve ao longo da carta. Portanto, não atende ao comando de identificar a causa da decisão de ser veterinária.
+c) INCORRETA. O apoio do pai aparece como um elemento de incentivo ('meu pai disse que vai me apoiar, por isso estou muito animada!'), mas não é apresentado como a causa da decisão de Luiza ser veterinária. Quem marca esta alternativa demonstra foco em um incentivo familiar, não no motivo da escolha apresentado no texto.
+d) INCORRETA. Ver cachorros e gatos na rua está relacionado à preocupação de Luiza com os animais, mas o texto não aponta isso como a causa direta de sua decisão de ser veterinária. A escolha não corresponde à relação causal citada explicitamente no texto por meio da conjunção 'porque'.

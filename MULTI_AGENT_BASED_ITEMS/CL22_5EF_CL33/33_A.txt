@@ -1,0 +1,35 @@
+Questão 33
+Origem: 07_saida.json
+Competência Avaliada: Reconhecer, relações lógico-discursivas de condição, marcadas por conjunções mais usuais em notícias.
+Comando: Leia o texto.
+Texto de Suporte:
+Por engano, pai reserva casa minúscula para férias da família
+
+Hilário, o vídeo em que os filhos caem na gargalhada ao se depararem com a propriedade viralizou e foi visto mais de 30 milhões de vezes no TikTok
+
+Ah, as férias! Nada como relaxar em um lugar diferente e confortável, junto de quem você mais ama, para recarregar as energias. A menos que você tenha de dormir em pé! Só assim para as quatro pessoas e os dois cães de grande porte da família de Kylie Keefe se acomodarem na casa, em Adondiracks, ao norte de Nova York, que seu pai reservou por engano, pelo Airbnb.
+
+A família viajou para aproveitar os dias de folga, mas, ao chegar no endereço que o aplicativo de reserva mostrava, todos caíram na gargalhada. Kylie Keefe, uma das filhas, filmou o momento em que eles se depararam com a casa minúscula, ao som de risos incontroláveis.
+“Então, meu pai alugou este Airbnb para quatro pessoas e dois cachorros por algumas noites”, escreveu a jovem, que mal consegue respirar, de tanto rir, ao lado do irmão, Aidan, quando eles percebem o erro do pai.
+
+"Aidan, até seu carro é maior do que isso", Kylie diz. "Como ele esperava que nós ficássemos nisso?", diverte-se.
+
+A madrasta de Kylie, Erika, compartilhou outro vídeo, com um passeio pela casa, mostrando uma cama de casal no mezanino e duas "cadeiras dobráveis" que deveriam se transformar em camas.
+
+A empresa ACL Tiny Houses, responsável pela casa, confirmou, mais tarde, que o pai de Kylie, sem querer, reservou uma casa para duas pessoas em vez de quatro. No entanto, a descrição dizia que "acomoda três pessoas, confortavelmente".
+
+Nos comentários, as pessoas também fizeram piadas. "Essa é a casinha do cachorro", escreveu um internauta, enquanto outra disse: "Tenho certeza de que papai está se gabando do bom negócio que fez".
+
+Disponível em https://revistacrescer.globo.com/Educacao-Comportamento/noticia/2022/08/por-engano-pai-reserva-casa-minuscula-para-ferias-da-familia.html Acesso em: 27.10.2025
+Pergunta:
+Qual trecho do texto indica uma ideia de condição?
+Opções:
+-> a) A menos que você tenha de dormir em pé, só assim para as quatro pessoas e os dois cães se acomodarem na casa.
+   b) A família viajou para aproveitar os dias de folga, mas, ao chegar ao endereço indicado pelo aplicativo, todos caíram na gargalhada.
+   c) Kylie mal conseguia respirar de tanto rir, quando ela e o irmão finalmente perceberam o grave erro cometido pelo pai.
+   d) A empresa ACL Tiny Houses confirmou a reserva para duas pessoas; no entanto, a descrição indicava que acomodava três hóspedes confortavelmente.
+Justificativas:
+a) GABARITO. O trecho é introduzido pela locução conjuntiva "A menos que", que expressa relação de condição (caso não se cumpra a condição, não será possível acomodar todos).
+b) INCORRETA. O conector "mas" estabelece relação de oposição/contraste entre as ações de viajar e cair na gargalhada, não de condição.
+c) INCORRETA. A conjunção "quando" introduz uma circunstância temporal (momento em que percebem o erro), e não condicional.
+d) INCORRETA. O conector adversativo "no entanto" introduz ideia de oposição, não expressando condição entre os fatos apresentados.

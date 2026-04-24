@@ -1,0 +1,26 @@
+Questão 18
+Origem: 03_saida.json
+Competência Avaliada: Reconhecer, em textos de nível 2, relações lógico-discursivas de condição, marcadas por conjunções mais usuais.
+Comando: Leia o texto.
+Texto de Suporte:
+FILHOTE DE ARARA-AZUL-DE-LEAR NASCE NO ZOOLÓGICO DE SP
+Instituição é a primeira no continente a conseguir sucesso na reprodução da espécie, que está ameaçada de extinção.
+
+Um filhote de Arara-azul-de-Lear nasceu neste sábado, 16, no Zoológico de São Paulo. Logo após o nascimento, a informação foi divulgada pela própria instituição, que celebrou o nascimento de mais um da espécie, que está ameaçada de extinção.
+A ave é nativa do nordeste da Bahia e tem, como o nome sugere, uma coloração com tons de azul. Provavelmente devido a sua beleza, a espécie foi muito capturada no passado para criação doméstica. De acordo com o zoológico, a instituição é a primeira no continente americano a conseguir sucesso na reprodução.
+“Nós amamos essa notícia, e ficamos ainda mais felizes que tenha acontecido em um dia tão importante como o nosso aniversário de 66 anos”, comemorou o Zoo em nota.
+Se continuar sem cuidados específicos de proteção, a ave pode desaparecer. Pensando nisso, a espécie também está inserida em um Programa de Conservação interno com intuito de reintroduzir o animal ao seu habitat natural.
+
+https://www.terra.com.br/planeta/noticias/filhote-de-arara-azul-de-lear-nasce-no-zoologico-de-sp,a4c29156ae39d59e7eb81dc62e6fe198o4v5xgug.html?utm_source=clipboard
+Pergunta:
+Qual trecho do texto indica uma ideia de condição?
+Opções:
+-> a) A ave poderá desaparecer **se** continuar sem cuidados específicos de proteção.
+   b) A ave nasceu no sábado, **e** logo foi apresentada ao público.
+   c) A ave é nativa da Bahia, **mas** enfrenta captura ilegal.
+   d) A ave encanta visitantes **porque** possui plumagem azul intensa.
+Justificativas:
+a) GABARITO – O trecho apresenta a conjunção "se", que estabelece uma condição: o desaparecimento da ave ocorrerá somente caso ela permaneça sem cuidados. Assim, a frase realiza a relação lógico-discursiva de condição solicitada.
+b) INCORRETA – A conjunção "e" (marcada em negrito) expressa adição, somando a informação do nascimento à apresentação ao público. Não há condicionante entre os fatos, logo, não satisfaz o comando do item.
+c) INCORRETA – O conector "mas" indica oposição/contraste entre a origem da ave e a ameaça de captura. Embora seja conjunção, seu valor semântico é adversativo, não condicional.
+d) INCORRETA – O termo "porque" introduz explicação/causa da admiração dos visitantes. Diferentemente da relação de condição, apresenta motivo, afastando-se do que foi pedido.

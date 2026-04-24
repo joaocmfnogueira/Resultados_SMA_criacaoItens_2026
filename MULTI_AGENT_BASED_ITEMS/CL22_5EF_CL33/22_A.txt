@@ -1,0 +1,28 @@
+Questão 22
+Origem: 05_saida.json
+Competência Avaliada: Reconhecer, relações lógico-discursivas de condição, marcadas por conjunções mais usuais em notícias.
+Comando: Leia o texto.
+Texto de Suporte:
+Piquenique ao ar livre convida crianças a brincarem com água em São Paulo
+
+Roteiro da Semana No próximo sábado (14), crianças poderão levar suas roupas de banho e protetor solar para a praça Adolpho Bloch, em São Paulo, e participar de um piquenique diferente.
+
+O evento, realizado pela Casa do Brincar, convida o público a se divertir em brincadeiras com água ao ar livre.
+
+A recomendação é que todos levem algo para comer, beber, além de toalha. Quem quiser também pode levar uma garrafinha para ajudar nas brincadeiras.
+
+A programação é gratuita e não é necessário fazer inscrição. Caso chova, a data será remarcada.
+
+https://www1.folha.uol.com.br/folhinha/2013/12/1383484-piquenique-ao-ar-livre-em-sao-paulo-convida-criancas-a-brincarem-com-agua.shtml <Acessado em 17/10/2025>
+Pergunta:
+Qual trecho do texto indica uma ideia de condição?
+Opções:
+   a) Durante o piquenique, todos devem levar alimentos **e** bebidas para dividir, seguindo a recomendação da organização.
+   b) Durante o piquenique, a organização sugere toalha **bem como** roupas de banho para as crianças brincarem com água.
+   c) Durante o piquenique, haverá várias atividades lúdicas, **mas** o evento permanecerá gratuito para todas as famílias participantes.
+-> d) Durante o piquenique, **caso** chova, a equipe remarcará a atividade e avisará o novo dia.
+Justificativas:
+a) INCORRETA. A conjunção "**e**" apenas soma informações (adição); não estabelece relação de hipótese e resultado.
+b) INCORRETA. O conector "**bem como**" também indica adição, apresentando elementos complementares sem sentido condicional.
+c) INCORRETA. O conector "**mas**" introduz oposição (adversidade) entre as ideias, sem expressar dependência condicional.
+d) CORRETA. O conector "**caso**" introduz oração condicional: se chover, então a data será remarcada, configurando relação de condição.

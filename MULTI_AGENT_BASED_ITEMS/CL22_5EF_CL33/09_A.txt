@@ -1,0 +1,29 @@
+Questão 9
+Origem: 02_saida.json
+Competência Avaliada: Reconhecer, relações lógico-discursivas de condição, marcadas por conjunções mais usuais em notícias.
+Comando: Leia o texto.
+Texto de Suporte:
+Girafa nasce no Zoológico de SP, que aceita sugestões para escolha do nome
+Mel deu à luz a um filhote com mais de dois metros
+
+O Zoológico de São Paulo anunciou, na última quinta-feira (29), que um filhote de girafa macho, com dois metros de altura, nasceu. Ele é filho de Palito e Mel, residentes do zoológico há mais de 17 anos.
+A imagem mostra uma girafa em close, destacando seu rosto e pescoço. A girafa tem um padrão de manchas marrons e brancas em sua pele, com orelhas pequenas e cabelos curtos no topo da cabeça. O fundo é desfocado, sugerindo um ambiente natural ou um zoológico.
+Imagem do novo residente do zoológico, que ainda não tem nome definido - Divulgação/Zoológico de São Paulo
+
+A nova girafa, que ainda não tem um nome, nasceu saudável, após um processo de cerca de 3 horas de trabalho parto. O filhote se une a mais duas girafas que vivem ali, além de seus pais. Mãe e filho já estão na área de visitação.
+
+O zoo paulistano também abriu sugestões para a escolha do nome. Elas podem ser enviadas para as redes sociais da instituição, que mantém o perfil @zoosaopaulo no Instagram.
+
+Caso queira conhecer o novo morador e os outros bichinhos que moram zoológico, o local fica na Miguel Estefno, 4241, Água Funda, ao lado do Jardim Botânico. Aberto todos os dias das 9 até às 17.
+Pergunta:
+Qual trecho do texto indica uma ideia de condição?
+Opções:
+-> a) **Caso** queira conhecer o novo morador e os outros bichinhos que moram zoológico, o local fica na Miguel Estefno, 4241, Água Funda, ao lado do Jardim Botânico.
+   b) **que** um filhote de girafa macho, com dois metros de altura, nasceu.
+   c) **após** um processo de cerca de 3 horas de trabalho parto.
+   d) **além de** seus pais.
+Justificativas:
+a) GABARITO: O excerto utiliza a conjunção subordinativa condicional **'Caso'**, que introduz a circunstância de condição para a realização da ação de visitar o zoológico. Se a condição (querer conhecer o novo morador) for satisfeita, realiza-se a ação principal (dirigir-se ao local indicado).
+b) INCORRETA: O conector **'que'** introduz oração completiva, apresentando o conteúdo do que foi anunciado. Ele estabelece relação de complemento, não de condição.
+c) INCORRETA: O termo **'após'** expressa relação de posteridade temporal, indicando que o nascimento saudável ocorreu depois do processo de parto. Não há dependência condicional entre as orações.
+d) INCORRETA: A locução **'além de'** marca ideia de adição, somando informações sobre os animais presentes. Não introduz hipótese ou requisito para outra ação, portanto não exprime condição.

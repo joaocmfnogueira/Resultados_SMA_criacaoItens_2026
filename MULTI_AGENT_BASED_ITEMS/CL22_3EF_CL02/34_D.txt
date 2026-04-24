@@ -1,0 +1,23 @@
+Questão 34
+Origem: 07_saida.json
+Competência Avaliada: Reconhecer, em textos de nível 1, relações lógico-discursivas de causalidade marcadas por conjunções mais usuais.
+Comando: Leia o texto.
+Texto de Suporte:
+Oi Henrique,
+
+Estou muito feliz porque comecei as aulas de natação esta semana. Minha mãe me matriculou pois o médico recomendou que eu praticasse um esporte. No começo eu estava com medo, já que nunca tinha entrado em uma piscina tão grande. O professor é muito legal e ajuda todos os alunos. Agora já estou animado para ir às aulas, por isso acordo cedo todos os dias. Espero que um dia você possa nadar comigo!
+
+Um abraço,
+Joana.
+Pergunta:
+De acordo com o texto, por qual motivo a mãe de Joana a matriculou na natação?
+Opções:
+-> a) Porque o médico recomendou que ela praticasse um esporte.
+   b) Porque Joana acorda cedo todos os dias.
+   c) Porque o professor da natação é muito legal.
+   d) Porque Joana quer nadar com Henrique.
+Justificativas:
+a) GABARITO. Esta alternativa apresenta corretamente a causa da ação apresentada no comando da questão: a mãe de Joana a matriculou na natação porque o médico recomendou que ela praticasse um esporte. Essa relação de causalidade está explicitada no texto, em uma frase marcada pela conjunção 'pois', demonstrando compreensão do uso de conectivos para indicar motivo em um discurso.
+b) INCORRETA. Esta alternativa apresenta uma informação existente no texto (Joana acorda cedo todos os dias) que é consequência do fato de ela estar animada para as aulas de natação, não sendo o motivo pelo qual foi matriculada. O estudante que escolher essa opção demonstra dificuldade em perceber a relação causal explicitada pelo texto.
+c) INCORRETA. O texto menciona que o professor é muito legal e ajuda os alunos, mas isso não é apresentado como causa da matrícula de Joana na natação, e sim como uma característica positiva das aulas. Selecionar essa resposta revela dificuldade em reconhecer as conjunções que introduzem relações de causa.
+d) INCORRETA. Embora Joana deseje que Henrique nade com ela, essa vontade não foi o motivo de sua mãe tê-la matriculado na natação. O estudante que marcar essa alternativa confunde o desejo da personagem com a causa real apontada no texto.

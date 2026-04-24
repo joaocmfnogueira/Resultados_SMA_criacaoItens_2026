@@ -1,0 +1,42 @@
+Questão 44
+Origem: 09_saida.json
+Competência Avaliada: Reconhecer, relações lógico-discursivas de condição, marcadas por conjunções mais usuais em notícias.
+Comando: Leia o texto.
+Texto de Suporte:
+Holanda inaugura primeiro zoológico de micróbios do mundo
+
+O primeiro "zoo interativo de micróbios" do mundo abriu as portas em Amsterdã nesta terça-feira (30), lançando nova luz sobre as minúsculas criaturas que compõem dois terços de toda matéria viva e são vitais para o futuro do nosso planeta.
+
+Orçado em 10 milhões de euros (US$ 13 milhões), o Museu Micropia fica perto do zoológico real Artis, em Amsterdã, cujo diretor teve, há 12 anos, a ideia de expor um arranjo de micróbios vivos em um "microzoo".
+
+"Tradicionalmente, os zoológicos tendiam a mostrar apenas uma pequena parte da natureza, especificamente os animais maiores", declarou Haig Balian à agência de notícias AFP.
+
+"Hoje, nós queremos exibir a micronatureza", disse Balian, que acredita que a importância dos micróbios nos nossos dias atuais tem sido subestimada desde que o cientista holandês Antonie van Leeuwenhoek viu as criaturas microscópicas no século 17.
+
+Frequentemente, os micróbios são associados a doenças, provocadas por vírus, bactérias, fungos e algas, mas eles também são essenciais para nossa sobrevivência e desempenharão um papel cada vez mais importante no futuro da humanidade e do planeta —acrescentou Balian.
+
+"Os micróbios estão em toda parte. Portanto, precisamos de microbiologistas que sejam capazes de trabalhar em qualquer setor: nos hospitais, na produção de alimentos, nas indústrias petrolífera e farmacêutica, por exemplo", afirmou.
+
+Eles já são usados na produção de biocombustíveis, no desenvolvimento de novos tipos de antibióticos e no melhoramento da produtividade agrícola.
+
+Experiências têm demonstrado seu potencial futuro em campos diversos, da geração de energia ao reforço de fundações de prédios, passando pela cura do câncer.
+
+"Se deixarmos a ciência da microbiologia no escuro, relegada a alguns poucos especialistas, o interesse por ela nunca vai se desenvolver", alegou Balian.
+
+"Queremos mostrar aos visitantes como tudo na natureza está interconectado e como os micróbios, fundamentalmente, são parte dessa conexão", acrescentou.
+
+Cada humano adulto carrega no corpo cerca de 1,5 kg de micróbios, e nós morreríamos sem eles — explicou Balian.
+
+https://f5.folha.uol.com.br/estranho/2014/10/1525294-amsterda-inaugura-primeiro-zoologico-de-microbios-do-mundo.shtml Acesso em: 30.10.2025
+Pergunta:
+Qual trecho do texto indica uma ideia de condição?
+Opções:
+-> a) "Se deixarmos a ciência da microbiologia no escuro, relegada a alguns poucos especialistas, o interesse por ela nunca vai se desenvolver", alegou Balian.
+   b) "Frequentemente, os micróbios são associados a doenças, **mas** também são essenciais para nossa sobrevivência", acrescentou Balian.
+   c) "**Portanto**, precisamos de microbiologistas capazes de atuar em qualquer setor", afirmou Balian.
+   d) "Cada humano adulto carrega no corpo cerca de 1,5 kg de micróbios, **e** nós morreríamos sem eles", explicou Balian.
+Justificativas:
+a) GABARITO. O estudante que assinalou esta alternativa reconheceu corretamente o trecho marcado por uma relação lógico-discursiva de condição. A conjunção 'se' introduz uma situação condicional: somente se a ciência da microbiologia for deixada no escuro é que o interesse por ela não se desenvolverá. Portanto, a frase apresenta clara ideia de condição.
+b) INCORRETA. A conjunção destacada **mas** introduz uma relação de oposição/adversidade, contrapondo a associação dos micróbios a doenças ao fato de também serem essenciais. Não há aqui dependência condicional entre as ideias, e sim contraste.
+c) INCORRETA. O conector **portanto** indica conclusão ou consequência, não condição. O trecho expressa o resultado lógico do que foi dito antes, sem estabelecer requisito para que algo aconteça.
+d) INCORRETA. A conjunção **e** estabelece apenas adição entre duas informações: a quantidade de micróbios que carregamos e a importância vital deles. Não há ideia de condição, apenas somatória de fatos.

@@ -1,0 +1,28 @@
+Questão 20
+Origem: 04_saida.json
+Competência Avaliada: Reconhecer, relações lógico-discursivas de condição, marcadas por conjunções mais usuais em notícias.
+Comando: Leia o texto.
+Texto de Suporte:
+Aos 11 anos, garota se torna a mais nova a disputar o US Open de golfe
+
+A americana Lucy Li tem apenas 11 anos, mas já conseguiu um feito de gente grande: ela venceu um torneio classificatório na última segunda-feira (19) e será a competidora mais nova da história a disputar o US Women's Open, um dos principais campeonatos de golfe do mundo.
+
+A garota terminou o torneio em primeiro lugar, com sete tacadas a menos que a segunda colocada. No golfe, o objetivo é fazer com que a bola seja colocada nos 18 buracos do campo com o menor número possível de tacadas.
+
+Lucy bateu a marca da também americana Lexi Thompson, até então a mais nova a participar do US Open. Em 2007, quando tinha 12 anos, Lexi também se classificou para o campeonato.
+
+O US Open de golfe começará no dia 19 de junho em Pinehurst, na Carolina do Norte, e reunirá as principais jogadoras do esporte.
+
+https://www1.folha.uol.com.br/folhinha/2014/05/1457203-aos-11-anos-garota-se-torna-a-mais-nova-a-disputar-o-us-open-de-golfe.shtml <Acessado em 17/10/2025>
+Pergunta:
+Qual trecho do texto indica uma ideia de condição?
+Opções:
+   a) No golfe, o objetivo é fazer com que a bola seja colocada nos 18 buracos do campo com o menor número possível de tacadas.
+-> b) Em 2007, quando tinha 12 anos, Lexi também se classificou para o campeonato.
+   c) A americana Lucy Li tem apenas 11 anos, mas já conseguiu um feito de gente grande.
+   d) Ela venceu um torneio classificatório na última segunda-feira (19) e será a competidora mais nova da história a disputar o US Women's Open.
+Justificativas:
+a) INCORRETA. Os estudantes que assinalaram esta alternativa reconheceram um trecho com a expressão 'com que', que introduz uma oração final (objetivo), mas não de condição. O sentido aqui é de finalidade, indicando o propósito do jogo, e não uma condição para que algo aconteça.
+b) CORRETA. Os estudantes que assinalaram esta alternativa conseguiram reconhecer o trecho marcado por uma relação lógico-discursiva de condição, por meio da conjunção 'quando', que, no contexto, sugere uma condição temporal: 'Em 2007, quando tinha 12 anos, Lexi também se classificou para o campeonato.' Neste caso, a ação de Lexi se classificar está condicionada à idade que ela tinha naquele momento.
+c) INCORRETA. Os estudantes que assinalaram esta alternativa reconheceram a conjunção 'mas', que indica oposição ou contraste, não condição. O trecho contrapõe a pouca idade de Lucy Li ao feito alcançado, não estabelecendo uma condição.
+d) INCORRETA. Os estudantes que assinalaram esta alternativa podem ter reconhecido a conjunção 'e', que indica adição, não condição. O trecho apenas adiciona informações sobre os feitos de Lucy Li, sem apresentar uma ideia condicional.

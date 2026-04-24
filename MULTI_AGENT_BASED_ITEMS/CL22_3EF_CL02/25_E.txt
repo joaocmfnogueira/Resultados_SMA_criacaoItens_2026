@@ -1,0 +1,24 @@
+Questão 25
+Origem: 05_saida.json
+Competência Avaliada: Reconhecer, em textos de nível 1, relações lógico-discursivas de causalidade marcadas por conjunções mais usuais.
+Comando: Leia o texto.
+Texto de Suporte:
+Querida vovó,
+
+Recebi o bolo que a senhora mandou e fiquei muito feliz, porque eu estava com muita saudade do seu sabor. Comi um pedaço assim que cheguei da escola, pois estava com fome e o cheiro era delicioso. Minha mãe também gostou muito e disse que estava muito fofinho, já que a senhora sempre capricha nas receitas. Por isso, vou pedir para a senhora ensinar para mim quando vier nos visitar. Espero que esteja tudo bem com a senhora aí. Mando um beijo grande e um abraço apertado.
+
+Com carinho,
+
+Mayra.
+Pergunta:
+De acordo com o texto, Mayra ficou muito feliz porque:
+Opções:
+-> a) Mayra estava com muita saudade do sabor do bolo da vovó.
+   b) Mayra ouviu sua mãe dizer que o bolo estava fofinho.
+   c) Mayra comeu um pedaço do bolo assim que chegou da escola.
+   d) Mayra vai pedir para a vovó ensinar a receita quando vier visitar.
+Justificativas:
+a) GABARITO: Os estudantes que assinalaram esta alternativa identificaram corretamente a relação de causalidade apresentada no texto. Mayra ficou muito feliz porque estava com muita saudade do sabor do bolo da vovó, explicação dada após a conjunção causal 'porque' no texto.
+b) INCORRETA: Embora a informação esteja presente no texto (Mayra ouviu sua mãe dizer que o bolo estava fofinho), ela não é apresentada como causa da felicidade de Mayra. Essa alternativa avalia se o aluno distingue entre causa e outras ações relatadas.
+c) INCORRETA: Comer um pedaço do bolo é uma ação posterior, não a causa da felicidade. O texto atribui a alegria de Mayra exclusivamente à saudade do sabor do bolo.
+d) INCORRETA: Pedir a receita é uma intenção de Mayra após experimentar o bolo, mas não a causa de sua felicidade inicial. O aluno que escolhe essa resposta demonstra dificuldade em identificar corretamente a relação causal marcada por 'porque'.

@@ -1,0 +1,23 @@
+Questão 32
+Origem: 07_saida.json
+Competência Avaliada: Reconhecer, em textos de nível 1, relações lógico-discursivas de causalidade marcadas por conjunções mais usuais.
+Comando: Leia o texto.
+Texto de Suporte:
+Oi Henrique,
+
+Estou muito feliz porque comecei as aulas de natação esta semana. Minha mãe me matriculou pois o médico recomendou que eu praticasse um esporte. No começo eu estava com medo, já que nunca tinha entrado em uma piscina tão grande. O professor é muito legal e ajuda todos os alunos. Agora já estou animado para ir às aulas, por isso acordo cedo todos os dias. Espero que um dia você possa nadar comigo!
+
+Um abraço,
+Joana.
+Pergunta:
+De acordo com o texto, Joana começou as aulas de natação porque:
+Opções:
+-> a) porque o médico recomendou que ela praticasse um esporte.
+   b) porque o despertador toca cedo todas as manhãs.
+   c) porque o professor da turma é muito legal.
+   d) porque o tamanho da piscina a deixou assustada.
+Justificativas:
+a) GABARITO: A alternativa identifica corretamente a causa citada pela própria Joana na carta: "Minha mãe me matriculou pois o médico recomendou que eu praticasse um esporte."
+b) INCORRETA: O texto menciona que Joana acorda cedo porque está animada, mas isso é consequência do entusiasmo, não o motivo de ter iniciado a natação.
+c) INCORRETA: O fato de o professor ser "muito legal" descreve uma característica das aulas; não foi o fator que motivou a matrícula.
+d) INCORRETA: O medo de entrar em uma piscina grande é um sentimento relatado, não a razão para começar as aulas.

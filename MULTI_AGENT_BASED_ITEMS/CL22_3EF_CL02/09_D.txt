@@ -1,0 +1,23 @@
+Questão 9
+Origem: 02_saida.json
+Competência Avaliada: Reconhecer, em textos de nível 1, relações lógico-discursivas de causalidade marcadas por conjunções mais usuais.
+Comando: Leia o texto.
+Texto de Suporte:
+Querida Amanda,
+
+Estou muito feliz porque minhas férias começaram ontem. Minha mãe disse que poderei brincar no parque todos os dias, pois terminei o ano com boas notas. Hoje acordamos cedo, já que meu irmão queria ir jogar bola comigo. Depois do almoço, fomos tomar sorvete, por isso voltamos para casa bem contentes. Espero que suas férias estejam sendo divertidas também. Escreva contando suas novidades!
+
+Com carinho,
+Lucas
+Pergunta:
+Lucas poderá brincar no parque todos os dias, pois:
+Opções:
+-> a) terminou o ano com boas notas.
+   b) acordou cedo para jogar bola.
+   c) foi tomar sorvete com o irmão.
+   d) começou as férias ontem.
+Justificativas:
+a) GABARITO. Os estudantes que assinalam esta alternativa reconhecem corretamente a relação de causa e consequência explicitada no trecho 'Minha mãe disse que poderei brincar no parque todos os dias, pois terminei o ano com boas notas.' O uso da conjunção 'pois' marca a causalidade, tornando nítida a razão de Lucas poder brincar no parque: ter terminado o ano com boas notas.
+b) INCORRETA. Embora o texto cite que Lucas acordou cedo para jogar bola, essa ação está associada ao desejo do irmão e não à permissão para brincar no parque todos os dias. Portanto, não há relação causal entre acordar cedo e poder ir ao parque diariamente.
+c) INCORRETA. O fato de ter ido tomar sorvete com o irmão é apresentado como uma atividade das férias, mas não tem ligação causal com a permissão para brincar no parque. A alternativa não responde ao comando, pois não apresenta relação de causa e consequência exigida.
+d) INCORRETA. Embora Lucas tenha começado as férias ontem, esse fato não é apresentado como causa para ele poder brincar no parque todos os dias. A causa indicada no texto é ter obtido boas notas ao final do ano.

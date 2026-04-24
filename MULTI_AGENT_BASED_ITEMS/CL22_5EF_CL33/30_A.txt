@@ -1,0 +1,30 @@
+Questão 30
+Origem: 06_saida.json
+Competência Avaliada: Reconhecer, relações lógico-discursivas de condição, marcadas por conjunções mais usuais em notícias.
+Comando: Leia o texto.
+Texto de Suporte:
+Cachorros participam de concurso de fantasias de Carnaval
+
+Um concurso de fantasias onde todos os participantes têm... quatro patas!
+
+Fantasia, originalidade e simpatia serão as categorias analisadas pelo júri. Entre os 30 inscritos, estão raças como husky siberiano, maltês, bernese e fox paulistinha.
+
+Os interessados inscreveram cães de pequeno, médio e grande porte. Os chamados cães de guarda, como pastor alemão e dobermann, por exemplo, não participam do desfile.
+
+Serão escolhidos nove animais, três por categoria, e os prêmios são coleiras e vales de compras e refeição.
+
+A plateia do desfile também poderá ser ocupada por cães de qualquer raça ou porte, desde que estejam de coleiras.
+
+Disponível em https://www1.folha.uol.com.br/folhinha/2014/02/1418950-cachorros-participam-de-concurso-de-fantasias-de-carnaval.shtml Acesso em: 22.10.2025
+Pergunta:
+Qual trecho do texto indica uma ideia de condição?
+Opções:
+-> a) A plateia do desfile também poderá ser ocupada por cães de qualquer raça ou porte, desde que estejam de coleiras.
+   b) Fantasia, originalidade **e** simpatia serão as categorias analisadas pelo júri.
+   c) Os chamados cães de guarda, como pastor alemão **e** dobermann, por exemplo, não participam do desfile.
+   d) Serão escolhidos nove animais, três por categoria, **e** os prêmios são coleiras e vales de compras e refeição.
+Justificativas:
+a) GABARITO. Os estudantes que assinalaram esta alternativa reconheceram corretamente o trecho que apresenta a relação lógico-discursiva de condição. O emprego da expressão 'desde que' marca a ideia de condição, pois estabelece que cães de qualquer raça ou porte só poderão ocupar a plateia se estiverem de coleira.
+b) INCORRETA. Embora o trecho apresente a conjunção '**e**', ele apenas enumera categorias que serão avaliadas pelo júri, sem estabelecer qualquer relação de causa-efeito ou condição entre as informações apresentadas.
+c) INCORRETA. O trecho utiliza o termo 'como' para exemplificar raças de cães de guarda e também contém a conjunção '**e**' unindo os exemplos, mas não há relação de condição: trata-se apenas de uma informação explicativa sobre quem não participará do desfile.
+d) INCORRETA. A presença da conjunção '**e**' introduz uma ideia de adição, ligando a quantidade de animais escolhidos aos prêmios oferecidos. O enunciado não depende de nenhuma circunstância para se realizar, portanto não expressa condição.

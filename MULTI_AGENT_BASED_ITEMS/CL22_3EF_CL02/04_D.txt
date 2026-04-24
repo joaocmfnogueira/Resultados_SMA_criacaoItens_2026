@@ -1,0 +1,24 @@
+Questão 4
+Origem: 01_saida.json
+Competência Avaliada: Reconhecer, em textos de nível 1, relações lógico-discursivas de causalidade marcadas por conjunções mais usuais.
+Comando: Leia o texto.
+Texto de Suporte:
+Carol,
+
+Estou escrevendo para contar o que quero ser quando crescer. Decidi ser veterinária porque amo cuidar dos animais. Sempre que vejo um cachorro ou um gato na rua, fico preocupada se estão bem. Já que gosto muito de ajudar, acho que essa profissão combina comigo. Também penso em estudar bastante, pois sei que preciso de muito conhecimento para cuidar dos bichinhos. Meu pai disse que vai me apoiar, por isso estou muito animada!
+Escreva contando o que você quer ser também.
+
+Com carinho,
+Luiza.
+Pergunta:
+De acordo com o texto, Luiza decidiu ser veterinária porque:
+Opções:
+-> a) ama cuidar dos animais.
+   b) fica preocupada com animais na rua.
+   c) quer estudar bastante para ter conhecimento.
+   d) recebe apoio do pai.
+Justificativas:
+a) GABARITO. Quem assinalou esta alternativa reconheceu a relação de causalidade expressa na conjunção 'porque' no trecho 'Decidi ser veterinária porque amo cuidar dos animais.' A resposta apresenta a explicação exata dada por Luiza em sua carta, evidenciando o entendimento da causa do desejo expresso pela remetente.
+b) INCORRETA. Embora o texto mencione que Luiza fica preocupada com animais na rua, essa informação não é apresentada como justificativa para a decisão de ser veterinária, mas como um complemento sobre seu sentimento pelos animais. Não está relacionada pela conjunção causal exigida no comando.
+c) INCORRETA. A alternativa traz uma ação que Luiza pretende realizar (estudar bastante), mas no texto essa ação é mencionada como um meio para alcançar o objetivo de ser veterinária e não como causa de sua escolha pela profissão.
+d) INCORRETA. A carta informa que o pai de Luiza vai apoiá-la e que ela está animada por isso, mas o apoio do pai não é apresentado como a razão principal para decidir ser veterinária. Portanto, não é a causa da escolha explicitada pela conjunção causal 'porque' conforme o comando pede.

@@ -1,0 +1,23 @@
+Questão 26
+Origem: 06_saida.json
+Competência Avaliada: Reconhecer, em textos de nível 1, relações lógico-discursivas de causalidade marcadas por conjunções mais usuais.
+Comando: Leia o texto.
+Texto de Suporte:
+Professora Ana,
+
+Estou escrevendo para contar que comecei a ler um livro muito interessante sobre animais da floresta. Estou gostando muito da leitura porque as histórias são divertidas e fáceis de entender. Ontem, li sobre uma onça que ajudou um coelho. Fiquei animado para ler mais, pois quero descobrir como termina a aventura deles. Também estou lendo todos os dias já que você pediu para praticarmos a leitura em casa. Minha irmã está lendo comigo, por isso estamos passando mais tempo juntos.
+
+Um abraço,
+Helena.
+Pergunta:
+Marque a alternativa que mostra o motivo de Helena estar lendo todos os dias.
+Opções:
+-> a) porque você pediu para praticarmos a leitura em casa.
+   b) porque as histórias são divertidas e fáceis de entender.
+   c) porque quero descobrir como termina a aventura deles.
+   d) porque estamos passando mais tempo juntos.
+Justificativas:
+a) GABARITO – Os estudantes que assinalarem esta alternativa identificam corretamente a relação de causalidade pedida no comando. No texto, a expressão 'estou lendo todos os dias já que você pediu para praticarmos a leitura em casa' mostra claramente que o motivo de Helena ler diariamente é porque a professora fez esse pedido. Reconhece-se aqui o uso causal da conjunção 'já que'.
+b) INCORRETA – Embora no texto haja a informação de que Helena gosta da leitura porque as histórias são divertidas e fáceis de entender, essa frase explica o motivo de ela gostar da leitura, não o motivo de ela estar lendo todos os dias, como solicitado pelo comando.
+c) INCORRETA – Essa alternativa mobiliza um motivo para Helena continuar animada para ler e descobrir o final da história, mas não explica a razão de ela estar lendo todos os dias, conforme pedido no comando, mostrando afastamento na compreensão da relação causal específica.
+d) INCORRETA – A alternativa apresenta outra consequência de Helena ler junto com a irmã ('estamos passando mais tempo juntos'), mas não responde à causalidade pedida, pois não é o motivo para ler diariamente, e sim um resultado disso, demonstrando falta de percepção da relação correta entre causa e consequência.

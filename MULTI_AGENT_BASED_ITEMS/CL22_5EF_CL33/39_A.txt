@@ -1,0 +1,29 @@
+Questão 39
+Origem: 08_saida.json
+Competência Avaliada: Reconhecer, relações lógico-discursivas de condição, marcadas por conjunções mais usuais em notícias.
+Comando: Leia o texto.
+Texto de Suporte:
+Parque Simba Safári, em São Paulo, realiza experiência inédita no mundo
+Leoas "adotam" 6 filhotes em parque
+
+Uma nova família se formou ontem no Simba Safári de São Paulo: duas leoas do parque, Elza e Luanda, "adotaram" seis filhotes de leão. A "adoção", feita por meio de uma experiência ainda inédita no mundo, foi concluída ontem depois de um processo que já durava dois meses.
+O diretor do Simba, Chico Galvão, afirma que normalmente as leoas que não tiveram filhos recentemente não aceitam cuidar de filhotes de outras leoas.
+
+Além disso, segundo ele, seria muito difícil condicionar os leõezinhos ao novo ambiente sem que eles fossem adotados, já que para isso seria necessário fechar o parque por dois meses. "Mas, neste caso, apesar de ter sido uma adoção forçada, funcionou tudo perfeitamente", afirma Galvão.
+
+Os leõezinhos, dois machos e quatro fêmeas com idades entre 25 e 40 dias, foram trazidos pelo Simba de Minas Gerais há pouco mais de dois meses. O Simba resolveu "importá-los" depois de ter constatado que as leoas do parque não poderiam procriar, por causa de um tratamento hormonal que fez com que ficassem permanentemente no cio.
+Agora, os filhotes se juntarão aos outros 28 leões do Simba. Os leões não podem ser vistos todos juntos, porque vivem separados em dois grupos, que não se adaptam um ao outro.
+
+https://www1.folha.uol.com.br/fsp/cotidian/ff26089923.htm <Acessado em 30/10/2025>
+Pergunta:
+Qual trecho do texto indica uma ideia de condição?
+Opções:
+-> a) O diretor do parque avaliou que seria muito difícil condicionar os leõezinhos ao novo ambiente **sem que** eles fossem adotados, já que para isso seria necessário fechar o parque por dois meses.
+   b) O diretor do Simba, Chico Galvão, afirma **que** normalmente as leoas que não tiveram filhos recentemente não aceitam cuidar de filhotes de outras leoas.
+   c) O Simba resolveu "importá-los" **depois de** ter constatado que as leoas do parque não poderiam procriar, **por causa de** um tratamento hormonal que fez com que ficassem permanentemente no cio.
+   d) Os leões não podem ser vistos todos juntos, **porque** vivem separados em dois grupos, que não se adaptam um ao outro.
+Justificativas:
+a) GABARITO. O trecho apresenta claramente uma relação lógico-discursiva de condição, expressa pela locução "sem que", equivalente a "caso eles não fossem adotados". A conjunção introduz a condição necessária para que algo aconteça (a dificuldade em condicionar os leõezinhos ao novo ambiente).
+b) INCORRETA. A conjunção "que" introduz uma oração subordinada completiva, sem indicar condição; o trecho apenas relata um comportamento típico das leoas segundo o diretor.
+c) INCORRETA. O trecho apresenta conectivos de ordem temporal ("depois de") e causal ("por causa de"), que explicam a sequência dos fatos e o motivo da decisão do Simba, mas não introduzem relação condicional.
+d) INCORRETA. O conectivo "porque" estabelece relação de causa/explicação, não de condição, ao justificar por que os leões não podem ser vistos todos juntos.

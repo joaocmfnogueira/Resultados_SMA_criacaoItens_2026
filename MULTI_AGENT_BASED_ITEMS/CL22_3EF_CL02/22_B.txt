@@ -1,0 +1,24 @@
+Questão 22
+Origem: 05_saida.json
+Competência Avaliada: Reconhecer, em textos de nível 1, relações lógico-discursivas de causalidade marcadas por conjunções mais usuais.
+Comando: Leia o texto.
+Texto de Suporte:
+Querida vovó,
+
+Recebi o bolo que a senhora mandou e fiquei muito feliz, porque eu estava com muita saudade do seu sabor. Comi um pedaço assim que cheguei da escola, pois estava com fome e o cheiro era delicioso. Minha mãe também gostou muito e disse que estava muito fofinho, já que a senhora sempre capricha nas receitas. Por isso, vou pedir para a senhora ensinar para mim quando vier nos visitar. Espero que esteja tudo bem com a senhora aí. Mando um beijo grande e um abraço apertado.
+
+Com carinho,
+
+Mayra.
+Pergunta:
+De acordo com o texto, por que Mayra ficou muito feliz ao receber o bolo?
+Opções:
+-> a) Porque ela estava com muita saudade do sabor do bolo da vovó.
+   b) Porque sua mãe disse que o bolo estava fofinho.
+   c) Porque a vovó sempre capricha nas receitas.
+   d) Porque ela comeu um pedaço do bolo assim que chegou da escola.
+Justificativas:
+a) GABARITO: Os estudantes que assinalarem esta alternativa identificam corretamente a relação de causalidade construída no texto. Logo após Mayra afirmar que ficou muito feliz ao receber o bolo, ela explica a causa, utilizando a conjunção 'porque': 'porque eu estava com muita saudade do seu sabor'. Dessa maneira, reconhecem o valor explicativo da conjunção e a identificação clara da causa da felicidade da personagem.
+b) INCORRETA: Quem assinalar esta alternativa demonstra ter identificado que a mãe de Mayra gostou do bolo e achou que estava fofinho, mas essa não é a causa da felicidade de Mayra. Confunde-se o motivo da mãe com o motivo da Mayra, o que mostra dificuldade na leitura cuidadosa da relação causal explicitada no texto.
+c) INCORRETA: Esta alternativa mobiliza uma informação verdadeira sobre a vovó sempre caprichar nas receitas, mas isso está relacionado à justificativa da mãe sobre o bolo, não ao motivo da felicidade de Mayra. Assim, não estabelece a relação de causa e consequência exigida pela questão.
+d) INCORRETA: O fato de Mayra comer o bolo assim que chega da escola é uma ação posterior ao recebimento do bolo e à alegria sentida. Não representa a causa de ter ficado feliz, mas sim uma consequência de receber o bolo. Os estudantes que assinalam essa opção confundem ordem cronológica com relação causal.

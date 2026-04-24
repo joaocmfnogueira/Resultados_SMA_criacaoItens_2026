@@ -1,0 +1,24 @@
+Questão 18
+Origem: 04_saida.json
+Competência Avaliada: Reconhecer, em textos de nível 1, relações lógico-discursivas de causalidade marcadas por conjunções mais usuais.
+Comando: Leia o texto.
+Texto de Suporte:
+Amiga Ana,
+
+Fiquei muito feliz porque você veio ao meu aniversário. Eu estava com saudade, pois fazia muito tempo que não nos víamos. A festa foi divertida porque todos os meus amigos estavam lá. Ganhei muitos presentes, já que convidei bastante gente. Espero que tenha gostado do bolo, pois escolhi o seu sabor preferido. Da próxima vez, quero brincar mais com você, porque adoro sua companhia.
+
+Um abraço,
+
+Roberta
+Pergunta:
+De acordo com o texto, Roberta ficou muito feliz porque:
+Opções:
+-> a) você veio ao aniversário dela.
+   b) você trouxe todos os seus amigos à festa dela.
+   c) você deu muitos presentes de aniversário a ela.
+   d) você escolheu o sabor do bolo que prefere.
+Justificativas:
+a) GABARITO. Os estudantes que escolherem esta alternativa identificam corretamente a relação de causalidade explicitada no texto, pois Roberta afirma: "Fiquei muito feliz porque você veio ao meu aniversário." O uso da conjunção "porque" associa de modo claro a causa (você veio ao meu aniversário) ao estado de felicidade.
+b) INCORRETA. Embora a carta mencione que a festa foi divertida porque todos os amigos estavam presentes, não há indicação de que você os tenha levado, nem de que isso explique a felicidade inicial mencionada por Roberta.
+c) INCORRETA. O texto atribui o recebimento de muitos presentes ao fato de Roberta ter convidado bastante gente, e não a você especificamente. Portanto, essa alternativa não apresenta a causa informada pela remetente.
+d) INCORRETA. A escolha do sabor do bolo está relacionada ao gosto de Ana, mas não é apresentada como motivo da alegria de Roberta. Logo, não atende ao que o comando solicita.

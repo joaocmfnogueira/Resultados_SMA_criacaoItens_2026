@@ -1,0 +1,27 @@
+Questão 1
+Competência Avaliada: Reconhecer, em textos de nível 2, relações lógico-discursivas de condição marcadas por conjunções mais usuais.
+Comando: Leia o texto com atenção.
+Texto de Suporte:
+Como evitar o desperdício de alimentos
+
+Se você planejar suas compras com antecedência, poderá reduzir significativamente o desperdício de alimentos em casa. Faça uma lista do que realmente precisa antes de ir ao mercado.
+
+Quando você armazena os alimentos corretamente, eles duram mais tempo. Por exemplo, se guardar frutas e vegetais na geladeira, eles se manterão frescos por mais dias.
+
+Caso sobre comida após as refeições, congele em porções para consumir depois. Mesmo que não tenha muito tempo, tente reaproveitar sobras em novas receitas.
+
+, se, se você notar que alguns alimentos estão prestes a estragar, prepare-os imediatamente ou doe para alguém que precise.
+Pergunta:
+No texto, qual trecho apresenta uma relação de condição usando conjunções típicas?
+Opções:
+   a) "Faça uma lista do que realmente precisa antes de ir ao mercado."
+-> b) "Se você planejar suas compras com antecedência, poderá reduzir significativamente o desperdício de alimentos em casa."
+   c) "Por exemplo, se guardar frutas e vegetais na geladeira, eles se manterão frescos por mais dias."
+   d) "Mesmo que não tenha muito tempo, tente reaproveitar sobras em novas receitas."
+Justificativas:
+a) INCORRETA. Esta alternativa apresenta uma recomendação direta sem estrutura condicional, usando o verbo no imperativo ('Faça'). Não há relação de condição explícita.
+b) CORRETA. Esta alternativa apresenta claramente uma relação de condição através da conjunção 'Se', estabelecendo uma condição ('Se você planejar...') e sua consequência ('poderá reduzir...'). É a estrutura condicional mais completa do texto.
+c) INCORRETA. Embora use 'se' indicar indicar condição, esta frase aparece como exemplo dentro de um contexto mais amplo, não sendo a principal relação condicional do texto.
+d) INCORRETA. Apesar de usar 'Mesmo que', que indica concessão, não estabelece uma relação condicional propriamente dita. Mostra uma ação recomendada apesar de uma dificuldade.
+
+--------------------------------------------------------------------------------

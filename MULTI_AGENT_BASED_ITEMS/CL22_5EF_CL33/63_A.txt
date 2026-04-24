@@ -1,0 +1,38 @@
+Questão 13
+Origem: 02_saida.json
+Competência Avaliada: Reconhecer, em textos de nível 2, relações lógico-discursivas de condição, marcadas por conjunções mais usuais, em notícias.
+Comando: Leia o texto.
+Texto de Suporte:
+NETO DO PELÉ FICA FAMOSO COM GOLAÇO QUE CAIU NA INTERNET
+
+Octávio brinca com a bola desde que era bebê. Aos três anos, começou a
+jogar futebol na escolinha do Santos. Agora, com 13, arrebenta no time sub-13
+do Paraná Clube. Parece a história de um craque? Pois é: o golaço que
+Octávio marcou em um jogo foi parar no YouTube e fez o menino ficar famoso.
+No caso de Octávio, o futebol é questão de família. O garoto é neto do Pelé, &quot;o
+melhor dos melhores jogadores do mundo&quot;, diz ele. Mas, há até pouco tempo,
+o menino só conhecia o avô por vídeo. Apenas em 2009 os dois craques se
+encontraram pela primeira vez: &quot;Foi magnífico&quot;, conta o menino.
+Se Otávio quiser ser tão bom quanto o avô, precisará treinar muito. Ele treina
+três vezes por semana e até nas horas livres joga futebol com os amigos no
+campinho ou na escola.
+Ele ainda acha tempo para estudar e fazer as lições. &quot;Meu pai fala que primeiro
+vem a escola, depois o futebol&quot;, conta. Dar entrevista também entrou no dia a
+dia do menino, que nem esperava ficar famoso. Os comentários sobre o vídeo
+chegaram até a escola de Octávio. &quot;Meus amigos disseram que, na hora em
+que eu fiz o gol, &#39;baixou&#39; o Pelé em mim&quot;, diz orgulhoso.
+
+https://www1.folha.uol.com.br/folhinha/899228-neto-do-pele-fica-famoso-com-
+golaco-que-caiu-na-internet.shtml
+Pergunta:
+Qual trecho do texto indica uma ideia de condição?
+Opções:
+-> a) Se Otávio quiser ser tão bom quanto o avô, precisará treinar muito.
+   b) Octávio brinca com a bola desde que era bebê.
+   c) Mas, há até pouco tempo, o menino só conhecia o avô por vídeo.
+   d) Ele ainda acha tempo para estudar e fazer as lições.
+Justificativas:
+a) GABARITO. Os estudantes que assinalaram esta alternativa reconheceram corretamente o trecho do texto marcado por uma relação lógico-discursiva de condição, expressa pela conjunção 'Se'. A frase indica que Otávio só poderá ser tão bom quanto o avô caso (sob a condição de) ele treinar muito.
+b) INCORRETA. A conjunção 'desde que' pode ser confundida com uma relação de condição, mas nesse caso expressa tempo (indica o momento inicial de uma ação: desde o tempo em que era bebê) e não condição. Portanto, não atende ao comando do item.
+c) INCORRETA. A conjunção 'mas' indica uma relação de oposição (adversidade), não de condição. Assim, quem escolheu esta alternativa não reconheceu a relação lógico-discursiva de condição pedida.
+d) INCORRETA. Esse trecho não contém nenhuma conjunção que marque relação lógico-discursiva, especialmente de condição. Ele apenas informa uma ação do personagem, sem ligação condicional.

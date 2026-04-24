@@ -1,0 +1,30 @@
+Questão 3
+Origem: 01_saida.json
+Competência Avaliada: Reconhecer, em textos de nível 2, relações lógico-discursivas de condição marcadas por conjunções mais usuais.
+Comando: Leia o texto.
+Texto de Suporte:
+CRIANÇA DE ATIBAIA LANÇA LIVRO E PODE SE TORNAR O AUTOR MAIS JOVEM DO MUNDO
+
+Nicolas Borine tem 4 anos, escreveu e ilustrou livro sobre dinossauros e foi inscrito no Guinness para reconhecimento
+
+Publicado em 04/06/2025 às 08:26
+
+Em uma história que mistura imaginação, conhecimento e afeto familiar, o pequeno Nicolas Borine, de apenas 4 anos, se destacou ao lançar seu primeiro livro em Atibaia. O garoto escreveu e ilustrou a obra sobre o Alossauro e é apaixonado por dinossauros.
+Morador de Atibaia, Nicolas Borine, com apenas 4 anos e 5 meses, encantou familiares e amigos ao lançar no último domingo (1º) seu primeiro livro autoral, intitulado Alossauro. O menino, que sonha em ser paleontólogo, escreveu e ilustrou a obra com a ajuda da avó, Mônia Borine. Ele agora concorre a um feito inédito: ser reconhecido pelo Guinness World Record como o autor mais jovem a escrever e publicar um livro.
+A ideia surgiu em uma tarde tranquila de domingo, durante uma conversa na rede com a avó. “Ele disse que queria escrever um livro. Expliquei o processo e ele se empolgou. Começamos a buscar informações juntos”, conta Mônia. Desde então, os dois visitaram museus, parques e falaram com especialistas para reunir conteúdo confiável e educativo sobre o dinossauro.
+O resultado é um livro de 62 páginas que traz ilustrações coloridas e informações acessíveis sobre o Alossauro, um dos maiores predadores do período Jurássico. Segundo Nicolas, “o alossauro é caçador, carnívoro e tão grande quanto o tiranossauro rex”. Assim, ele mesmo idealizou os desenhos e escolheu os trechos que queria incluir no conteúdo.
+O lançamento aconteceu de forma íntima, na casa de familiares, com 30 exemplares impressos. Cada livro é vendido por R$ 35, sendo R$ 4 destinados ao jovem autor que já pensa na próxima publicação: O Alossaurinho, sobre a infância imaginada do mesmo dinossauro.
+Se Nícolas tiver esse reconhecimento, será o autor mais jovem do mundo. “Estamos torcendo para que ele consiga o reconhecimento, mas independente disso, ele já é um vencedor para todos nós”, diz a avó. O processo de inscrição no Guinness World Record já foi iniciado, com envio de documentos, vídeos e comprovações. O resultado deve ser anunciado entre o fim de 2025 e início de 2026.
+https://atibaia.portaldacidade.com/noticias/cidade/crianca-de-atibaia-lanca-livro-e-pode-se-tornar-o-autor-mais-jovem-do-mundo-4612
+Pergunta:
+Qual trecho do texto indica uma ideia de condição?
+Opções:
+-> a) “Ele será o autor mais jovem do mundo, se Nícolas tiver esse reconhecimento.”
+   b) “Estamos torcendo para que ele consiga o reconhecimento, **mas** independente disso, ele já é um vencedor.”
+   c) “Expliquei o processo **e** ele se empolgou; começamos a buscar informações juntos.”
+   d) “Cada livro é vendido por R$ 35, **e** R$ 4 ficam destinados ao jovem autor.”
+Justificativas:
+a) GABARITO – O trecho contém a conjunção subordinativa "se", que estabelece uma condição: somente caso Nícolas obtenha o reconhecimento é que se tornará o autor mais jovem do mundo. A relação lógico-discursiva expressa é, portanto, de condição, exatamente a solicitada no comando.
+b) INCORRETA – A conjunção em destaque (**mas**) tem valor adversativo, contrapondo duas ideias (torcer pelo reconhecimento × já considerá-lo vencedor). Não há sentido de "caso" ou "condição" entre as partes, motivo pelo qual não atende ao comando.
+c) INCORRETA – O conectivo **e** cria relação de adição entre as ações (explicar o processo + empolgar-se e buscar informações). Nenhuma das orações depende da outra para ocorrer, inexistindo relação condicional.
+d) INCORRETA – Novamente aparece a conjunção coordenativa **e**, que apenas soma informações sobre o preço e o repasse ao autor. O período não apresenta ideia de condição, mas de adição.

@@ -1,0 +1,23 @@
+Questão 49
+Origem: 10_saida.json
+Competência Avaliada: Reconhecer, em textos de nível 1, relações lógico-discursivas de causalidade marcadas por conjunções mais usuais.
+Comando: Leia o texto.
+Texto de Suporte:
+Pai e mãe,
+
+Escrevo para contar como foi divertido o passeio ao parque com minha turma. Todos estavam animados porque era a primeira vez que visitávamos o parque juntos. Levamos sanduíches e suco, pois sabíamos que iríamos passar a manhã inteira lá. Brincamos de correr, jogar bola e andamos de bicicleta. Os professores pediram para levarmos boné e protetor solar, já que o dia estava muito ensolarado. Por isso, ninguém se queimou e todos aproveitaram bastante. Quando voltamos para a escola, estávamos cansados, mas muito felizes.
+
+Um abraço,
+Afonso.
+Pergunta:
+Segundo o texto, ninguém se queimou porque:
+Opções:
+-> a) os professores pediram para levar boné e protetor solar.
+   b) o passeio ao parque foi muito divertido.
+   c) todos estavam animados durante o passeio.
+   d) os alunos levaram sanduíches e suco para passar a manhã inteira.
+Justificativas:
+a) GABARITO – Os estudantes que assinalaram esta alternativa identificaram corretamente a relação de causalidade, reconhecendo que a proteção contra o sol aconteceu porque os professores pediram que levassem boné e protetor solar, conforme explicitado na frase do texto: 'Os professores pediram para levarmos boné e protetor solar, já que o dia estava muito ensolarado. Por isso, ninguém se queimou...'.
+b) INCORRETA – Embora o passeio tenha sido muito divertido, essa informação não está relacionada à causa de ninguém ter se queimado. A diversão é um resultado de outras ações, não a razão de todos terem ficado protegidos do sol.
+c) INCORRETA – A animação dos estudantes é uma informação textual, mas não apresenta relação causal com o fato de ninguém ter se queimado. Trata-se de um sentimento descrito no início da carta, sem vínculo causal com a prevenção das queimaduras.
+d) INCORRETA – Embora os alunos tenham levado sanduíches e suco para passar a manhã inteira no parque, essa ação não teve influência sobre o fato de ninguém ter se queimado. Essa informação está desvinculada da relação de causa e efeito solicitada no comando da questão.

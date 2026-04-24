@@ -1,0 +1,25 @@
+Questão 12
+Origem: 02_saida.json
+Competência Avaliada: Reconhecer, em textos de nível 2, relações lógico-discursivas de condição, marcadas por conjunções mais usuais.
+Comando: Leia o texto.
+Texto de Suporte:
+NETO DO PELÉ FICA FAMOSO COM GOLAÇO QUE CAIU NA INTERNET
+
+Octávio brinca com a bola desde que era bebê. Aos três anos, começou a jogar futebol na escolinha do Santos. Agora, com 13, arrebenta no time sub-13 do Paraná Clube. Parece a história de um craque? Pois é: o golaço que Octávio marcou em um jogo foi parar no YouTube e fez o menino ficar famoso.
+No caso de Octávio, o futebol é questão de família. O garoto é neto do Pelé, "o melhor dos melhores jogadores do mundo", diz ele. Mas, há até pouco tempo, o menino só conhecia o avô por vídeo. Apenas em 2009 os dois craques se encontraram pela primeira vez: "Foi magnífico", conta o menino.
+Se Otávio quiser ser tão bom quanto o avô, precisará treinar muito. Ele treina três vezes por semana e até nas horas livres joga futebol com os amigos no campinho ou na escola.
+Ele ainda acha tempo para estudar e fazer as lições. "Meu pai fala que primeiro vem a escola, depois o futebol", conta. Dar entrevista também entrou no dia a dia do menino, que nem esperava ficar famoso. Os comentários sobre o vídeo chegaram até a escola de Octávio. "Meus amigos disseram que, na hora em que eu fiz o gol, 'baixou' o Pelé em mim", diz orgulhoso.
+
+https://www1.folha.uol.com.br/folhinha/899228-neto-do-pele-fica-famoso-com-golaco-que-caiu-na-internet.shtml
+Pergunta:
+Qual trecho do texto indica uma ideia de condição?
+Opções:
+-> a) **Se** Otávio quiser ser tão bom quanto o avô, precisará treinar muito.
+   b) **Desde que** era bebê, Otávio brinca com a bola.
+   c) **Mas**, há até pouco tempo, o menino só conhecia o avô por vídeo.
+   d) **Pois**, o golaço que Otávio marcou em um jogo foi parar no YouTube e fez o menino ficar famoso.
+Justificativas:
+a) GABARITO – A oração inicia-se pela conjunção "se", típico conectivo de condição. O enunciado deixa claro que, somente caso a condição estabelecida (Otávio querer ser tão bom quanto o avô) se cumpra, o resultado (treinar muito) será exigido. Assim, a relação lógico-discursiva expressa é a de condição, exatamente o que o comando solicita.
+b) INCORRETA – A locução "desde que", neste fragmento, localiza o momento inicial da ação (valor temporal), não estabelecendo hipótese nem requisito para outro fato ocorrer. O estudante que a marca confunde marca temporal com relação condicional.
+c) INCORRETA – O conector "mas" introduz uma oposição entre a fama familiar e o fato de o neto só conhecer o avô por vídeo, funcionando como adversativo, não como condicional.
+d) INCORRETA – A conjunção "pois" (aqui precedida de vírgula) estabelece explicação/causa para a fama do menino: o golaço postado no YouTube. Não há sentido de condição, motivo pelo qual a alternativa não atende ao comando.

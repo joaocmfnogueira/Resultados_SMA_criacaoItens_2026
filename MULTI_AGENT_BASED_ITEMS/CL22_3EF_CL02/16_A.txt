@@ -1,0 +1,24 @@
+Questão 16
+Origem: 04_saida.json
+Competência Avaliada: Reconhecer, em textos de nível 1, relações lógico-discursivas de causalidade marcadas por conjunções mais usuais.
+Comando: Leia o texto.
+Texto de Suporte:
+Amiga Ana,
+
+Fiquei muito feliz porque você veio ao meu aniversário. Eu estava com saudade, pois fazia muito tempo que não nos víamos. A festa foi divertida porque todos os meus amigos estavam lá. Ganhei muitos presentes, já que convidei bastante gente. Espero que tenha gostado do bolo, pois escolhi o seu sabor preferido. Da próxima vez, quero brincar mais com você, porque adoro sua companhia.
+
+Um abraço,
+
+Roberta
+Pergunta:
+De acordo com o texto, a festa foi divertida porque:
+Opções:
+-> a) todos os amigos de Roberta estavam presentes.
+   b) Roberta ganhou muitos presentes.
+   c) Ana gostou do bolo de aniversário.
+   d) Roberta estava com saudade da Ana.
+Justificativas:
+a) GABARITO - Os estudantes que escolherem esta alternativa reconhecem corretamente a relação de causalidade estabelecida no texto por meio da conjunção 'porque'. O texto afirma: 'A festa foi divertida porque todos os meus amigos estavam lá', estabelecendo a razão de a festa ter sido divertida.
+b) INCORRETA - Quem marca essa opção identifica uma informação verdadeira do texto (Roberta ganhou muitos presentes), mas ela não está relacionada à causa de a festa ter sido divertida. Essa ação está ligada ao fato de ter convidado bastante gente, não à diversão da festa.
+c) INCORRETA - Os estudantes que escolhem esta alternativa também identificam uma informação real do texto (Ana gostou do bolo), porém isso não justifica a diversão da festa. Trata-se de outro momento e outra relação causal, ligada à escolha do sabor do bolo.
+d) INCORRETA - Esta alternativa apresenta uma informação verdadeira (Roberta estava com saudade da Ana), mas ela explica o sentimento de Roberta sobre o reencontro, não a razão de a festa ter sido divertida. Não há relação causal direta com o evento da festa conforme pedido pelo comando.

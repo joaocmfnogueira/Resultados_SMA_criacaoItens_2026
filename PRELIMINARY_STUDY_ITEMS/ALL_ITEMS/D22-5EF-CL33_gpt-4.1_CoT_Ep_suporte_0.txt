@@ -1,0 +1,29 @@
+Questão 1
+Competência Avaliada: Reconhecer, em textos de nível 2, relações lógico-discursivas de condição, marcadas por conjunções mais usuais.
+Comando: Leia o texto.
+Texto de Suporte:
+O que significa de fato ter um “bom” sono?
+
+É comum ouvir que os adultos precisam de sete a nove horas de sono por noite. Mas dormir bem é mais do que o número de horas - é também uma questão de qualidade.
+
+Para a maioria das pessoas, uma boa noite dormida significa conseguir pegar no sono logo após ir para a cama (em cerca de 30 minutos), ficar sem acordar por longos períodos e despertar, de manhã, sentindo-se descansado e pronto para o dia.
+
+Você não deve se sentir excessivamente sonolento durante o dia, especialmente se estiver dormindo regularmente pelo menos sete horas de sono reparador por noite (essa é uma regra geral).
+
+Mas, se você perceber que fisicamente cansado, precisando cochilar regularmente e, ainda assim, não se sentindo revigorado, pode valer a pena entrar em contato com seu clínico geral pois há uma série de possíveis motivos para isso.
+
+Disponível em:  https://g1.globo.com/saude/noticia/2024/10/14/uma-noite-de-sono-ininterrupta-e-um-mito-veja-o-que-e-e-como-e-um-bom-sono.ghtml. Acesso em: 29 mai. 2025.
+Pergunta:
+No trecho 'Mas, se você perceber que fisicamente cansado, precisando cochilar regularmente e, ainda assim, não se sentindo revigorado, pode valer a pena entrar em contato com seu clínico geral', a conjunção 'se' estabelece uma relação de condição. Assinale a alternativa que melhor explica essa relação de condição apresentada no texto.
+Opções:
+-> a) A pessoa deve procurar um médico caso perceba que está cansada e não se sente revigorada, mesmo dormindo o suficiente.
+   b) A pessoa só deve dormir sete horas por noite se quiser se sentir descansada.
+   c) A pessoa pode dormir pouco, desde que não se sinta cansada durante o dia.
+   d) A pessoa deve evitar cochilar durante o dia para não se sentir cansada.
+Justificativas:
+a) Correta. A alternativa 'a' apresenta a relação de condição expressa pela conjunção 'se' no texto: procurar um médico está condicionado à percepção de cansaço e falta de revigoramento, mesmo dormindo o suficiente. Ou seja, a ação de procurar um médico só é recomendada caso a condição descrita aconteça.
+b) Incorreta. A alternativa 'b' sugere que dormir sete horas é uma condição para se sentir descansado, mas o texto não estabelece essa relação de condição com a conjunção 'se'. O foco do comando é a condição para procurar um médico, não para dormir sete horas.
+c) Incorreta. A alternativa 'c' apresenta uma condição diferente da que está no texto. O texto não afirma que se pode dormir pouco, desde que não se sinta cansado; ele fala sobre procurar um médico se houver cansaço mesmo dormindo o suficiente.
+d) Incorreta. A alternativa 'd' sugere que evitar cochilos é uma condição para não se sentir cansado, mas o texto não faz essa relação de condição. O texto menciona cochilar como um sintoma, não como causa ou condição.
+
+--------------------------------------------------------------------------------

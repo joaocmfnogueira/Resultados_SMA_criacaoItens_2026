@@ -1,0 +1,25 @@
+Questão 14
+Origem: 02_saida.json
+Competência Avaliada: Reconhecer, em textos de nível 2, relações lógico-discursivas de condição marcadas por conjunções mais usuais.
+Comando: Leia o texto.
+Texto de Suporte:
+NETO DO PELÉ FICA FAMOSO COM GOLAÇO QUE CAIU NA INTERNET
+
+Octávio brinca com a bola desde que era bebê. Aos três anos, começou a jogar futebol na escolinha do Santos. Agora, com 13, arrebenta no time sub-13 do Paraná Clube. Parece a história de um craque? Pois é: o golaço que Octávio marcou em um jogo foi parar no YouTube e fez o menino ficar famoso.
+No caso de Octávio, o futebol é questão de família. O garoto é neto do Pelé, "o melhor dos melhores jogadores do mundo", diz ele. Mas, há até pouco tempo, o menino só conhecia o avô por vídeo. Apenas em 2009 os dois craques se encontraram pela primeira vez: "Foi magnífico", conta o menino.
+Se Otávio quiser ser tão bom quanto o avô, precisará treinar muito. Ele treina três vezes por semana e até nas horas livres joga futebol com os amigos no campinho ou na escola.
+Ele ainda acha tempo para estudar e fazer as lições. "Meu pai fala que primeiro vem a escola, depois o futebol", conta. Dar entrevista também entrou no dia a dia do menino, que nem esperava ficar famoso. Os comentários sobre o vídeo chegaram até a escola de Octávio. "Meus amigos disseram que, na hora em que eu fiz o gol, 'baixou' o Pelé em mim", diz orgulhoso.
+
+https://www1.folha.uol.com.br/folhinha/899228-neto-do-pele-fica-famoso-com-golaco-que-caiu-na-internet.shtml
+Pergunta:
+Qual trecho do texto indica uma ideia de condição?
+Opções:
+   a) Octávio brinca com a bola **desde que** era bebê e, aos três anos, começou a jogar na escolinha do Santos.
+   b) O menino só conhecia o avô por vídeo, **mas** isso mudou há pouco tempo.
+-> c) Otávio precisará treinar muito **se** quiser ser tão bom quanto o avô.
+   d) Ele treina três vezes por semana **e** até nas horas livres joga futebol com os amigos no campinho.
+Justificativas:
+a) INCORRETA – O conector em destaque, "desde que", introduz uma circunstância temporal (momento inicial da ação), não uma condição necessária para que outra ação se realize. Portanto, o trecho não atende ao que foi pedido no comando.
+b) INCORRETA – A conjunção "mas" estabelece oposição entre as informações apresentadas (conhecer o avô apenas por vídeo × mudança posterior). Trata-se de relação adversativa, e não condicional, logo não satisfaz o comando da questão.
+c) CORRETA – O conector "se" expressa hipótese: apenas na condição de Otávio treinar muito ele poderá alcançar o nível do avô. Assim, o trecho apresenta claramente a relação lógico-discursiva de condição exigida pelo item.
+d) INCORRETA – O conector "e" liga duas ações, somando informações (adição). Não há dependência entre elas nem ideia de condição; por isso, a alternativa não responde corretamente ao comando.

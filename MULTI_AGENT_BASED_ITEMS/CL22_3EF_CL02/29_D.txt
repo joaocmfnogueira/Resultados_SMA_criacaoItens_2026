@@ -1,0 +1,23 @@
+Questão 29
+Origem: 06_saida.json
+Competência Avaliada: Reconhecer, em textos de nível 1, relações lógico-discursivas de causalidade marcadas por conjunções mais usuais.
+Comando: Leia o texto.
+Texto de Suporte:
+Professora Ana,
+
+Estou escrevendo para contar que comecei a ler um livro muito interessante sobre animais da floresta. Estou gostando muito da leitura porque as histórias são divertidas e fáceis de entender. Ontem, li sobre uma onça que ajudou um coelho. Fiquei animado para ler mais, pois quero descobrir como termina a aventura deles. Também estou lendo todos os dias já que você pediu para praticarmos a leitura em casa. Minha irmã está lendo comigo, por isso estamos passando mais tempo juntos.
+
+Um abraço,
+Helena.
+Pergunta:
+De acordo com o texto, Helena está lendo todos os dias já que:
+Opções:
+-> a) a professora pediu que os alunos praticassem a leitura em casa.
+   b) Helena queria descobrir como terminava a aventura da onça e do coelho.
+   c) as histórias eram divertidas e fáceis de entender.
+   d) sua irmã lia com ela.
+Justificativas:
+a) GABARITO: No trecho "Também estou lendo todos os dias já que você pediu para praticarmos a leitura em casa", a conjunção "já que" introduz a causa: o pedido da professora. A alternativa (a) reescreve essa causa de forma fiel, mantendo tempo verbal no pretérito e sujeito na 3ª pessoa, em paralelismo com as demais opções.
+b) INCORRETA: Embora a curiosidade de Helena quanto ao fim da história seja mencionada, o texto não apresenta esse motivo como causa da leitura diária, mas como incentivo para continuar o mesmo livro.
+c) INCORRETA: O fato de as histórias serem divertidas e fáceis de entender explica o prazer da leitora, não a frequência diária. A causa solicitada pelo enunciado não está representada aqui.
+d) INCORRETA: O acompanhamento da irmã é consequência positiva do hábito de leitura, não a causa dele. Portanto, não atende à relação causal pedida.

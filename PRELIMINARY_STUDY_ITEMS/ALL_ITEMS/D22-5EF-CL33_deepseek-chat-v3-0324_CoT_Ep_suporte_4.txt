@@ -1,0 +1,19 @@
+Questão 1
+Competência Avaliada: Reconhecer, em textos de nível 2, relações lógico-discursivas de condição marcadas por conjunções mais usuais.
+Comando: Leia o texto abaixo com atenção:
+Texto de Suporte:
+O sono é essencial para a saúde. Muitos especialistas afirmam que, se uma pessoa dorme menos de seis horas por noite, pode ter problemas de concentração no dia seguinte. Porém, dormir mais de nove horas também não é ideal, pois pode indicar algum distúrbio. O ideal seria dormir entre sete e oito horas, desde que o sono seja de qualidade. Caso você sinta cansaço constante, mesmo dormindo o suficiente, é recomendável procurar um médico.
+Pergunta:
+Identifique no texto a frase que apresenta uma relação de condição usando a conjunção 'se'.
+Opções:
+   a) O sono é essencial para a saúde.
+-> b) Muitos especialistas afirmam que, se uma pessoa dorme menos de seis horas por noite, pode ter problemas de concentração no dia seguinte.
+   c) Porém, dormir mais de nove horas também não é ideal.
+   d) O ideal seria dormir entre sete e oito horas.
+Justificativas:
+a) Incorreta. A frase apresenta uma afirmação geral sem relação condicional.
+b) Correta. A frase contém a conjunção 'se' estabelecendo claramente uma condição para ter problemas de concentração.
+c) Incorreta. A conjunção 'porém' indica oposição, não condição.
+d) Incorreta. A frase apresenta uma recomendação sem relação condicional.
+
+--------------------------------------------------------------------------------

@@ -1,0 +1,23 @@
+Questão 10
+Origem: 02_saida.json
+Competência Avaliada: Reconhecer, em textos de nível 1, relações lógico-discursivas de causalidade marcadas por conjunções mais usuais.
+Comando: Leia o texto.
+Texto de Suporte:
+Querida Amanda,
+
+Estou muito feliz porque minhas férias começaram ontem. Minha mãe disse que poderei brincar no parque todos os dias, pois terminei o ano com boas notas. Hoje acordamos cedo, já que meu irmão queria ir jogar bola comigo. Depois do almoço, fomos tomar sorvete, por isso voltamos para casa bem contentes. Espero que suas férias estejam sendo divertidas também. Escreva contando suas novidades!
+
+Com carinho,
+Lucas
+Pergunta:
+Lucas poderá brincar no parque todos os dias, pois:
+Opções:
+-> a) Lucas terminou o ano com boas notas.
+   b) Lucas foi tomar sorvete depois do almoço.
+   c) Lucas acordou cedo para jogar bola com o irmão.
+   d) Lucas começou as férias ontem.
+Justificativas:
+a) GABARITO: O estudante que marcou esta alternativa identificou corretamente a relação causal solicitada no comando. O texto afirma explicitamente que "Minha mãe disse que poderei brincar no parque todos os dias, pois terminei o ano com boas notas", e a palavra "pois" introduz a causa apresentada nesta opção.
+b) INCORRETA: A informação consta no texto, mas trata-se de um fato posterior ao almoço, sem ligação causal com a permissão para brincar no parque. O uso do sujeito explícito mantém o paralelismo, porém não satisfaz a relação de causa exigida pela pergunta.
+c) INCORRETA: Embora a opção traga uma ação verdadeira do texto (acordar cedo para jogar bola com o irmão), essa não é a causa de Lucas poder brincar no parque todos os dias. O candidato confunde duas relações de causa distintas presentes na carta.
+d) INCORRETA: O início das férias é um marco temporal, não a razão apontada pela mãe para autorizar Lucas a brincar no parque todos os dias. A alternativa mantém o paralelismo sintático, mas não corresponde à causa indicada após "pois" no texto.

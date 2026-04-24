@@ -1,0 +1,23 @@
+Questão 39
+Origem: 08_saida.json
+Competência Avaliada: Reconhecer, em textos de nível 1, relações lógico-discursivas de causalidade marcadas por conjunções mais usuais.
+Comando: Leia o texto.
+Texto de Suporte:
+Querida Lara,
+
+Estou te escrevendo porque ontem ouvi uma música nova no rádio e lembrei de você. Sempre gostei de ouvir canções animadas, pois elas me deixam feliz e cheia de energia. Minha mãe fala que música é importante para relaxar, já que às vezes fico ansiosa antes das provas. Por isso, escutar músicas calmas à noite me ajuda a dormir melhor. Espero que você também tenha músicas favoritas e que elas tragam alegria para o seu dia.
+
+Com carinho,
+Ana.
+Pergunta:
+No texto, por que Ana gosta de ouvir canções animadas?
+Opções:
+-> a) Porque elas a deixam feliz e cheia de energia.
+   b) Porque ouviu uma música nova no rádio.
+   c) Porque sua mãe fala que música é importante para relaxar.
+   d) Porque escuta músicas calmas à noite para dormir melhor.
+Justificativas:
+a) GABARITO. Os estudantes que assinalaram esta alternativa identificaram corretamente a relação de causa e consequência estabelecida no texto pelo uso da conjunção 'pois'. Ana afirma: 'Sempre gostei de ouvir canções animadas, pois elas me deixam feliz e cheia de energia.' Ou seja, o motivo de ela gostar dessas músicas é exatamente porque elas a deixam feliz e cheia de energia.
+b) INCORRETA. A alternativa apresenta uma informação textual – Ana ouviu uma música nova no rádio – mas não expressa a causa de ela gostar de canções animadas, apenas apresenta um fato que levou Ana a lembrar da amiga Lara.
+c) INCORRETA. A alternativa traz um trecho presente no texto, mas esse motivo está relacionado à importância da música para relaxar e não explica a causa de Ana gostar de músicas animadas. O comentário da mãe serve para justificar outro momento da carta.
+d) INCORRETA. Este trecho também está presente na carta, mas conecta-se ao hábito de Ana ouvir músicas calmas à noite para dormir melhor, não à razão de ela gostar de canções animadas. Quem assinala esta opção demonstra dificuldade em reconhecer relações causais definidas por conjunções no texto.

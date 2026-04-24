@@ -1,0 +1,23 @@
+Questão 6
+Origem: 02_saida.json
+Competência Avaliada: Reconhecer, em textos de nível 1, relações lógico-discursivas de causalidade marcadas por conjunções mais usuais.
+Comando: Leia o texto.
+Texto de Suporte:
+Querida Amanda,
+
+Estou muito feliz porque minhas férias começaram ontem. Minha mãe disse que poderei brincar no parque todos os dias, pois terminei o ano com boas notas. Hoje acordamos cedo, já que meu irmão queria ir jogar bola comigo. Depois do almoço, fomos tomar sorvete, por isso voltamos para casa bem contentes. Espero que suas férias estejam sendo divertidas também. Escreva contando suas novidades!
+
+Com carinho,
+Lucas
+Pergunta:
+Por que a mãe de Lucas disse que ele poderá brincar no parque todos os dias?
+Opções:
+-> a) Porque ele terminou o ano com boas notas.
+   b) Porque o irmão dele queria jogar bola.
+   c) Porque eles tomaram sorvete.
+   d) Porque as férias começaram ontem.
+Justificativas:
+a) GABARITO: Os estudantes que assinalaram esta opção reconheceram corretamente, a partir da leitura do texto, que a causa (motivo) de Lucas poder brincar no parque todos os dias é o fato de ele ter terminado o ano com boas notas, conforme explicitado pela conjunção 'pois'. Esta alternativa evidencia compreensão da relação de causalidade marcada pelas conjunções no texto.
+b) INCORRETA: Os estudantes que escolherem essa alternativa confundem ações separadas no texto. O fato de acordarem cedo está ligado ao desejo do irmão de jogar bola, mas não tem relação causal com a autorização para brincar no parque. Portanto, não atende à relação de causa solicitada pelo comando.
+c) INCORRETA: Os estudantes que optarem por essa alternativa não perceberam que a ida para o sorvete é uma ação posterior e consequência de depois do almoço, não estando ligada à permissão de brincar no parque. Não se trata de uma relação de causa e efeito pertinente à questão.
+d) INCORRETA: Os estudantes que escolhem essa alternativa podem ter se confundido com o início das férias de Lucas, mas o texto deixa claro que a concessão para brincar no parque está atrelada ao bom desempenho escolar, e não ao simples início das férias. Por isso, esta opção não apresenta a relação de causalidade adequada.

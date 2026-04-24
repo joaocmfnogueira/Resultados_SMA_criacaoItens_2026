@@ -1,0 +1,28 @@
+Questão 27
+Origem: 06_saida.json
+Competência Avaliada: Reconhecer, relações lógico-discursivas de condição, marcadas por conjunções mais usuais em notícias.
+Comando: Leia o texto.
+Texto de Suporte:
+Cachorros participam de concurso de fantasias de Carnaval
+
+Um concurso de fantasias onde todos os participantes têm... quatro patas!
+
+Fantasia, originalidade e simpatia serão as categorias analisadas pelo júri. Entre os 30 inscritos, estão raças como husky siberiano, maltês, bernese e fox paulistinha.
+
+Os interessados inscreveram cães de pequeno, médio e grande porte. Os chamados cães de guarda, como pastor alemão e dobermann, por exemplo, não participam do desfile.
+
+Serão escolhidos nove animais, três por categoria, e os prêmios são coleiras e vales de compras e refeição.
+
+A plateia do desfile também poderá ser ocupada por cães de qualquer raça ou porte, desde que estejam de coleiras.
+Pergunta:
+Qual trecho do texto indica uma ideia de condição?
+Opções:
+-> a) A plateia do desfile também poderá ser ocupada por cães de qualquer raça ou porte, desde que estejam de coleiras.
+   b) Serão escolhidos nove animais, três por categoria, e os prêmios são coleiras e vales de compras e refeição.
+   c) Os interessados inscreveram cães de pequeno, médio e grande porte no concurso de fantasias de Carnaval.
+   d) Os chamados cães de guarda, como pastor alemão e dobermann, por exemplo, não participam do desfile.
+Justificativas:
+a) GABARITO. Os estudantes que assinalaram esta alternativa conseguiram reconhecer o trecho marcado pela relação lógico-discursiva de condição, indicada pela expressão 'desde que'. Essa conjunção condicional mostra que cães de qualquer raça ou porte só poderão ocupar a plateia se estiverem de coleira, estabelecendo uma condição para a participação.
+b) INCORRETA. Os estudantes que assinalaram esta alternativa provavelmente reconheceram a conjunção 'e', que aparece para marcar uma relação de adição entre as informações sobre os prêmios. A frase não indica condição para a escolha dos animais ou para a premiação, apenas soma informações.
+c) INCORRETA. Esta alternativa apresenta uma frase sem conjunção que introduza uma relação lógico-discursiva de condição. O trecho apenas descreve quais tipos de cães foram inscritos no concurso, e o 'e' em destaque marca adição, não condição.
+d) INCORRETA. Nessa alternativa, a conjunção 'como' introduz uma explicação ou exemplificação das raças consideradas cães de guarda, não indicando uma condição, mas sim esclarecendo quais cães não participam do desfile.

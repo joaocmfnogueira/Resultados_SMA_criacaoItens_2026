@@ -1,0 +1,29 @@
+Questão 38
+Origem: 08_saida.json
+Competência Avaliada: Reconhecer, relações lógico-discursivas de condição, marcadas por conjunções mais usuais em notícias.
+Comando: Leia o texto.
+Texto de Suporte:
+Parque Simba Safári, em São Paulo, realiza experiência inédita no mundo
+Leoas "adotam" 6 filhotes em parque
+
+Uma nova família se formou ontem no Simba Safári de São Paulo: duas leoas do parque, Elza e Luanda, "adotaram" seis filhotes de leão. A "adoção", feita por meio de uma experiência ainda inédita no mundo, foi concluída ontem depois de um processo que já durava dois meses.
+O diretor do Simba, Chico Galvão, afirma que normalmente as leoas que não tiveram filhos recentemente não aceitam cuidar de filhotes de outras leoas.
+
+Além disso, segundo ele, seria muito difícil condicionar os leõezinhos ao novo ambiente sem que eles fossem adotados, já que para isso seria necessário fechar o parque por dois meses. "Mas, neste caso, apesar de ter sido uma adoção forçada, funcionou tudo perfeitamente", afirma Galvão.
+
+Os leõezinhos, dois machos e quatro fêmeas com idades entre 25 e 40 dias, foram trazidos pelo Simba de Minas Gerais há pouco mais de dois meses. O Simba resolveu "importá-los" depois de ter constatado que as leoas do parque não poderiam procriar, por causa de um tratamento hormonal que fez com que ficassem permanentemente no cio.
+Agora, os filhotes se juntarão aos outros 28 leões do Simba. Os leões não podem ser vistos todos juntos, porque vivem separados em dois grupos, que não se adaptam um ao outro.
+
+https://www1.folha.uol.com.br/fsp/cotidian/ff26089923.htm <Acessado em 30/10/2025>
+Pergunta:
+Qual trecho do texto indica uma ideia de condição?
+Opções:
+-> a) Adaptar os filhotes ao novo ambiente seria difícil sem que fossem adotados
+   b) O parque decidiu importá-los depois de constatar que as leoas não poderiam procriar
+   c) Os leões não podem ser vistos juntos porque vivem separados em dois grupos
+   d) Mas, neste caso, apesar de ter sido forçada, a adoção funcionou perfeitamente
+Justificativas:
+a) GABARITO. O trecho traz a locução "sem que", cuja função é apresentar uma condição: a dificuldade de adaptação só se concretiza caso a adoção não ocorra. Logo, há relação condicional entre as duas orações.
+b) INCORRETA. A expressão "depois de" introduz relação temporal de posterioridade, não de condição. Portanto, não atende ao comando da questão.
+c) INCORRETA. A conjunção "porque" estabelece relação de causa/explicação, diferente de condição, motivo pelo qual esta opção não é a correta.
+d) INCORRETA. O período inicia com "Mas" e contém "apesar de", marcadores de oposição/concessão, e não de condição. Assim, não satisfaz o que foi solicitado.

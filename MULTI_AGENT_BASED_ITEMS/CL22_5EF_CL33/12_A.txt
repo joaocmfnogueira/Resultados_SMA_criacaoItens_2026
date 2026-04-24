@@ -1,0 +1,28 @@
+Questão 12
+Origem: 03_saida.json
+Competência Avaliada: Reconhecer, relações lógico-discursivas de condição, marcadas por conjunções mais usuais em notícias.
+Comando: Leia o texto.
+Texto de Suporte:
+Neto do Pelé fica famoso com golaço que caiu na internet
+
+Octávio brinca com a bola desde que era bebê. Aos três anos, começou a jogar futebol na escolinha do Santos. Agora, com 13, arrebenta no time sub-13 do Paraná Clube. Parece a história de um craque? Pois é: o golaço que Octávio marcou em um jogo foi parar no YouTube (assista aqui) e fez o menino ficar famoso.
+
+No caso de Octávio, o futebol é questão de família. O garoto é neto do Pelé, "o melhor dos melhores jogadores do mundo", diz ele. Mas, até pouco tempo, o menino só conhecia o avô por vídeo. Apenas em 2009 os dois craques se encontraram pela primeira vez: "Foi magnífico", conta o menino.
+
+Para ser um jogador tão bom quanto o avô, Octávio treina três vezes por semana. E até nas horas livres joga futebol com os amigos no campinho ou na escola.
+
+Ele ainda acha tempo para estudar e fazer as lições. "Meu pai fala que primeiro vem a escola, depois o futebol", conta. Dar entrevista também entrou no dia a dia do menino, que nem esperava ficar famoso. Os comentários sobre o vídeo chegaram até a escola de Octávio. "Meus amigos disseram que, na hora em que eu fiz o gol, 'baixou' o Pelé em mim", diz orgulhoso.
+
+https://www1.folha.uol.com.br/folhinha/899228-neto-do-pele-fica-famoso-com-golaco-que-caiu-na-internet.shtml <Acessado em 17/10/2025>
+Pergunta:
+Qual trecho do texto indica uma ideia de condição?
+Opções:
+   a) Para ser um jogador tão bom quanto o avô, Octávio treina três vezes por semana.
+   b) Mas, até pouco tempo, Octávio só conhecia o avô por vídeo.
+   c) Quando termina a escola, vem o futebol.
+-> d) Se Octávio quiser ser tão bom quanto o avô, ele precisa treinar bastante.
+Justificativas:
+a) INCORRETA. A expressão "para ser" introduz finalidade (objetivo), não condição; indica o propósito de treinar.
+b) INCORRETA. O conectivo "mas" estabelece contraste/oposição entre ideias, sem condicionalidade.
+c) INCORRETA. "Quando" é conjunção temporal, marcando relação de tempo, não de condição.
+d) CORRETA. A conjunção "se" apresenta uma situação hipotética da qual depende o resultado, configurando relação de condição.

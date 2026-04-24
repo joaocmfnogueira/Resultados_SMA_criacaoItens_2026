@@ -1,0 +1,24 @@
+Questão 11
+Origem: 03_saida.json
+Competência Avaliada: Reconhecer, em textos de nível 1, relações lógico-discursivas de causalidade marcadas por conjunções mais usuais.
+Comando: Leia o texto.
+Texto de Suporte:
+João,
+
+Estou escrevendo para contar uma novidade. Ontem, fui ao estádio com meu pai e minha irmã. Nós torcemos muito, pois era um jogo importante para o nosso time.
+Levei uma bandeira nova, porque queria mostrar para todos o quanto gosto do nosso clube. No fim, ganhamos o jogo e comemoramos bastante. Já estou ansioso para ir ao próximo jogo, por isso combinei com meu pai de sempre irmos juntos quando der.
+
+Um grande abraço,
+Pedro.
+Pergunta:
+Por que Pedro levou uma bandeira nova ao estádio?
+Opções:
+-> a) Porque queria mostrar para todos o quanto gosta do clube.
+   b) Porque ganhou o jogo e comemorou bastante.
+   c) Porque foi ao estádio com seu pai e irmã.
+   d) Porque combinou de ir a outros jogos com seu pai.
+Justificativas:
+a) GABARITO — Os estudantes que assinalaram esta alternativa identificaram corretamente a relação de causalidade no texto, pois Pedro afirma claramente: 'Levei uma bandeira nova, porque queria mostrar para todos o quanto gosto do nosso clube.' A conjunção 'porque' está presente introduzindo a causa da ação de levar a bandeira.
+b) INCORRETA — Esta alternativa apresenta uma consequência do jogo (ganhar e comemorar), e não a razão de Pedro ter levado a bandeira. Não corresponde à relação de causa e efeito pedida no comando.
+c) INCORRETA — Embora ir ao estádio com o pai e a irmã faça parte do relato da carta, não é o motivo apresentado para levar a bandeira nova, não estabelecendo a relação causal solicitada.
+d) INCORRETA — Combinar de ir a outros jogos com o pai é uma ação mencionada no texto, mas ocorre depois de Pedro ter levado a bandeira nova ao estádio. Não se trata da causa de ele ter levado a bandeira, mostrando desconhecimento da relação lógica destacada pelo uso da conjunção causal.

@@ -1,0 +1,22 @@
+Questão 4
+Origem: 01_saida.json
+Competência Avaliada: Reconhecer, em textos de nível 2, relações lógico-discursivas de condição, marcadas por conjunções mais usuais, em notícias.
+Comando: Leia o texto.
+Texto de Suporte:
+Bichos da Semana
+
+A guaxinim Pumpkin (Abóbora em inglês) encontrou um lar e bons amigos depois de cair de uma árvore nas Bahamas. Ela foi levada para a casa de Rosie Kamp, que acabou entregando o animal à filha, Laura. Pumpkin foi logo fazendo amizade com os cachorros Oreo e Toffee e se tornou parte da família. Laura afirma que entenderá se o melhor para Pumpkin for retornar à natureza. Enquanto isso, a amizade entre os animais já conquistou 112 mil fãs nas redes sociais.
+
+Disponível em: http://noticias.uol.com.br/album/2013/02/07/veja-amizades-improvaveis-mas-muito-fofas-entre-animais.htm. Acesso em: 4 mar. 2016.
+Pergunta:
+Qual trecho do texto indica uma ideia de condição?
+Opções:
+   a) Pumpkin fez amizade com os cachorros Oreo e Toffee **e** virou parte da família.
+-> b) Laura entenderá **se** for melhor Pumpkin voltar à natureza.
+   c) Foi levada à casa de Rosie Kamp, **que** a entregou à filha, Laura.
+   d) **Enquanto** isso, a amizade dos animais conquistou 112 mil fãs na internet.
+Justificativas:
+a) INCORRETA – O conector em destaque (**e**) estabelece uma relação de adição entre as ações (fazer amizade e virar parte da família). Não há dependência condicional; portanto, o fragmento não atende ao comando.
+b) CORRETA – A conjunção **se** introduz uma oração subordinada condicional: a aceitação de Laura ocorrerá somente caso seja melhor para Pumpkin voltar à natureza. Assim, o trecho manifesta explicitamente a relação lógico-discursiva de condição solicitada.
+c) INCORRETA – O conector **que** atua como pronome relativo/complementador, acrescentando informação explicativa sobre a ação anterior. A relação é explicativa, não condicional.
+d) INCORRETA – O termo **Enquanto** marca simultaneidade temporal, indicando que a conquista de fãs ocorre ao mesmo tempo que outras ações. Trata-se de relação temporal, não de condição.

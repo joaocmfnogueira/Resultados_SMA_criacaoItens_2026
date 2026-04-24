@@ -1,0 +1,23 @@
+Questão 7
+Origem: 02_saida.json
+Competência Avaliada: Reconhecer, em textos de nível 1, relações lógico-discursivas de causalidade marcadas por conjunções mais usuais.
+Comando: Leia o texto.
+Texto de Suporte:
+Querida Amanda,
+
+Estou muito feliz porque minhas férias começaram ontem. Minha mãe disse que poderei brincar no parque todos os dias, pois terminei o ano com boas notas. Hoje acordamos cedo, já que meu irmão queria ir jogar bola comigo. Depois do almoço, fomos tomar sorvete, por isso voltamos para casa bem contentes. Espero que suas férias estejam sendo divertidas também. Escreva contando suas novidades!
+
+Com carinho,
+Lucas
+Pergunta:
+Por que a mãe de Lucas disse que ele poderá brincar no parque todos os dias?
+Opções:
+-> a) Porque ele terminou o ano com boas notas.
+   b) Porque suas férias começaram ontem.
+   c) Porque seu irmão queria ir jogar bola.
+   d) Porque voltaram para casa bem contentes.
+Justificativas:
+a) GABARITO. Os estudantes que marcaram esta alternativa identificaram corretamente a relação de causa e consequência marcada pela conjunção ‘pois’ no trecho: ‘Minha mãe disse que poderei brincar no parque todos os dias, pois terminei o ano com boas notas’. A ação de poder brincar é consequência de ter terminado o ano com boas notas.
+b) INCORRETA. Apesar de suas férias terem começado, esse não é o motivo pelo qual a mãe permite que ele brinque no parque. A relação de causalidade explicitada no texto não associa o início das férias a essa permissão.
+c) INCORRETA. Essa alternativa apresenta outra informação do texto, de que acordaram cedo pois o irmão queria jogar bola, mas não está relacionada à permissão para brincar no parque. Os alunos que escolheram essa alternativa podem confundir diferentes relações de causa e efeito no texto.
+d) INCORRETA. O fato de voltarem contentes está associado a terem tomado sorvete e não tem qualquer relação causal com a permissão para brincar no parque. Os estudantes que assinalaram esta opção não reconheceram a função das conjunções de causalidade envolvidas no contexto da pergunta.

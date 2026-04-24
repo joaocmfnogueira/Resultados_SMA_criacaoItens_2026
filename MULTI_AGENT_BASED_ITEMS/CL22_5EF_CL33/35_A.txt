@@ -1,0 +1,34 @@
+Questão 35
+Origem: 07_saida.json
+Competência Avaliada: Reconhecer, relações lógico-discursivas de condição, marcadas por conjunções mais usuais em notícias.
+Comando: Leia o texto.
+Texto de Suporte:
+Por engano, pai reserva casa minúscula para férias da família
+
+Hilário, o vídeo em que os filhos caem na gargalhada ao se depararem com a propriedade viralizou e foi visto mais de 30 milhões de vezes no TikTok
+
+Ah, as férias! Nada como relaxar em um lugar diferente e confortável, junto de quem você mais ama, para recarregar as energias. A menos que você tenha de dormir em pé! Só assim para as quatro pessoas e os dois cães de grande porte da família de Kylie Keefe se acomodarem na casa, em Adondiracks, ao norte de Nova York, que seu pai reservou por engano, pelo Airbnb.
+
+A família viajou para aproveitar os dias de folga, mas, ao chegar no endereço que o aplicativo de reserva mostrava, todos caíram na gargalhada. Kylie Keefe, uma das filhas, filmou o momento em que eles se depararam com a casa minúscula, ao som de risos incontroláveis. “Então, meu pai alugou este Airbnb para quatro pessoas e dois cachorros por algumas noites”, escreveu a jovem, que mal consegue respirar, de tanto rir, ao lado do irmão, Aidan, quando eles percebem o erro do pai.
+
+"Aidan, até seu carro é maior do que isso", Kylie diz. "Como ele esperava que nós ficássemos nisso?", diverte-se.
+
+A madrasta de Kylie, Erika, compartilhou outro vídeo, com um passeio pela casa, mostrando uma cama de casal no mezanino e duas "cadeiras dobráveis" que deveriam se transformar em camas.
+
+A empresa ACL Tiny Houses, responsável pela casa, confirmou, mais tarde, que o pai de Kylie, sem querer, reservou uma casa para duas pessoas em vez de quatro. No entanto, a descrição dizia que "acomoda três pessoas, confortavelmente". Há também duas outras pequenas casas nas proximidades, disponíveis para reserva, na mesma propriedade.
+
+Nos comentários, as pessoas também fizeram piadas. "Essa é a casinha do cachorro", escreveu um internauta, enquanto outra disse: "Tenho certeza de que papai está se gabando do bom negócio que fez".
+
+Disponível em https://revistacrescer.globo.com/Educacao-Comportamento/noticia/2022/08/por-engano-pai-reserva-casa-minuscula-para-ferias-da-familia.html Acesso em: 27.10.2025
+Pergunta:
+Qual trecho do texto indica uma ideia de condição?
+Opções:
+-> a) A família conseguiria acomodar quatro pessoas e dois cães na casa minúscula somente se todos aceitassem dormir em pé.
+   b) A família viajou para curtir alguns dias de folga, mas, ao chegar ao endereço indicado, todos riram ao ver o tamanho da casa.
+   c) O anúncio informava que o imóvel acomodava três pessoas confortavelmente; no entanto, a reserva contemplava quatro integrantes e dois cães de grande porte.
+   d) Havia ainda duas outras pequenas casas na mesma propriedade, e ambas estavam disponíveis para reserva pelo aplicativo.
+Justificativas:
+a) GABARITO. O conector "somente se" introduz uma condição: a acomodação na casa minúscula depende do fato de todos aceitarem dormir em pé.
+b) INCORRETA. O período utiliza o conector adversativo "mas", estabelecendo oposição entre expectativa e realidade, não condição.
+c) INCORRETA. A expressão "no entanto" marca contraste entre o prometido e o realizado, configurando relação de oposição, não de condição.
+d) INCORRETA. O trecho emprega a conjunção aditiva "e" para somar informações, sem indicar relação condicional.

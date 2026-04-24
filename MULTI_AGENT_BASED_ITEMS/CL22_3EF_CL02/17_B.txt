@@ -1,0 +1,24 @@
+Questão 17
+Origem: 04_saida.json
+Competência Avaliada: Reconhecer, em textos de nível 1, relações lógico-discursivas de causalidade marcadas por conjunções mais usuais.
+Comando: Leia o texto.
+Texto de Suporte:
+Amiga Ana,
+
+Fiquei muito feliz porque você veio ao meu aniversário. Eu estava com saudade, pois fazia muito tempo que não nos víamos. A festa foi divertida porque todos os meus amigos estavam lá. Ganhei muitos presentes, já que convidei bastante gente. Espero que tenha gostado do bolo, pois escolhi o seu sabor preferido. Da próxima vez, quero brincar mais com você, porque adoro sua companhia.
+
+Um abraço,
+
+Roberta
+Pergunta:
+Segundo o texto, Roberta ficou muito feliz porque:
+Opções:
+-> a) porque eu recebi sua visita no meu aniversário.
+   b) porque eu ganhei muitos presentes.
+   c) porque eu revi todos os meus amigos na festa.
+   d) porque eu servi um bolo do seu sabor preferido.
+Justificativas:
+a) GABARITO. A alternativa retoma, com sujeito e tempo verbal padronizados, a ideia expressa no trecho "Fiquei muito feliz porque você veio ao meu aniversário", identificando corretamente a causa da felicidade de Roberta.
+b) INCORRETA. O texto realmente menciona que Roberta ganhou muitos presentes, mas esse fato está relacionado ao número de convidados e não é apresentado como motivo direto de sua felicidade inicial.
+c) INCORRETA. O reencontro com todos os amigos é citado para explicar por que a festa foi divertida, não para justificar o sentimento de felicidade de Roberta logo no início da carta.
+d) INCORRETA. O bolo de sabor preferido é mencionado como algo que Roberta esperava que Ana apreciasse, sem ser apontado como causa da felicidade descrita.

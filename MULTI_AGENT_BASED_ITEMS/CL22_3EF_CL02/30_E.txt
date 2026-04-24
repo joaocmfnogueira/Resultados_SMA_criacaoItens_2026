@@ -1,0 +1,23 @@
+Questão 30
+Origem: 06_saida.json
+Competência Avaliada: Reconhecer, em textos de nível 1, relações lógico-discursivas de causalidade marcadas por conjunções mais usuais.
+Comando: Leia o texto.
+Texto de Suporte:
+Professora Ana,
+
+Estou escrevendo para contar que comecei a ler um livro muito interessante sobre animais da floresta. Estou gostando muito da leitura porque as histórias são divertidas e fáceis de entender. Ontem, li sobre uma onça que ajudou um coelho. Fiquei animado para ler mais, pois quero descobrir como termina a aventura deles. Também estou lendo todos os dias já que você pediu para praticarmos a leitura em casa. Minha irmã está lendo comigo, por isso estamos passando mais tempo juntos.
+
+Um abraço,
+Helena.
+Pergunta:
+Segundo o texto de Helena, ela está lendo todos os dias já que:
+Opções:
+-> a) Pede para praticar a leitura em casa.
+   b) São divertidas e fáceis de entender.
+   c) Quer saber o final da aventura.
+   d) Está passando mais tempo com a irmã.
+Justificativas:
+a) GABARITO. O estudante que escolhe esta opção demonstra ter identificado corretamente a relação de causalidade expressa pela conjunção 'já que', que indica o motivo pelo qual Helena lê todos os dias: a professora pede para praticar a leitura em casa.
+b) INCORRETA. Embora Helena afirme que as histórias são divertidas e fáceis de entender, esse é o motivo de ela gostar da leitura, e não de lê-la diariamente. Quem seleciona esta alternativa confunde as diferentes relações de causa apresentadas no texto.
+c) INCORRETA. A vontade de descobrir o final da aventura explica a animação de Helena para continuar lendo, mas não a razão para fazê-lo todos os dias. O estudante que marca esta opção confunde objetivo com causa.
+d) INCORRETA. Passar mais tempo com a irmã é uma consequência de ler junto com ela, não a causa principal para a leitura diária. Quem escolhe esta alternativa não reconhece a relação de causa explicitada pela conjunção 'já que'.

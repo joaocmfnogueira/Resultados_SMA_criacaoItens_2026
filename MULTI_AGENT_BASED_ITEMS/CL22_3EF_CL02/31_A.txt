@@ -1,0 +1,23 @@
+Questão 31
+Origem: 07_saida.json
+Competência Avaliada: Reconhecer, em textos de nível 1, relações lógico-discursivas de causalidade marcadas por conjunções mais usuais.
+Comando: Leia o texto.
+Texto de Suporte:
+Oi Henrique,
+
+Estou muito feliz porque comecei as aulas de natação esta semana. Minha mãe me matriculou pois o médico recomendou que eu praticasse um esporte. No começo eu estava com medo, já que nunca tinha entrado em uma piscina tão grande. O professor é muito legal e ajuda todos os alunos. Agora já estou animado para ir às aulas, por isso acordo cedo todos os dias. Espero que um dia você possa nadar comigo!
+
+Um abraço,
+Joana.
+Pergunta:
+De acordo com esse texto, Joana começou as aulas de natação porque:
+Opções:
+-> a) a recomendação do médico para que ela praticasse um esporte.
+   b) a ajuda de um professor muito legal durante as aulas.
+   c) o desejo de que Henrique pudesse nadar com ela um dia.
+   d) o hábito de acordar cedo todos os dias para as aulas.
+Justificativas:
+a) GABARITO: Os estudantes que assinalaram esta alternativa reconheceram corretamente a relação de causalidade demandada pelo comando do item. No texto, há o uso da conjunção 'pois', que liga o motivo do início das aulas de natação à orientação do médico para praticar um esporte, demonstrando que esta recomendação foi a causa de Joana ter começado as aulas.
+b) INCORRETA: Quem escolheu esta alternativa recorreu a uma informação verdadeira do texto (o professor é muito legal e ajuda os alunos), mas ela não constitui o motivo que levou Joana a iniciar a natação. Revela dificuldade em distinguir entre características positivas da experiência e a causa efetiva apresentada.
+c) INCORRETA: Embora Joana manifeste no texto o desejo de que Henrique nade com ela, esse fato não é apresentado como a causa de ela ter iniciado as aulas. Selecionar esta alternativa indica que o estudante não identificou corretamente o conector causal 'pois', que introduz a razão verdadeira.
+d) INCORRETA: O hábito de acordar cedo é consequência do entusiasmo de Joana após começar as aulas, e não a causa de tê-las iniciado. Quem marca esta alternativa inverte a relação de causa e efeito apresentada no texto.

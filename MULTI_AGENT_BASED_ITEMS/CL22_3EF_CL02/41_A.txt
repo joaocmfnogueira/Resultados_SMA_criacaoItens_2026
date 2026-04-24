@@ -1,0 +1,24 @@
+Questão 41
+Origem: 09_saida.json
+Competência Avaliada: Reconhecer, em textos de nível 1, relações lógico-discursivas de causalidade marcadas por conjunções mais usuais.
+Comando: Leia o texto.
+Texto de Suporte:
+Primo Mateus,
+
+Espero que você esteja bem! Estou te escrevendo porque descobri um jogo de videogame incrível e tenho jogado todos os dias depois da lição de casa. O jogo é muito divertido, pois dá para criar personagens e construir mundos diferentes. Ontem, consegui passar de fase porque aprendi um truque novo. Já que você gosta de desafios, acho que vai adorar jogar comigo. Por isso, pensei em te convidar para jogar online no próximo sábado à tarde. Vai ser legal, pois podemos conversar pelo chat do jogo e formar uma equipe. Me avise se você puder participar!
+
+Um abraço,
+
+Pedro.
+Pergunta:
+De acordo com o texto, por que Pedro está convidando Mateus para jogar online?
+Opções:
+-> a) Porque Mateus gosta de desafios.
+   b) Porque Pedro precisa de ajuda para passar de fase.
+   c) Porque o jogo só funciona aos sábados.
+   d) Porque Pedro ganhou o jogo de presente.
+Justificativas:
+a) GABARITO. O estudante que assinala esta alternativa reconhece corretamente a relação de causalidade apresentada no texto pelo uso da conjunção 'já que': 'Já que você gosta de desafios, acho que vai adorar jogar comigo.' Pedro convida Mateus porque sabe que o primo aprecia desafios, o que motiva o convite.
+b) INCORRETA. O estudante que opta por esta alternativa confunde as ações do texto. Embora Pedro tenha mencionado passar de fase, em nenhum momento ele afirma convidar Mateus para obter ajuda para passar de fase, não sendo esse o motivo do convite.
+c) INCORRETA. Esta alternativa apresenta uma informação que não está presente no texto. Não foi dito que o jogo só funciona aos sábados; a escolha do dia foi uma sugestão para jogarem juntos, sem expressar relação de causalidade.
+d) INCORRETA. O estudante que escolhe essa alternativa mobiliza um dado ausente no texto: Pedro não menciona ter ganhado o jogo de presente e isso não é apresentado como razão para convidar o primo, o que demonstra falha na compreensão da relação de causalidade mediada por conjunções.

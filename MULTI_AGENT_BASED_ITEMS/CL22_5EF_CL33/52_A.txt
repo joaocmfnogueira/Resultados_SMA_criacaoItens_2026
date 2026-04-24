@@ -1,0 +1,22 @@
+Questão 2
+Origem: 01_saida.json
+Competência Avaliada: Reconhecer, em textos de nível 2, relações lógico-discursivas de condição marcadas por conjunções mais usuais.
+Comando: Leia o texto.
+Texto de Suporte:
+Bichos da Semana
+
+A guaxinim Pumpkin (Abóbora em inglês) encontrou um lar e bons amigos depois de cair de uma árvore nas Bahamas. Ela foi levada para a casa de Rosie Kamp, que acabou entregando o animal à filha, Laura. Pumpkin foi logo fazendo amizade com os cachorros Oreo e Toffee e se tornou parte da família. Laura afirma que entrou em contato com os órgãos responsáveis por animais selvagens e que entenderá se o melhor para Pumpkin for retornar à natureza. Enquanto isso, a amizade entre os animais já conquistou 112 mil fãs nas redes sociais.
+
+Disponível em: http://noticias.uol.com.br/album/2013/02/07/veja-amizades-improvaveis-mas-muito-fofas-entre-animais.htm. Acesso em: 4 mar. 2016.
+Pergunta:
+Qual trecho do texto indica uma ideia de condição?
+Opções:
+   a) Ela foi levada para a casa de Rosie Kamp, **que** acabou entregando o animal à filha.
+-> b) Laura entenderá **se** o melhor para Pumpkin for retornar à natureza.
+   c) Pumpkin fez amizade com Oreo e Toffee **e** se tornou parte da família.
+   d) **Enquanto** isso, a amizade entre os animais já conquistou 112 mil fãs nas redes sociais.
+Justificativas:
+a) INCORRETA – O conector **que** introduz uma oração explicativa, acrescentando informação sobre a ação anterior. Trata-se de relação de explicação, não de condição.
+b) GABARITO – A conjunção **se** explicita hipótese: Laura somente aceitará a volta de Pumpkin à natureza caso (condição) isso seja o melhor para o animal.
+c) INCORRETA – O conector **e** estabelece adição, somando duas ações (fazer amizade e tornar-se parte da família), sem expressar dependência condicional.
+d) INCORRETA – O conector **enquanto** indica simultaneidade temporal (‘ao mesmo tempo’), não estabelece condição para que a amizade conquiste fãs.

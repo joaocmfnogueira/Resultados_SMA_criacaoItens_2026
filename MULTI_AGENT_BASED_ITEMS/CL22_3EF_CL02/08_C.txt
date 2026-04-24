@@ -1,0 +1,23 @@
+Questão 8
+Origem: 02_saida.json
+Competência Avaliada: Reconhecer, em textos de nível 1, relações lógico-discursivas de causalidade marcadas por conjunções mais usuais.
+Comando: Leia o texto.
+Texto de Suporte:
+Querida Amanda,
+
+Estou muito feliz porque minhas férias começaram ontem. Minha mãe disse que poderei brincar no parque todos os dias, pois terminei o ano com boas notas. Hoje acordamos cedo, já que meu irmão queria ir jogar bola comigo. Depois do almoço, fomos tomar sorvete, por isso voltamos para casa bem contentes. Espero que suas férias estejam sendo divertidas também. Escreva contando suas novidades!
+
+Com carinho,
+Lucas
+Pergunta:
+De acordo com o texto, Lucas poderá brincar no parque todos os dias porque:
+Opções:
+-> a) terminou o ano com boas notas.
+   b) voltou para casa bem contente.
+   c) acordou cedo para jogar bola com o irmão.
+   d) tomou sorvete depois do almoço.
+Justificativas:
+a) GABARITO. Os estudantes que assinalaram esta alternativa compreenderam corretamente a relação de causa e consequência, reconhecendo que Lucas poderá brincar no parque todos os dias porque terminou o ano com boas notas, conforme a conjunção causal 'pois' explicitada no texto.
+b) INCORRETA. Os estudantes que escolheram esta opção confundiram a relação de causa e efeito. A frase 'voltamos para casa bem contentes' é consequência de terem tomado sorvete, não da permissão para brincar no parque.
+c) INCORRETA. Esta informação é verdadeira no texto, mas diz respeito ao motivo de acordarem cedo, e não ao motivo de Lucas poder brincar no parque. O comando pede a causa da permissão para brincar no parque.
+d) INCORRETA. Quem marcou esta alternativa identificou uma ação do texto sem relação causal com a permissão de brincar no parque. Tomar sorvete ocorreu após o almoço e está ligado ao estado de contentamento, não à permissão dada pela mãe.

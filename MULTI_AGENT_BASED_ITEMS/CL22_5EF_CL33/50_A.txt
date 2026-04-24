@@ -1,0 +1,36 @@
+Questão 50
+Origem: 10_saida.json
+Competência Avaliada: Reconhecer, relações lógico-discursivas de condição, marcadas por conjunções mais usuais em notícias.
+Comando: Leia o texto.
+Texto de Suporte:
+Panda dá à luz a gêmeos em zoológico de Viena
+
+Nascimento dos filhotes ocorreu pelo método natural, sem a intervenção dos funcionários
+
+VIENA - O zoológico de Viena confirmou nesta terça-feira, 16, que a panda fêmea que no domingo deu à luz a um filhote, teve na realidade gêmeos. "As (primeiras) fotografias mostravam apenas um animal", explicou o zoológico do parque de Schönbrunn em um comunicado.
+
+O nascimento dos pandas aconteceu pelo método natural, sem que funcionários do local tivessem que intervir. A mãe e seus filhotes estão sob observação apenas por uma câmera, segundo a nota. "Na sexta-feira foi o primeiro dia em que os cuidadores puderam ver os dois animais", disse a diretora do zoológico, Dagmar Schratter.
+
+PUBLICIDADE
+
+Muitas vezes a panda fêmea dá à luz a dois filhotes, mas é comum que a ela cuide apenas do mais forte. Segundo os funcionários do local, os pequenos pandas parecem estar se desenvolvendo muito bem em seus primeiros dias de vida, e a mãe - chamada Yang Yang - está muito tranquila.
+
+A porcentagem de sobrevivência para os ursos pandas está em torno de 50% para as primeiras semanas. Por isso, de acordo com a tradição chinesa, só se atribui um nome ao filhote depois que este completa 100 dias de vida.
+
+Yang Yang já tinha outros três filhotes: Fu Long, nascido em 2007, Fu Hu, em 2010, e Fu Bao, em 2013.
+
+Dentro de quatro meses, os pandas recém-nascidos irão pela primeira vez ao local do zoológico acessível aos visitantes. Até lá, será possível acompanhar o crescimento dos animais apenas por fotos e vídeos publicados nas redes sociais. / EFE
+
+Disponível em https://www.estadao.com.br/internacional/radar-global/panda-femea-da-a-luz-a-gemeos-em-zoologico-de-viena/?srsltid=AfmBOoqL9WQCUAJYgRO4nLNa_oQOdNbecbwIsAE96IdsIWR13Izr77nl Acesso em: 31.10.2025
+Pergunta:
+Qual trecho do texto indica uma ideia de condição?
+Opções:
+-> a) Por isso, de acordo com a tradição chinesa, só **se** atribui um nome ao filhote depois que ele completa 100 dias de vida.
+   b) Muitas vezes a panda fêmea dá à luz dois filhotes, **mas** costuma cuidar apenas do que nasce mais forte.
+   c) O nascimento dos pandas ocorreu pelo método natural, **sem que** os funcionários precisassem intervir em nenhuma etapa do processo de parto.
+   d) Segundo os funcionários do local, os filhotes vêm se desenvolvendo bem **e** a mãe permanece tranquila durante todo o período.
+Justificativas:
+a) GABARITO: Os estudantes que assinalaram esta alternativa reconheceram a relação lógico-discursiva de condição, marcada pela conjunção '**se**' na expressão "só se atribui um nome ao filhote depois que ele completa 100 dias de vida". O ato de nomear depende da condição de o filhote completar 100 dias.
+b) INCORRETA: A conjunção '**mas**' introduz oposição/adversidade, contrapondo o fato de a panda dar à luz dois filhotes ao de cuidar apenas do mais forte, sem estabelecer relação condicional.
+c) INCORRETA: O conector '**sem que**' constrói ideia de modo/concessão, indicando que o parto se deu naturalmente, sem intervenção dos funcionários. Não há dependência condicional entre as ações.
+d) INCORRETA: A conjunção '**e**' simplesmente soma informações (desenvolvimento dos filhotes + tranquilidade da mãe), não exprimindo condição alguma entre elas.

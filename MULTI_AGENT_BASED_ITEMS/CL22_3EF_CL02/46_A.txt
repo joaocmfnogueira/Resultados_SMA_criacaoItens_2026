@@ -1,0 +1,23 @@
+Questão 46
+Origem: 10_saida.json
+Competência Avaliada: Reconhecer, em textos de nível 1, relações lógico-discursivas de causalidade marcadas por conjunções mais usuais.
+Comando: Leia o texto.
+Texto de Suporte:
+Pai e mãe,
+
+Escrevo para contar como foi divertido o passeio ao parque com minha turma. Todos estavam animados porque era a primeira vez que visitávamos o parque juntos. Levamos sanduíches e suco, pois sabíamos que iríamos passar a manhã inteira lá. Brincamos de correr, jogar bola e andamos de bicicleta. Os professores pediram para levarmos boné e protetor solar, já que o dia estava muito ensolarado. Por isso, ninguém se queimou e todos aproveitaram bastante. Quando voltamos para a escola, estávamos cansados, mas muito felizes.
+
+Um abraço,
+Afonso.
+Pergunta:
+Segundo o texto, os professores pediram para os alunos levarem boné e protetor solar, já que:
+Opções:
+-> a) o dia estava muito ensolarado.
+   b) eles brincaram de correr e jogar bola.
+   c) era a primeira vez que visitavam o parque juntos.
+   d) todos estavam animados para o passeio.
+Justificativas:
+a) GABARITO. Os estudantes que assinalaram esta alternativa identificaram corretamente a relação de causa e consequência demandada no comando do item. O comando pede o motivo de os professores solicitarem boné e protetor solar, e o texto explicita que 'os professores pediram para levarmos boné e protetor solar, já que o dia estava muito ensolarado', marcando a relação causal com a conjunção 'já que'. Assim, a alternativa apresenta a causa explícita mencionada no texto.
+b) INCORRETA. Os estudantes que escolheram esta alternativa reconheceram uma atividade feita durante o passeio, mas ela não é o motivo pelo qual os professores pediram os itens mencionados. Brincar de correr e jogar bola é uma ação descrita no texto, mas não se relaciona causalmente à orientação dos professores.
+c) INCORRETA. Nesta resposta, os estudantes podem ter se confundido com outra informação do texto. Embora a visita ao parque tenha sido uma novidade para o grupo, essa informação não explica por que foi pedido boné e protetor solar. Não apresenta a relação de causa e efeito solicitada no comando.
+d) INCORRETA. A animação dos alunos para o passeio é uma informação presente no texto, porém não há relação causal entre estarem animados e a necessidade de levarem boné e protetor solar. Esta alternativa não estabelece o vínculo lógico-discursivo de causalidade requerido pela questão.

@@ -1,0 +1,24 @@
+Questão 21
+Origem: 05_saida.json
+Competência Avaliada: Reconhecer, em textos de nível 1, relações lógico-discursivas de causalidade marcadas por conjunções mais usuais.
+Comando: Leia o texto.
+Texto de Suporte:
+Querida vovó,
+
+Recebi o bolo que a senhora mandou e fiquei muito feliz, porque eu estava com muita saudade do seu sabor. Comi um pedaço assim que cheguei da escola, pois estava com fome e o cheiro era delicioso. Minha mãe também gostou muito e disse que estava muito fofinho, já que a senhora sempre capricha nas receitas. Por isso, vou pedir para a senhora ensinar para mim quando vier nos visitar. Espero que esteja tudo bem com a senhora aí. Mando um beijo grande e um abraço apertado.
+
+Com carinho,
+
+Mayra.
+Pergunta:
+Mayra ficou muito feliz porque:
+Opções:
+-> a) estava com muita saudade do sabor do bolo da vovó.
+   b) comeu um pedaço assim que chegou da escola.
+   c) achou que o bolo estava fofinho.
+   d) pediu para a vovó ensinar a receita.
+Justificativas:
+a) GABARITO. Os estudantes que assinalaram essa alternativa demonstram compreensão adequada da relação de causa e consequência expressa no texto, marcada pela conjunção 'porque'. Mayra ficou muito feliz porque estava com muita saudade do sabor do bolo da vovó, conforme está explicitamente escrito na carta.
+b) INCORRETA. Quem escolheu essa resposta confundiu uma ação que Mayra realizou (comer o bolo quando chegou da escola) com o motivo pelo qual ela ficou feliz, sem perceber a diferença entre causa e consequência estabelecida pela conjunção causal 'porque'.
+c) INCORRETA. Esta alternativa faz referência a uma avaliação sobre o bolo — que estava fofinho —, mas essa informação é trazida pela mãe de Mayra e não corresponde à causa da felicidade da garota indicada no início da carta.
+d) INCORRETA. A resposta apresenta uma ação posterior (Mayra pediu para a vovó ensinar a receita), não o motivo da felicidade expresso no início da carta, indicando que o estudante não reconheceu corretamente a relação causal marcada pelo 'porque'.

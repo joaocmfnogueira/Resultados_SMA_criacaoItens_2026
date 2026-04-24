@@ -1,0 +1,27 @@
+Questão 1
+Competência Avaliada: Reconhecer, em textos de nível 2, relações lógico-discursivas de condição marcadas por conjunções mais usuais.
+Comando: Leia o texto.
+Texto de Suporte:
+O que significa de fato ter um 'bom' sono?
+
+É comum ouvir que os adultos precisam de sete a nove horas de sono por noite. Mas dormir bem é mais do que o número de horas - é também uma questão de qualidade.
+
+Para a maioria das pessoas, uma boa noite dormida significa conseguir pegar no sono logo após ir para a cama (em cerca de 30 minutos), ficar sem acordar por longos períodos e despertar, de manhã, sentindo-se descansado e pronto para o dia.
+
+Você não deve se sentir excessivamente sonolento durante o dia, especialmente se estiver dormindo regularmente pelo menos sete horas de sono reparador por noite (essa é uma regra geral).
+
+Mas, se você perceber que fisicamente cansado, precisando cochilar regularmente e, ainda assim, não se sentindo revigorado, pode valer a pena entrar em contato com seu clínico geral pois há uma série de possíveis motivos para isso.
+Pergunta:
+Qual das alternativas abaixo apresenta uma relação de condição marcada por conjunção no texto?
+Opções:
+   a) Mas dormir bem é mais do que o número de horas - é também uma questão de qualidade.
+-> b) Você não deve se sentir excessivamente sonolento durante o dia, especialmente se estiver dormindo regularmente pelo menos sete horas de sono reparador por noite.
+   c) Para a maioria das pessoas, uma boa noite dormida significa conseguir pegar no sono logo após ir para a cama.
+   d) É comum ouvir que os adultos precisam de sete a nove horas de sono por noite.
+Justificativas:
+a) Incorreta. A conjunção 'mas' indica oposição, não condição.
+b) Correta. A conjunção 'se' estabelece claramente uma relação de condição entre dormir bem e não sentir sonolência.
+c) Incorreta. Apresenta uma definição sem relações condicionais.
+d) Incorreta. Trata-se de uma informação geral sem relações lógico-discursivas.
+
+--------------------------------------------------------------------------------

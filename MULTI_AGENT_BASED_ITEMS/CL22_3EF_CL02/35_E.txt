@@ -1,0 +1,23 @@
+Questão 35
+Origem: 07_saida.json
+Competência Avaliada: Reconhecer, em textos de nível 1, relações lógico-discursivas de causalidade marcadas por conjunções mais usuais.
+Comando: Leia o texto.
+Texto de Suporte:
+Oi Henrique,
+
+Estou muito feliz porque comecei as aulas de natação esta semana. Minha mãe me matriculou pois o médico recomendou que eu praticasse um esporte. No começo eu estava com medo, já que nunca tinha entrado em uma piscina tão grande. O professor é muito legal e ajuda todos os alunos. Agora já estou animado para ir às aulas, por isso acordo cedo todos os dias. Espero que um dia você possa nadar comigo!
+
+Um abraço,
+Joana.
+Pergunta:
+Segundo o texto, a mãe da Joana a matriculou na natação porque:
+Opções:
+-> a) porque ela recebeu recomendação do médico.
+   b) porque ela queria aprender um novo esporte.
+   c) porque ela queria acordar cedo todos os dias.
+   d) porque ela achou o professor muito legal.
+Justificativas:
+a) GABARITO. A alternativa apresenta a causa explicitada no texto, marcada pela conjunção causal "pois": "Minha mãe me matriculou pois o médico recomendou que eu praticasse um esporte." O aluno que a escolhe reconhece corretamente a relação de causalidade solicitada.
+b) INCORRETA. O texto não menciona que o desejo de aprender um novo esporte tenha motivado a mãe de Joana. Trata-se de uma razão verossímil, porém ausente no texto. Quem marca essa opção não identifica a causa verdadeira enunciada pela conjunção causal.
+c) INCORRETA. O fato de Joana acordar cedo deriva de sua animação após já estar matriculada, configurando consequência, não causa. Selecionar esta alternativa indica confusão entre efeito e motivo.
+d) INCORRETA. A característica de o professor ser "muito legal" aparece somente depois da matrícula, não como motivo para ela. O estudante que opta por esta resposta não diferencia informações posteriores da razão inicial explicitada pelo conector causal.

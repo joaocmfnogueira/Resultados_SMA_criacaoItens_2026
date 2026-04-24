@@ -1,0 +1,26 @@
+Questão 13
+Origem: 03_saida.json
+Competência Avaliada: Reconhecer, relações lógico-discursivas de condição, marcadas por conjunções mais usuais em notícias.
+Comando: Leia o texto.
+Texto de Suporte:
+Neto do Pelé fica famoso com golaço que caiu na internet
+
+Octávio brinca com a bola desde que era bebê. Aos três anos, começou a jogar futebol na escolinha do Santos. Agora, com 13, arrebenta no time sub-13 do Paraná Clube. Parece a história de um craque? Pois é: o golaço que Octávio marcou em um jogo foi parar no YouTube (assista aqui) e fez o menino ficar famoso.
+
+No caso de Octávio, o futebol é questão de família. O garoto é neto do Pelé, "o melhor dos melhores jogadores do mundo", diz ele. Mas, há até pouco tempo, o menino só conhecia o avô por vídeo. Apenas em 2009 os dois craques se encontraram pela primeira vez: "Foi magnífico", conta o menino.
+
+Para ser um jogador tão bom quanto o avô, Octávio treina três vezes por semana. E até nas horas livres joga futebol com os amigos no campinho ou na escola.
+
+Ele ainda acha tempo para estudar e fazer as lições. "Meu pai fala que primeiro vem a escola, depois o futebol", conta. Dar entrevista também entrou no dia a dia do menino, que nem esperava ficar famoso. Os comentários sobre o vídeo chegaram até a escola de Octávio. "Meus amigos disseram que, na hora em que eu fiz o gol, 'baixou' o Pelé em mim", diz orgulhoso.
+Pergunta:
+Qual trecho do texto indica uma ideia de oposição?
+Opções:
+   a) E até nas horas livres joga futebol com os amigos no campinho ou na escola.
+-> b) Mas, há até pouco tempo, o menino só conhecia o avô por vídeo.
+   c) Para ser um jogador tão bom quanto o avô, Octávio treina três vezes por semana.
+   d) Desde que era bebê, Octávio brinca com a bola.
+Justificativas:
+a) INCORRETA. O conectivo "e" introduz ideia de adição, somando a prática nas horas livres às demais atividades de Octávio, sem contrapor informações.
+b) CORRETA. O conectivo "mas" estabelece relação de oposição entre as ideias: apesar de ser neto de Pelé, Octávio só conhecia o avô por vídeo até pouco tempo atrás.
+c) INCORRETA. O conector "para" introduz finalidade (objetivo) e não oposição entre ideias.
+d) INCORRETA. A locução conjuntiva "desde que" marca relação temporal, indicando o início de uma ação, sem oposição.

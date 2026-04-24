@@ -1,0 +1,30 @@
+Questão 16
+Origem: 04_saida.json
+Competência Avaliada: Reconhecer, relações lógico-discursivas de condição, marcadas por conjunções mais usuais em notícias.
+Comando: Leia o texto.
+Texto de Suporte:
+Aos 11 anos, garota se torna a mais nova a disputar o US Open de golfe
+
+A americana Lucy Li tem apenas 11 anos, mas já conseguiu um feito de gente grande: ela venceu um torneio classificatório na última segunda-feira (19) e será a competidora mais nova da história a disputar o US Women's Open, um dos principais campeonatos de golfe do mundo.
+
+Se vencer o torneio classificatório, a jogadora disputará o US Women's Open.
+
+A garota terminou o torneio em primeiro lugar, com sete tacadas a menos que a segunda colocada. No golfe, o objetivo é fazer com que a bola seja colocada nos 18 buracos do campo com o menor número possível de tacadas.
+
+Lucy bateu a marca da também americana Lexi Thompson, até então a mais nova a participar do US Open. Em 2007, quando tinha 12 anos, Lexi também se classificou para o campeonato.
+
+O US Open de golfe começará no dia 19 de junho em Pinehurst, na Carolina do Norte, e reunirá as principais jogadoras do esporte.
+
+https://www1.folha.uol.com.br/folhinha/2014/05/1457203-aos-11-anos-garota-se-torna-a-mais-nova-a-disputar-o-us-open-de-golfe.shtml <Acessado em 17/10/2025>
+Pergunta:
+Qual trecho do texto indica uma ideia de condição?
+Opções:
+   a) Para alcançar o objetivo do jogo, o jogador deve colocar a bola nos 18 buracos com o menor número de tacadas.
+   b) Quando tinha 12 anos, Lexi Thompson também se classificou para o campeonato.
+-> c) Se vencer o torneio classificatório, a jogadora disputará o US Women's Open.
+   d) Embora Lucy Li tenha apenas 11 anos, já conseguiu um feito de gente grande.
+Justificativas:
+a) INCORRETA. O conector 'para' introduz uma relação de finalidade, indicando objetivo, não condição.
+b) INCORRETA. O termo 'quando' estabelece relação temporal, situando o momento do fato, sem dependência condicional.
+c) CORRETA. A conjunção 'se' marca explicitamente uma condição: somente caso a jogadora vença o torneio classificatório é que disputará o US Women's Open.
+d) INCORRETA. A conjunção 'embora' introduz relação concessiva (contraste), não condicional.

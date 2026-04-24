@@ -1,0 +1,23 @@
+Questão 48
+Origem: 10_saida.json
+Competência Avaliada: Reconhecer, em textos de nível 1, relações lógico-discursivas de causalidade marcadas por conjunções mais usuais.
+Comando: Leia o texto.
+Texto de Suporte:
+Pai e mãe,
+
+Escrevo para contar como foi divertido o passeio ao parque com minha turma. Todos estavam animados porque era a primeira vez que visitávamos o parque juntos. Levamos sanduíches e suco, pois sabíamos que iríamos passar a manhã inteira lá. Brincamos de correr, jogar bola e andamos de bicicleta. Os professores pediram para levarmos boné e protetor solar, já que o dia estava muito ensolarado. Por isso, ninguém se queimou e todos aproveitaram bastante. Quando voltamos para a escola, estávamos cansados, mas muito felizes.
+
+Um abraço,
+Afonso.
+Pergunta:
+No texto, ninguém se queimou durante o passeio, porque:
+Opções:
+   a) Estavam animados para visitar o parque.
+-> b) Levaram boné e protetor solar.
+   c) Levaram sanduíches e suco.
+   d) Voltaram para a escola cansados e felizes.
+Justificativas:
+a) INCORRETA. Esta alternativa apresenta um fato relacionado à animação do grupo, mas não está ligado à causa de ninguém ter se queimado. O entusiasmo não previne queimaduras solares.
+b) GABARITO. A alternativa identifica corretamente a causa expressa no texto: levaram boné e protetor solar; por isso, ninguém se queimou.
+c) INCORRETA. Levar alimentos está relacionado ao tempo que passariam no parque, não à proteção contra o sol. Não há vínculo causal com a ausência de queimaduras.
+d) INCORRETA. O retorno cansado e feliz descreve o resultado do passeio, não explica por que não houve queimaduras solares. Falta relação de causa e efeito com o fato questionado.

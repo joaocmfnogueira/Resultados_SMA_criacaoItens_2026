@@ -1,0 +1,30 @@
+Questão 25
+Origem: 05_saida.json
+Competência Avaliada: Reconhecer, relações lógico-discursivas de condição, marcadas por conjunções mais usuais em notícias.
+Comando: Leia o texto.
+Texto de Suporte:
+Piquenique ao ar livre convida crianças a brincarem com água em São Paulo
+
+Roteiro da Semana No próximo sábado (14), crianças poderão levar suas roupas de banho e protetor solar para a praça Adolpho Bloch, em São Paulo, e participar de um piquenique diferente.
+
+O evento, realizado pela Casa do Brincar, convida o público a se divertir em brincadeiras com água ao ar livre.
+
+A programação é gratuita e não é necessário fazer inscrição.
+
+A recomendação é que todos levem algo para comer e uma toalha. Quem quiser também pode levar uma garrafinha para ajudar nas brincadeiras.
+
+A programação é gratuita e não é necessário fazer inscrição. Caso chova, a data será remarcada.
+
+https://www1.folha.uol.com.br/folhinha/2013/12/1383484-piquenique-ao-ar-livre-em-sao-paulo-convida-criancas-a-brincarem-com-agua.shtml <Acessado em 17/10/2025>
+Pergunta:
+Qual trecho do texto indica uma ideia de condição?
+Opções:
+   a) A programação é gratuita e não é necessário fazer inscrição.
+-> b) Caso chova, a data será remarcada.
+   c) A recomendação é que todos levem algo para comer e uma toalha.
+   d) No próximo sábado (14), crianças poderão levar suas roupas de banho e protetor solar para a praça Adolpho Bloch e participar de um piquenique diferente.
+Justificativas:
+a) INCORRETA. O conector "e" expressa apenas adição entre as informações (programação gratuita + ausência de inscrição), sem indicar uma condição.
+b) CORRETA. O conector "caso" introduz uma oração condicional: se chover (condição), então a data será remarcada (consequência).
+c) INCORRETA. O segmento contém o conector "e", que acrescenta itens a serem levados, configurando relação de adição, não de condição.
+d) INCORRETA. O conector "e" une duas ações (levar itens + participar do piquenique), exprimindo adição; não há relação condicional.

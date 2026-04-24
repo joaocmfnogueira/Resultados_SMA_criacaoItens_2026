@@ -1,0 +1,24 @@
+Questão 42
+Origem: 09_saida.json
+Competência Avaliada: Reconhecer, em textos de nível 1, relações lógico-discursivas de causalidade marcadas por conjunções mais usuais.
+Comando: Leia o texto.
+Texto de Suporte:
+Primo Mateus,
+
+Espero que você esteja bem! Estou te escrevendo porque descobri um jogo de videogame incrível e tenho jogado todos os dias depois da lição de casa. O jogo é muito divertido, pois dá para criar personagens e construir mundos diferentes. Ontem, consegui passar de fase porque aprendi um truque novo. Já que você gosta de desafios, acho que vai adorar jogar comigo. Por isso, pensei em te convidar para jogar online no próximo sábado à tarde. Vai ser legal, pois podemos conversar pelo chat do jogo e formar uma equipe. Me avise se você puder participar!
+
+Um abraço,
+
+Pedro.
+Pergunta:
+Segundo o texto, Pedro pensou em convidar o primo para jogar online porque:
+Opções:
+-> a) porque gosta de desafios.
+   b) porque gosta de conversar pelo chat do jogo.
+   c) porque gosta de aprender truques novos no jogo.
+   d) porque gosta de fazer a lição de casa antes de jogar.
+Justificativas:
+a) GABARITO: A alternativa apresenta exatamente a causa expressa no texto pela conjunção “já que”: Pedro pensou no convite porque o primo gosta de desafios. O aluno que escolhe essa alternativa identifica corretamente a relação causal solicitada.
+b) INCORRETA: Conversar pelo chat é uma consequência esperada da partida, não o motivo do convite. Portanto, não atende ao comando que pede a causa.
+c) INCORRETA: Gostar de aprender truques novos explicaria um interesse pessoal pelo jogo, mas não corresponde ao motivo indicado para convidar o primo. A informação não está ligada à relação causal exigida.
+d) INCORRETA: Gostar de fazer a lição de casa antes de jogar descreve a rotina de Pedro, mas não justifica o convite ao primo, revelando interpretação inadequada da causa solicitada.

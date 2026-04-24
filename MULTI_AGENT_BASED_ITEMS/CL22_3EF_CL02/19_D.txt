@@ -1,0 +1,24 @@
+Questão 19
+Origem: 04_saida.json
+Competência Avaliada: Reconhecer, em textos de nível 1, relações lógico-discursivas de causalidade marcadas por conjunções mais usuais.
+Comando: Leia o texto.
+Texto de Suporte:
+Amiga Ana,
+
+Fiquei muito feliz porque você veio ao meu aniversário. Eu estava com saudade, pois fazia muito tempo que não nos víamos. A festa foi divertida porque todos os meus amigos estavam lá. Ganhei muitos presentes, já que convidei bastante gente. Espero que tenha gostado do bolo, pois escolhi o seu sabor preferido. Da próxima vez, quero brincar mais com você, porque adoro sua companhia.
+
+Um abraço,
+
+Roberta
+Pergunta:
+De acordo com o texto, Roberta ficou muito feliz porque:
+Opções:
+-> a) você foi ao aniversário dela.
+   b) você deu muitos presentes a ela.
+   c) você escolheu o bolo preferido dela.
+   d) você quis brincar mais com ela.
+Justificativas:
+a) GABARITO: Esta alternativa retoma, em forma condensada e com o mesmo sujeito "você", a causa indicada no texto: "Fiquei muito feliz porque você veio ao meu aniversário". O candidato que a marcar reconhece corretamente a relação causal introduzida por "porque".
+b) INCORRETA: Embora Roberta mencione que ganhou muitos presentes, o texto não atribui essa ação a Ana nem a apresenta como causa de sua felicidade; trata-se de um desvio de foco que confunde efeito com causa.
+c) INCORRETA: A escolha do sabor do bolo foi feita por Roberta, não por Ana. Além disso, o trecho não afirma que tal escolha motivou a felicidade expressa na carta, revelando leitura incompleta da relação causa-efeito solicitada.
+d) INCORRETA: O desejo de brincar mais refere-se a um momento futuro e não figura como causa já realizada da alegria de Roberta. Selecioná-la demonstra confusão entre intenção futura e acontecimento passado que explica a emoção narrada.

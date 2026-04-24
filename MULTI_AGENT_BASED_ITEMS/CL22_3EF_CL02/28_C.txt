@@ -1,0 +1,23 @@
+Questão 28
+Origem: 06_saida.json
+Competência Avaliada: Reconhecer, em textos de nível 1, relações lógico-discursivas de causalidade marcadas por conjunções mais usuais.
+Comando: Leia o texto.
+Texto de Suporte:
+Professora Ana,
+
+Estou escrevendo para contar que comecei a ler um livro muito interessante sobre animais da floresta. Estou gostando muito da leitura porque as histórias são divertidas e fáceis de entender. Ontem, li sobre uma onça que ajudou um coelho. Fiquei animado para ler mais, pois quero descobrir como termina a aventura deles. Também estou lendo todos os dias já que você pediu para praticarmos a leitura em casa. Minha irmã está lendo comigo, por isso estamos passando mais tempo juntos.
+
+Um abraço,
+Helena.
+Pergunta:
+Helena está lendo todos os dias, já que:
+Opções:
+-> a) você pediu para praticarem a leitura em casa.
+   b) as histórias são fáceis de entender.
+   c) Helena quer descobrir como termina a aventura.
+   d) sua irmã está lendo com ela.
+Justificativas:
+a) GABARITO. Os estudantes que assinalaram esta alternativa reconheceram corretamente a relação de causalidade demandada pelo comando do item. Com base na conjunção 'já que', Helena afirma que está lendo todos os dias porque a professora Ana pediu para praticarem a leitura em casa. Portanto, identificaram que a ação é motivada pelo pedido da professora, como solicitado.
+b) INCORRETA. Os estudantes que optaram por esta alternativa mobilizaram uma informação que está presente no texto ('as histórias são divertidas e fáceis de entender'), mas ela explica por que Helena gosta da leitura, não a causa de ela estar lendo todos os dias. Assim, não respondem corretamente à relação de causa e consequência exigida pelo comando.
+c) INCORRETA. Esta alternativa baseia-se em outra oração do texto, em que Helena afirma que quer descobrir como termina a aventura. Contudo, esse desejo explica o motivo de sua animação para continuar lendo, e não a razão para estar lendo todos os dias, segundo o comando. Demonstra uma leitura parcial do texto.
+d) INCORRETA. Embora o texto indique que sua irmã está lendo com ela, isto aparece como uma consequência – estão passando mais tempo juntas –, e não como o motivo principal para estar lendo todos os dias. Portanto, quem assinalou essa alternativa não identificou a relação causal correta solicitada na questão.

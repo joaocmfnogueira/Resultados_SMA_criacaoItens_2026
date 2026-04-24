@@ -1,0 +1,23 @@
+Questão 37
+Origem: 08_saida.json
+Competência Avaliada: Reconhecer, em textos de nível 1, relações lógico-discursivas de causalidade marcadas por conjunções mais usuais.
+Comando: Leia o texto.
+Texto de Suporte:
+Querida Lara,
+
+Estou te escrevendo porque ontem ouvi uma música nova no rádio e lembrei de você. Sempre gostei de ouvir canções animadas, pois elas me deixam feliz e cheia de energia. Minha mãe fala que música é importante para relaxar, já que às vezes fico ansiosa antes das provas. Por isso, escutar músicas calmas à noite me ajuda a dormir melhor. Espero que você também tenha músicas favoritas e que elas tragam alegria para o seu dia.
+
+Com carinho,
+Ana.
+Pergunta:
+Segundo o texto, Ana escuta músicas calmas à noite porque:
+Opções:
+-> a) ela consegue dormir melhor.
+   b) ela gosta de canções animadas.
+   c) ela lembrou de Lara ontem.
+   d) ela fica ansiosa antes das provas.
+Justificativas:
+a) GABARITO. Os estudantes que escolheram esta alternativa identificaram corretamente a relação de causalidade explicitamente marcada no trecho: “Por isso, escutar músicas calmas à noite me ajuda a dormir melhor.” A opção retoma a ideia causal solicitada, evidenciando a importância da conjunção ‘por isso’ na explicação do motivo.
+b) INCORRETA. A alternativa apresenta uma informação verdadeira do texto (o gosto de Ana por canções animadas), mas não corresponde ao motivo de escutar músicas calmas à noite, portanto não atende à relação causal pedida no comando.
+c) INCORRETA. Refere-se a outra causa mencionada na carta (ela lembrou de Lara porque ouviu uma música no rádio), mas não explica por que Ana escuta músicas calmas à noite.
+d) INCORRETA. Embora a alternativa contenha uma informação verídica do texto (Ana fica ansiosa antes das provas), esse dado não é apresentado como causa direta para ela escutar músicas calmas à noite. Assim, não satisfaz à relação causal solicitada no comando.

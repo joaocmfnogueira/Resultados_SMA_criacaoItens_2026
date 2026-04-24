@@ -1,0 +1,24 @@
+Questão 1
+Origem: 01_saida.json
+Competência Avaliada: Reconhecer, em textos de nível 1, relações lógico-discursivas de causalidade marcadas por conjunções mais usuais.
+Comando: Leia o texto.
+Texto de Suporte:
+Carol,
+
+Estou escrevendo para contar o que quero ser quando crescer. Decidi ser veterinária porque amo cuidar dos animais. Sempre que vejo um cachorro ou um gato na rua, fico preocupada se estão bem. Já que gosto muito de ajudar, acho que essa profissão combina comigo. Também penso em estudar bastante, pois sei que preciso de muito conhecimento para cuidar dos bichinhos. Meu pai disse que vai me apoiar, por isso estou muito animada!
+Escreva contando o que você quer ser também.
+
+Com carinho,
+Luiza.
+Pergunta:
+De acordo com a carta, Luiza decidiu ser veterinária porque:
+Opções:
+-> a) ama cuidar dos animais.
+   b) vai receber apoio do pai.
+   c) pensa em estudar bastante.
+   d) acha que vai combinar com ela.
+Justificativas:
+a) GABARITO. Os estudantes que assinalaram esta alternativa identificaram corretamente a relação de causalidade marcada no texto pelo uso da conjunção 'porque', construindo a lógica de que Luiza decidiu ser veterinária porque ama cuidar dos animais. Trata-se da razão diretamente apresentada para sua escolha, evidenciando o reconhecimento da relação causal solicitada.
+b) INCORRETA. Os estudantes que marcaram esta alternativa compreenderam que o pai vai apoiar Luiza, conforme citado no texto, mas este fator é uma consequência e não a causa de sua decisão de ser veterinária. Assim, não atende à relação causal pedida no comando.
+c) INCORRETA. Embora Luiza também comente que pretende estudar bastante para ser veterinária, este é um plano para alcançar sua meta, não o motivo que a levou a escolhê-la. Portanto, não expressa a causa principal de sua decisão, conforme solicitado.
+d) INCORRETA. Aqui o estudante pode ter se confundido com a frase 'acho que essa profissão combina comigo', mas, no texto, isso aparece como uma justificativa complementar, não como o motivo fundamental da decisão, que foi, de fato, o amor dela pelos animais.

@@ -1,0 +1,25 @@
+Questão 15
+Origem: 02_saida.json
+Competência Avaliada: Reconhecer, em textos de nível 2, relações lógico-discursivas de condição marcadas por conjunções mais usuais.
+Comando: Leia o texto.
+Texto de Suporte:
+NETO DO PELÉ FICA FAMOSO COM GOLAÇO QUE CAIU NA INTERNET
+
+Octávio brinca com a bola desde que era bebê. Aos três anos, começou a jogar futebol na escolinha do Santos. Agora, com 13, arrebenta no time sub-13 do Paraná Clube. Parece a história de um craque? Pois é: o golaço que Octávio marcou em um jogo foi parar no YouTube e fez o menino ficar famoso.
+No caso de Octávio, o futebol é questão de família. O garoto é neto do Pelé, "o melhor dos melhores jogadores do mundo", diz ele. Mas, há até pouco tempo, o menino só conhecia o avô por vídeo. Apenas em 2009 os dois craques se encontraram pela primeira vez.
+**Se** Otávio quiser ser tão bom quanto o avô, precisará treinar muito. Ele treina três vezes por semana e até nas horas livres joga futebol com os amigos no campinho ou na escola.
+Ele ainda acha tempo para estudar e fazer as lições. "Meu pai fala que primeiro vem a escola, depois o futebol", conta. Dar entrevista também entrou no dia a dia do menino, que nem esperava ficar famoso. Os comentários sobre o vídeo chegaram até a escola de Octávio. "Meus amigos disseram que, na hora em que eu fiz o gol, 'baixou' o Pelé em mim", diz orgulhoso.
+
+https://www1.folha.uol.com.br/folhinha/899228-neto-do-pele-fica-famoso-com-golaco-que-caiu-na-internet.shtml
+Pergunta:
+Qual trecho do texto indica uma ideia de condição?
+Opções:
+   a) Octávio brinca com a bola **desde que** era bebê.
+   b) **Mas**, há até pouco tempo, o menino só conhecia o avô por vídeo.
+-> c) **Se** Otávio quiser ser tão bom quanto o avô, precisará treinar muito.
+   d) Ele treina três vezes por semana **e** joga futebol nas horas livres.
+Justificativas:
+a) INCORRETA – O conector destacado (**desde que**) introduz informação temporal (quando a ação começou), não estabelecendo dependência entre uma condição e um resultado.
+b) INCORRETA – A conjunção destacada (**mas**) expressa oposição entre o que se poderia esperar de um neto de Pelé e a realidade descrita. Não há relação condicional.
+c) CORRETA – A conjunção destacada (**Se**) subordina a segunda oração a uma hipótese: Otávio só alcançará o nível do avô caso (condição) treine muito. O trecho exemplifica claramente a relação lógico-discursiva de condição solicitada.
+d) INCORRETA – O conector destacado (**e**) apenas adiciona uma ação à anterior (treinar + jogar), sem implicar que uma dependa da outra para ocorrer; portanto não há valor condicional.
