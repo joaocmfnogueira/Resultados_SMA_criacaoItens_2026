@@ -1,1 +1,2 @@
-# Resultados_SMA_criacaoItens_2026
+# Results from the paper: Evaluating the Efficacy of AI Agents inProducing High-Quality Portuguese Literacy Items for High-Stake Assessments
+
